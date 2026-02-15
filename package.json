@@ -6,10 +6,15 @@
   "scripts": {
     "start": "node scraper.js"
   },
-  "keywords": ["scraper", "puppeteer", "sgx"],
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "sgx"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "pdf-parse": "^2.4.5",
     "puppeteer": "^23.11.1"
   }
 }
