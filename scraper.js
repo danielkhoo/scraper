@@ -1,21 +1,33 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const https = require('https');
+const pdfParse = require('pdf-parse');
 
-// Function to fetch PDF as markdown from Jina.ai
-async function fetchPdfMarkdown(pdfUrl) {
-  const jinaUrl = `https://r.jina.ai/${pdfUrl}`;
+// Function to download PDF and extract text using pdf-parse
+async function fetchPdfText(pdfUrl) {
   return new Promise((resolve, reject) => {
-    https.get(jinaUrl, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
+    https.get(pdfUrl, (res) => {
+      // Follow redirects
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        return fetchPdfText(res.headers.location).then(resolve).catch(reject);
+      }
+      const chunks = [];
+      res.on('data', chunk => chunks.push(chunk));
+      res.on('end', async () => {
+        try {
+          const buffer = Buffer.concat(chunks);
+          const data = await pdfParse(buffer);
+          resolve(data.text);
+        } catch (err) {
+          reject(err);
+        }
+      });
     }).on('error', reject);
   });
 }
 
-// Function to parse transaction data from markdown
-function parseTransactionData(markdown) {
+// Function to parse transaction data from raw PDF text
+function parseTransactionData(text) {
   // Initialize all fields to null
   const data = {
     formType: null,
@@ -30,54 +42,100 @@ function parseTransactionData(markdown) {
   };
 
   try {
-    // Identify form type - look for "FORM 1" or "FORM 3" in the markdown
-    if (markdown.match(/FORM\s*1/i)) {
+    // Identify form type - look for "FORM 1", "FORM 3", or "FORM 6"
+    if (text.match(/FORM\s*1/i)) {
       data.formType = 'Form 1';
-    } else if (markdown.match(/FORM\s*3/i)) {
+    } else if (text.match(/FORM\s*3/i)) {
       data.formType = 'Form 3';
+    } else if (text.match(/FORM\s*6/i)) {
+      data.formType = 'Form 6';
     }
 
-    // Transaction date - look for date patterns (DD-Mon-YYYY)
-    const dateMatch = markdown.match(/(\d{1,2}-[A-Za-z]{3}-\d{4})/);
-    if (dateMatch) data.transactionDate = dateMatch[1];
-
-    // Number of shares acquired/disposed
-    const sharesMatch = markdown.match(/(\d+(?:,\d{3})*)\s+(?:ordinary\s+)?shares?\s+(?:acquired|disposed|vested)/i);
-    if (sharesMatch) {
-      data.numberOfShares = parseInt(sharesMatch[1].replace(/,/g, ''));
+    // Transaction date - look for date patterns (DD-Mon-YYYY or DD Mon YYYY)
+    const dateMatch = text.match(/(\d{1,2}[-\s][A-Za-z]{3,9}[-\s]\d{4})/);
+    if (dateMatch) {
+      // Normalize to DD-Mon-YYYY format
+      const normalized = dateMatch[1].replace(/\s+/g, '-');
+      // Abbreviate month if full name
+      const parts = normalized.split('-');
+      if (parts[1] && parts[1].length > 3) {
+        parts[1] = parts[1].substring(0, 3);
+      }
+      data.transactionDate = parts.join('-');
     }
 
-    // Type of securities - lowercase for standardization
-    const typeMatch = markdown.match(/(ordinary|voting|share awards?|units?)\s+(?:voting\s+)?(?:shares?|units?)/i);
-    if (typeMatch) data.securitiesType = typeMatch[0].toLowerCase();
-
-    // Consideration amount - improved regex to handle $ or S$ and "received by" patterns
-    // Look for patterns like "$2,198,895.03", "S$653,608.97 received", or "Nil"
-    const considerationPattern = /(?:consideration|received|paid)[^:]*?:\s*(?:S\$|USD\s*\$|\$)?\s*([\d,]+(?:\.\d{2})?)|Nil/i;
-    const considerationMatch = markdown.match(considerationPattern);
-    if (considerationMatch) {
-      if (considerationMatch[0].includes('Nil')) {
-        data.consideration = 'Nil';
-      } else if (considerationMatch[1]) {
-        data.consideration = considerationMatch[1].replace(/,/g, '');
+    // Number of shares - multiple patterns for raw PDF text
+    // Pattern 1: "No. of shares/units" followed by a number (common in table rows)
+    // Pattern 2: NUMBER shares acquired/disposed
+    // Pattern 3: Look for numbers near "acquired", "disposed", "vested"
+    const sharesPatterns = [
+      /(?:No\.?\s*of\s+(?:ordinary\s+)?(?:shares|units))\s*[:\-]?\s*(\d+(?:[,\s]\d{3})*)/i,
+      /(\d+(?:[,\s]\d{3})*)\s+(?:ordinary\s+)?(?:shares?|units?)\s+(?:acquired|disposed|vested|bought|sold)/i,
+      /(?:acquired|disposed|vested|bought|sold)\s+(\d+(?:[,\s]\d{3})*)\s+(?:ordinary\s+)?(?:shares?|units?)/i,
+      /(?:Number|No\.?)\s+of\s+(?:securities|shares|units)\s+(?:acquired|disposed|changed)[\s\S]{0,100}?(\d+(?:[,\s]\d{3})*)/i,
+    ];
+    for (const pattern of sharesPatterns) {
+      const match = text.match(pattern);
+      if (match) {
+        const num = parseInt(match[1].replace(/[,\s]/g, ''));
+        if (num > 0) {
+          data.numberOfShares = num;
+          break;
+        }
       }
     }
 
-    // Before transaction - look for "Immediately before" section with Total line
-    // Match pattern: Total > shares/units: NUMBER > percentage: PERCENT
-    const beforePattern = /Immediately before.*?Total[^>]*>.*?(?:shares|units)[^:]*:\s*(\d+(?:,\d{3})*)[^>]*>.*?percentage[^:]*:\s*(\d+(?:\.\d+)?)/is;
-    const beforeMatch = markdown.match(beforePattern);
-    if (beforeMatch) {
-      data.totalBeforeShares = parseInt(beforeMatch[1].replace(/,/g, ''));
-      data.totalBeforePercent = parseFloat(beforeMatch[2]);
+    // Type of securities - lowercase for standardization
+    const typeMatch = text.match(/(ordinary\s+)?(?:voting\s+)?(?:shares?|units?)/i);
+    if (typeMatch) data.securitiesType = typeMatch[0].toLowerCase().trim();
+
+    // Consideration amount
+    // Look for patterns like "$2,198,895.03", "S$653,608.97", or "Nil"
+    const considerationPatterns = [
+      /(?:consideration|amount)[^]*?(?:S\$|USD\s*\$|\$)\s*([\d,]+(?:\.\d{1,2})?)/i,
+      /(?:consideration|amount)[^]*?:\s*([\d,]+(?:\.\d{1,2})?)/i,
+      /(?:S\$|USD\s*\$|\$)\s*([\d,]+(?:\.\d{1,2})?)\s*(?:received|paid)/i,
+    ];
+    const nilMatch = text.match(/consideration[^]*?nil/i);
+    if (nilMatch) {
+      data.consideration = 'Nil';
+    } else {
+      for (const pattern of considerationPatterns) {
+        const match = text.match(pattern);
+        if (match && match[1]) {
+          data.consideration = match[1].replace(/,/g, '');
+          break;
+        }
+      }
     }
 
-    // After transaction - look for "Immediately after" section with Total line
-    const afterPattern = /Immediately after.*?Total[^>]*>.*?(?:shares|units)[^:]*:\s*(\d+(?:,\d{3})*)[^>]*>.*?percentage[^:]*:\s*(\d+(?:\.\d+)?)/is;
-    const afterMatch = markdown.match(afterPattern);
-    if (afterMatch) {
-      data.totalAfterShares = parseInt(afterMatch[1].replace(/,/g, ''));
-      data.totalAfterPercent = parseFloat(afterMatch[2]);
+    // Before transaction - look for "Immediately before" section
+    const beforeSection = text.match(/[Ii]mmediately\s+before[\s\S]*?(?=[Ii]mmediately\s+after|$)/);
+    if (beforeSection) {
+      const beforeText = beforeSection[0];
+      // Look for total shares/units number
+      const beforeSharesMatch = beforeText.match(/[Tt]otal[\s\S]{0,200}?(\d+(?:[,\s]\d{3})*)\s/);
+      const beforePercentMatch = beforeText.match(/(\d+(?:\.\d+)?)\s*%/);
+      if (beforeSharesMatch) {
+        data.totalBeforeShares = parseInt(beforeSharesMatch[1].replace(/[,\s]/g, ''));
+      }
+      if (beforePercentMatch) {
+        data.totalBeforePercent = parseFloat(beforePercentMatch[1]);
+      }
+    }
+
+    // After transaction - look for "Immediately after" section
+    const afterSection = text.match(/[Ii]mmediately\s+after[\s\S]*/);
+    if (afterSection) {
+      const afterText = afterSection[0];
+      const afterSharesMatch = afterText.match(/[Tt]otal[\s\S]{0,200}?(\d+(?:[,\s]\d{3})*)\s/);
+      const afterPercentMatch = afterText.match(/(\d+(?:\.\d+)?)\s*%/);
+      if (afterSharesMatch) {
+        data.totalAfterShares = parseInt(afterSharesMatch[1].replace(/[,\s]/g, ''));
+      }
+      if (afterPercentMatch) {
+        data.totalAfterPercent = parseFloat(afterPercentMatch[1]);
+      }
     }
 
   } catch (error) {
@@ -188,11 +246,11 @@ async function scrapeSGXAnnouncements(options = {}) {
             data[i].attachment = attachment;
             console.log(`  ✓ Found attachment`);
 
-            // Fetch and parse PDF markdown
+            // Fetch and parse PDF text
             try {
-              console.log(`    Fetching PDF markdown...`);
-              const markdown = await fetchPdfMarkdown(attachment);
-              const transactionData = parseTransactionData(markdown);
+              console.log(`    Fetching PDF text...`);
+              const pdfText = await fetchPdfText(attachment);
+              const transactionData = parseTransactionData(pdfText);
 
               // Add transaction fields to row
               Object.assign(data[i], transactionData);
@@ -215,8 +273,8 @@ async function scrapeSGXAnnouncements(options = {}) {
 
     // Generate markdown table
     const mdHeader = '# SGX Announcements - Transaction Summary\n\n';
-    const mdTableHeader = '| Transaction Date | Security Name | Number of Shares | Consideration | Link |\n';
-    const mdTableSeparator = '|-----------------|---------------|------------------|---------------|------|\n';
+    const mdTableHeader = '| Transaction Date | Security Name | Number of Shares | Consideration | Attachment |\n';
+    const mdTableSeparator = '|-----------------|---------------|------------------|---------------|------------|\n';
 
     const mdRows = data.map(row => {
       const transactionDate = row.transactionDate || 'N/A';
@@ -224,9 +282,9 @@ async function scrapeSGXAnnouncements(options = {}) {
       const numberOfShares = row.numberOfShares ? row.numberOfShares.toLocaleString() : 'N/A';
       const consideration = row.consideration === 'Nil' ? 'Nil' :
         row.consideration ? parseFloat(row.consideration).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : 'N/A';
-      const link = row.link ? `[View](${row.link})` : 'N/A';
+      const attachment = row.attachment ? `[PDF](${row.attachment})` : 'N/A';
 
-      return `| ${transactionDate} | ${securityName} | ${numberOfShares} | ${consideration} | ${link} |`;
+      return `| ${transactionDate} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
     }).join('\n');
 
     const markdown = mdHeader + mdTableHeader + mdTableSeparator + mdRows + '\n';
