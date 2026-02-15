@@ -1,0 +1,15 @@
+{
+  "name": "sgx-scraper",
+  "version": "1.0.0",
+  "description": "SGX Company Announcements Scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": ["scraper", "puppeteer", "sgx"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}

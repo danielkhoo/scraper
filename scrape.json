@@ -1,0 +1,53 @@
+[
+  {
+    "dateTime": "13 Feb 2026 07:52 PM",
+    "issuerName": "HIAP SENG INDUSTRIES LIMITED",
+    "securityName": "HIAP SENG INDUSTRIES LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notice of Becoming a Substantial Shareholder: Tian Yuan",
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/7a77c33abb76cd36e3eaa42e7eda8ad93de835487c3d11d8e103cb2abbd2a846",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/875183__eFORM3V2%20-%20Tian%20Yuan_Option_Final.pdf",
+    "formType": "Form 3",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": 368324125,
+    "securitiesType": "voting shares",
+    "consideration": "2198895.03",
+    "totalBeforeShares": 2304725,
+    "totalBeforePercent": 0.05,
+    "totalAfterShares": 370628850,
+    "totalAfterPercent": 7.65
+  },
+  {
+    "dateTime": "13 Feb 2026 06:28 PM",
+    "issuerName": "NANOFILM TECHNOLOGIES INTERNATIONAL LIMITED",
+    "securityName": "NANOFILM TECHNOLOGIES INTL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notice of Cessation of Substantial Shareholders' Interest - Temasek/Tembusu/Napier/Venezio",
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/b47aeee395bc4979773666d90cd923451aa1002480bc12440d23dc37500e4a27",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/875157__Form3-TH_Tembusu_Napier_Venezio.pdf",
+    "formType": "Form 3",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": 1049300,
+    "securitiesType": "voting shares",
+    "consideration": "653608.97",
+    "totalBeforeShares": 0,
+    "totalBeforePercent": 0,
+    "totalAfterShares": 0,
+    "totalAfterPercent": 0
+  },
+  {
+    "dateTime": "13 Feb 2026 06:14 PM",
+    "issuerName": "PAN-UNITED CORPORATION LTD.",
+    "securityName": "PAN-UNITED CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/9dd018ac2910cbb793349c97ac7cc4d816d5ecca48bee1f8fefc221ad3a4db4f",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/875149__FORM%201_LKS_260213.pdf",
+    "formType": "Form 1",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": 69200,
+    "securitiesType": "ordinary voting shares",
+    "consideration": "Nil",
+    "totalBeforeShares": 2122150,
+    "totalBeforePercent": 0.3,
+    "totalAfterShares": null,
+    "totalAfterPercent": 0
+  }
+]
