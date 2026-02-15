@@ -1,15 +1,19 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const http = require('http');
 const https = require('https');
 const pdfParse = require('pdf-parse');
 
 // Function to download PDF and extract text using pdf-parse
 async function fetchPdfText(pdfUrl) {
   return new Promise((resolve, reject) => {
-    https.get(pdfUrl, (res) => {
+    const parsedUrl = new URL(pdfUrl);
+    const client = parsedUrl.protocol === 'http:' ? http : https;
+    client.get(pdfUrl, (res) => {
       // Follow redirects
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchPdfText(res.headers.location).then(resolve).catch(reject);
+        const redirectUrl = new URL(res.headers.location, pdfUrl).href;
+        return fetchPdfText(redirectUrl).then(resolve).catch(reject);
       }
       const chunks = [];
       res.on('data', chunk => chunks.push(chunk));
@@ -245,11 +249,26 @@ async function scrapeSGXAnnouncements(options = {}) {
           if (attachment) {
             data[i].attachment = attachment;
             console.log(`  ✓ Found attachment`);
+            console.log(`    URL: ${attachment}`);
+
+            // Validate URL before fetching
+            let pdfUrl;
+            try {
+              pdfUrl = new URL(attachment);
+            } catch {
+              // If relative URL, resolve against SGX base
+              try {
+                pdfUrl = new URL(attachment, 'https://links.sgx.com');
+              } catch {
+                console.log(`  ✗ Invalid attachment URL: ${attachment}`);
+                continue;
+              }
+            }
 
             // Fetch and parse PDF text
             try {
               console.log(`    Fetching PDF text...`);
-              const pdfText = await fetchPdfText(attachment);
+              const pdfText = await fetchPdfText(pdfUrl.href);
               const transactionData = parseTransactionData(pdfText);
 
               // Add transaction fields to row
