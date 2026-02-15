@@ -2,8 +2,8 @@ name: Daily Scraper
 
 on:
   schedule:
-    # Run daily at 8:00 AM UTC (4:00 PM Singapore Time)
-    - cron: '0 8 * * *'
+    # Run daily at 12:00 PM UTC (8:00 PM Singapore Time)
+    - cron: '0 12 * * *'
   workflow_dispatch: # Allow manual triggers from Actions tab
 
 jobs:
