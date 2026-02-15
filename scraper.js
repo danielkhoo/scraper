@@ -213,6 +213,26 @@ async function scrapeSGXAnnouncements(options = {}) {
     fs.writeFileSync('scrape.json', JSON.stringify(data, null, 2));
     console.log('Data saved to scrape.json');
 
+    // Generate markdown table
+    const mdHeader = '# SGX Announcements - Transaction Summary\n\n';
+    const mdTableHeader = '| Transaction Date | Security Name | Number of Shares | Consideration | Link |\n';
+    const mdTableSeparator = '|-----------------|---------------|------------------|---------------|------|\n';
+
+    const mdRows = data.map(row => {
+      const transactionDate = row.transactionDate || 'N/A';
+      const securityName = row.securityName || 'N/A';
+      const numberOfShares = row.numberOfShares ? row.numberOfShares.toLocaleString() : 'N/A';
+      const consideration = row.consideration === 'Nil' ? 'Nil' :
+        row.consideration ? parseFloat(row.consideration).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : 'N/A';
+      const link = row.link ? `[View](${row.link})` : 'N/A';
+
+      return `| ${transactionDate} | ${securityName} | ${numberOfShares} | ${consideration} | ${link} |`;
+    }).join('\n');
+
+    const markdown = mdHeader + mdTableHeader + mdTableSeparator + mdRows + '\n';
+    fs.writeFileSync('scrape.md', markdown);
+    console.log('Data saved to scrape.md');
+
   } catch (error) {
     console.error('Error during scraping:', error);
     throw error;
@@ -225,7 +245,7 @@ async function scrapeSGXAnnouncements(options = {}) {
 // Run the scraper with configuration
 scrapeSGXAnnouncements({
   page: 1,
-  pageSize: 5  // Daily scraping - captures recent announcements
+  pageSize: 20  // Daily scraping - captures recent announcements
 })
   .then(() => console.log('Scraping completed successfully!'))
   .catch(error => {
