@@ -60,7 +60,10 @@ const FIELD_MAPPINGS = {
     }
   },
   numberOfShares: {
-    pattern: /Number\s+of\s+shares[^:]*:.*?\n\s*([^\n]+)/is,
+    // Pattern matches both Form 1 and Form 3 formats
+    // Form 1: "5. Number of shares...:\n81,099 awards..."
+    // Form 3: "Number of shares...:\n6.\n685,100"
+    pattern: /Number\s+of\s+shares[^:]*:\s*\n\s*(?:\d+\.\s*\n\s*)?([^\n]+)/is,
     transform: (match) => match.trim()
   },
   consideration: {
