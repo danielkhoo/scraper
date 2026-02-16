@@ -1,15 +1,32 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const https = require('https');
+const { URL } = require('url');
 const pdfParse = require('pdf-parse');
+const sqlite3 = require('sqlite3').verbose();
 
 // Function to download PDF and extract text using pdf-parse
 async function fetchPdfText(pdfUrl) {
   return new Promise((resolve, reject) => {
-    https.get(pdfUrl, (res) => {
+    // Parse the URL properly
+    const urlObject = new URL(pdfUrl);
+
+    const options = {
+      hostname: urlObject.hostname,
+      path: urlObject.pathname + urlObject.search,
+      method: 'GET',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+      }
+    };
+
+    https.get(options, (res) => {
       // Follow redirects
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchPdfText(res.headers.location).then(resolve).catch(reject);
+        const redirectUrl = res.headers.location.startsWith('http')
+          ? res.headers.location
+          : `${urlObject.protocol}//${urlObject.hostname}${res.headers.location}`;
+        return fetchPdfText(redirectUrl).then(resolve).catch(reject);
       }
       const chunks = [];
       res.on('data', chunk => chunks.push(chunk));
@@ -26,6 +43,32 @@ async function fetchPdfText(pdfUrl) {
   });
 }
 
+// Field mapping configuration
+// Maps output field names to their question patterns in the PDF
+const FIELD_MAPPINGS = {
+  transactionDate: {
+    pattern: /Date\s+of\s+acquisition\s+of\s+or\s+change\s+in\s+interest:.*?\n\s*(\d{1,2}[-\s\/][A-Za-z]{3,9}[-\s\/]\d{4})/is,
+    transform: (match) => {
+      // Normalize to DD-Mon-YYYY format
+      const normalized = match.replace(/[\s\/]+/g, '-');
+      const parts = normalized.split('-');
+      // Abbreviate month if full name
+      if (parts[1] && parts[1].length > 3) {
+        parts[1] = parts[1].substring(0, 3);
+      }
+      return parts.join('-');
+    }
+  },
+  numberOfShares: {
+    pattern: /Number\s+of\s+shares[^:]*:.*?\n\s*([^\n]+)/is,
+    transform: (match) => match.trim()
+  },
+  consideration: {
+    pattern: /Amount\s+of\s+consideration[^:]*:.*?\n\s*([^\n]+)/is,
+    transform: (match) => match.trim()
+  }
+};
+
 // Function to parse transaction data from raw PDF text
 function parseTransactionData(text) {
   // Initialize all fields to null
@@ -33,12 +76,7 @@ function parseTransactionData(text) {
     formType: null,
     transactionDate: null,
     numberOfShares: null,
-    securitiesType: null,
-    consideration: null,
-    totalBeforeShares: null,
-    totalBeforePercent: null,
-    totalAfterShares: null,
-    totalAfterPercent: null
+    consideration: null
   };
 
   try {
@@ -51,90 +89,11 @@ function parseTransactionData(text) {
       data.formType = 'Form 6';
     }
 
-    // Transaction date - look for date patterns (DD-Mon-YYYY or DD Mon YYYY)
-    const dateMatch = text.match(/(\d{1,2}[-\s][A-Za-z]{3,9}[-\s]\d{4})/);
-    if (dateMatch) {
-      // Normalize to DD-Mon-YYYY format
-      const normalized = dateMatch[1].replace(/\s+/g, '-');
-      // Abbreviate month if full name
-      const parts = normalized.split('-');
-      if (parts[1] && parts[1].length > 3) {
-        parts[1] = parts[1].substring(0, 3);
-      }
-      data.transactionDate = parts.join('-');
-    }
-
-    // Number of shares - multiple patterns for raw PDF text
-    // Pattern 1: "No. of shares/units" followed by a number (common in table rows)
-    // Pattern 2: NUMBER shares acquired/disposed
-    // Pattern 3: Look for numbers near "acquired", "disposed", "vested"
-    const sharesPatterns = [
-      /(?:No\.?\s*of\s+(?:ordinary\s+)?(?:shares|units))\s*[:\-]?\s*(\d+(?:[,\s]\d{3})*)/i,
-      /(\d+(?:[,\s]\d{3})*)\s+(?:ordinary\s+)?(?:shares?|units?)\s+(?:acquired|disposed|vested|bought|sold)/i,
-      /(?:acquired|disposed|vested|bought|sold)\s+(\d+(?:[,\s]\d{3})*)\s+(?:ordinary\s+)?(?:shares?|units?)/i,
-      /(?:Number|No\.?)\s+of\s+(?:securities|shares|units)\s+(?:acquired|disposed|changed)[\s\S]{0,100}?(\d+(?:[,\s]\d{3})*)/i,
-    ];
-    for (const pattern of sharesPatterns) {
-      const match = text.match(pattern);
-      if (match) {
-        const num = parseInt(match[1].replace(/[,\s]/g, ''));
-        if (num > 0) {
-          data.numberOfShares = num;
-          break;
-        }
-      }
-    }
-
-    // Type of securities - lowercase for standardization
-    const typeMatch = text.match(/(ordinary\s+)?(?:voting\s+)?(?:shares?|units?)/i);
-    if (typeMatch) data.securitiesType = typeMatch[0].toLowerCase().trim();
-
-    // Consideration amount
-    // Look for patterns like "$2,198,895.03", "S$653,608.97", or "Nil"
-    const considerationPatterns = [
-      /(?:consideration|amount)[^]*?(?:S\$|USD\s*\$|\$)\s*([\d,]+(?:\.\d{1,2})?)/i,
-      /(?:consideration|amount)[^]*?:\s*([\d,]+(?:\.\d{1,2})?)/i,
-      /(?:S\$|USD\s*\$|\$)\s*([\d,]+(?:\.\d{1,2})?)\s*(?:received|paid)/i,
-    ];
-    const nilMatch = text.match(/consideration[^]*?nil/i);
-    if (nilMatch) {
-      data.consideration = 'Nil';
-    } else {
-      for (const pattern of considerationPatterns) {
-        const match = text.match(pattern);
-        if (match && match[1]) {
-          data.consideration = match[1].replace(/,/g, '');
-          break;
-        }
-      }
-    }
-
-    // Before transaction - look for "Immediately before" section
-    const beforeSection = text.match(/[Ii]mmediately\s+before[\s\S]*?(?=[Ii]mmediately\s+after|$)/);
-    if (beforeSection) {
-      const beforeText = beforeSection[0];
-      // Look for total shares/units number
-      const beforeSharesMatch = beforeText.match(/[Tt]otal[\s\S]{0,200}?(\d+(?:[,\s]\d{3})*)\s/);
-      const beforePercentMatch = beforeText.match(/(\d+(?:\.\d+)?)\s*%/);
-      if (beforeSharesMatch) {
-        data.totalBeforeShares = parseInt(beforeSharesMatch[1].replace(/[,\s]/g, ''));
-      }
-      if (beforePercentMatch) {
-        data.totalBeforePercent = parseFloat(beforePercentMatch[1]);
-      }
-    }
-
-    // After transaction - look for "Immediately after" section
-    const afterSection = text.match(/[Ii]mmediately\s+after[\s\S]*/);
-    if (afterSection) {
-      const afterText = afterSection[0];
-      const afterSharesMatch = afterText.match(/[Tt]otal[\s\S]{0,200}?(\d+(?:[,\s]\d{3})*)\s/);
-      const afterPercentMatch = afterText.match(/(\d+(?:\.\d+)?)\s*%/);
-      if (afterSharesMatch) {
-        data.totalAfterShares = parseInt(afterSharesMatch[1].replace(/[,\s]/g, ''));
-      }
-      if (afterPercentMatch) {
-        data.totalAfterPercent = parseFloat(afterPercentMatch[1]);
+    // Extract fields using the mapping configuration
+    for (const [fieldName, config] of Object.entries(FIELD_MAPPINGS)) {
+      const match = text.match(config.pattern);
+      if (match && match[1]) {
+        data[fieldName] = config.transform(match[1]);
       }
     }
 
@@ -142,11 +101,94 @@ function parseTransactionData(text) {
     console.log(`    Warning: Error parsing some fields: ${error.message}`);
   }
 
-  // Standardize null percentage values to 0
-  if (data.totalBeforePercent === null) data.totalBeforePercent = 0;
-  if (data.totalAfterPercent === null) data.totalAfterPercent = 0;
-
   return data;
+}
+
+// Initialize SQLite database
+function initDatabase() {
+  return new Promise((resolve, reject) => {
+    const db = new sqlite3.Database('scrape.db', (err) => {
+      if (err) {
+        reject(err);
+        return;
+      }
+
+      // Create table if it doesn't exist
+      db.run(`
+        CREATE TABLE IF NOT EXISTS announcements (
+          link TEXT PRIMARY KEY,
+          dateTime TEXT,
+          issuerName TEXT,
+          securityName TEXT,
+          title TEXT,
+          attachment TEXT,
+          formType TEXT,
+          transactionDate TEXT,
+          numberOfShares TEXT,
+          consideration TEXT
+        )
+      `, (err) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+        resolve(db);
+      });
+    });
+  });
+}
+
+// Insert or update announcement in database
+// Returns true if new record was inserted, false if record already existed
+function saveAnnouncement(db, announcement) {
+  return new Promise((resolve, reject) => {
+    // First check if the record already exists
+    db.get('SELECT link FROM announcements WHERE link = ?', [announcement.link], (err, row) => {
+      if (err) {
+        reject(err);
+        return;
+      }
+
+      const isNew = !row;
+
+      // Insert or replace the record
+      db.run(`
+        INSERT OR REPLACE INTO announcements
+        (link, dateTime, issuerName, securityName, title, attachment, formType, transactionDate, numberOfShares, consideration)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      `, [
+        announcement.link,
+        announcement.dateTime,
+        announcement.issuerName,
+        announcement.securityName,
+        announcement.title,
+        announcement.attachment || null,
+        announcement.formType || null,
+        announcement.transactionDate || null,
+        announcement.numberOfShares || null,
+        announcement.consideration || null
+      ], function (err) {
+        if (err) {
+          reject(err);
+          return;
+        }
+        resolve(isNew);
+      });
+    });
+  });
+}
+
+// Get all announcements from database
+function getAllAnnouncements(db) {
+  return new Promise((resolve, reject) => {
+    db.all('SELECT * FROM announcements ORDER BY dateTime DESC', [], (err, rows) => {
+      if (err) {
+        reject(err);
+        return;
+      }
+      resolve(rows);
+    });
+  });
 }
 
 async function scrapeSGXAnnouncements(options = {}) {
@@ -158,6 +200,10 @@ async function scrapeSGXAnnouncements(options = {}) {
 
   console.log('Starting SGX scraper...');
   console.log(`Page: ${pageNumber}, Page Size: ${pageSize}`);
+
+  // Initialize database
+  const db = await initDatabase();
+  console.log('Database initialized');
 
   const browser = await puppeteer.launch({
     headless: true,
@@ -226,6 +272,9 @@ async function scrapeSGXAnnouncements(options = {}) {
 
     // Navigate to each announcement link and extract the attachment
     console.log(`Fetching attachments for ${data.length} announcements...`);
+    let newRecords = 0;
+    let existingRecords = 0;
+
     for (let i = 0; i < data.length; i++) {
       if (data[i].link) {
         try {
@@ -265,23 +314,39 @@ async function scrapeSGXAnnouncements(options = {}) {
           console.log(`  ✗ Error fetching attachment: ${error.message}`);
         }
       }
+
+      // Save each announcement to database
+      try {
+        const isNew = await saveAnnouncement(db, data[i]);
+        if (isNew) {
+          newRecords++;
+          console.log(`  ✓ Saved to database (new record)`);
+        } else {
+          existingRecords++;
+          console.log(`  ✓ Already in database (updated)`);
+        }
+      } catch (error) {
+        console.log(`  ✗ Error saving to database: ${error.message}`);
+      }
     }
 
-    // Save to JSON file
-    fs.writeFileSync('scrape.json', JSON.stringify(data, null, 2));
-    console.log('Data saved to scrape.json');
+    console.log(`\nDatabase summary: ${newRecords} new records, ${existingRecords} existing records`);
 
-    // Generate markdown table
+    // Get all announcements from database and save to JSON for compatibility
+    const allAnnouncements = await getAllAnnouncements(db);
+    fs.writeFileSync('scrape.json', JSON.stringify(allAnnouncements, null, 2));
+    console.log('Data exported to scrape.json');
+
+    // Generate markdown table from all database records
     const mdHeader = '# SGX Announcements - Transaction Summary\n\n';
     const mdTableHeader = '| Transaction Date | Security Name | Number of Shares | Consideration | Attachment |\n';
     const mdTableSeparator = '|-----------------|---------------|------------------|---------------|------------|\n';
 
-    const mdRows = data.map(row => {
+    const mdRows = allAnnouncements.map(row => {
       const transactionDate = row.transactionDate || 'N/A';
       const securityName = row.securityName || 'N/A';
-      const numberOfShares = row.numberOfShares ? row.numberOfShares.toLocaleString() : 'N/A';
-      const consideration = row.consideration === 'Nil' ? 'Nil' :
-        row.consideration ? parseFloat(row.consideration).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : 'N/A';
+      const numberOfShares = row.numberOfShares || 'N/A';
+      const consideration = row.consideration || 'N/A';
       const attachment = row.attachment ? `[PDF](${row.attachment})` : 'N/A';
 
       return `| ${transactionDate} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
@@ -289,12 +354,24 @@ async function scrapeSGXAnnouncements(options = {}) {
 
     const markdown = mdHeader + mdTableHeader + mdTableSeparator + mdRows + '\n';
     fs.writeFileSync('scrape.md', markdown);
-    console.log('Data saved to scrape.md');
+    console.log('Data exported to scrape.md');
 
   } catch (error) {
     console.error('Error during scraping:', error);
     throw error;
   } finally {
+    // Close database connection
+    if (db) {
+      await new Promise((resolve, reject) => {
+        db.close((err) => {
+          if (err) reject(err);
+          else {
+            console.log('Database closed');
+            resolve();
+          }
+        });
+      });
+    }
     await browser.close();
     console.log('Browser closed');
   }
@@ -305,7 +382,10 @@ scrapeSGXAnnouncements({
   page: 1,
   pageSize: 20  // Daily scraping - captures recent announcements
 })
-  .then(() => console.log('Scraping completed successfully!'))
+  .then(() => {
+    console.log('Scraping completed successfully!');
+    process.exit(0);
+  })
   .catch(error => {
     console.error('Scraping failed:', error);
     process.exit(1);

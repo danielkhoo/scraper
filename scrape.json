@@ -1,162 +1,242 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/18T4L9Q44DJSFT8H/1044a60448188e01e8fe996ac6733e90d3b8dfc7b41141ad0cb388ee767d04b8",
+    "dateTime": "16 Feb 2026 12:32 PM",
+    "issuerName": "ESR-REIT MANAGEMENT (S) LIMITED",
+    "securityName": "ESR REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/18T4L9Q44DJSFT8H/875251__Form%201%20-%20Nagaraj%20Sivaram_13%20Feb%202026_final.pdf",
+    "formType": "Form 1",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": "220,500 units",
+    "consideration": "S$544,430"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/LPJSYOW5DGZS6KC5/1e11b3a0e284596c3b6708f3619eece546cef1687500e3bcf167ab73c8f1cbd5",
+    "dateTime": "16 Feb 2026 12:24 PM",
+    "issuerName": "GS HOLDINGS LIMITED",
+    "securityName": "GS HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest - Pang Pok and Ang Siew Kiock",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/LPJSYOW5DGZS6KC5/875248__Form%203%20-%20Pang%20Pok%20and%20Ang%20Siew%20Kiock%2013022026.pdf",
+    "formType": "Form 3",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": "2,000,000",
+    "consideration": "122,000"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/P0W37OJSI1B3CT94/6f70e6ee19b6acccc9a48d687af69fb93adc09800808e1b25a140d61d21114c6",
+    "dateTime": "16 Feb 2026 12:21 PM",
+    "issuerName": "UNUSUAL LIMITED",
+    "securityName": "UNUSUAL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/P0W37OJSI1B3CT94/875246__Form%203%20-%20UMPL%20and%20Others%20-%20Final.pdf",
+    "formType": "Form 3",
+    "transactionDate": "11-Feb-2026",
+    "numberOfShares": "Please refer to Paragraph 4 below.",
+    "consideration": "Please refer to Paragraph 4 below."
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/KO8TADK8EAPVOWK8/91ca01bac4292e5387f701f494c2e22701c53171050e9801bb281fc94995198e",
+    "dateTime": "16 Feb 2026 03:42 PM",
+    "issuerName": "DBS GROUP HOLDINGS LTD",
+    "securityName": "DBS GROUP HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of director's interest",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/KO8TADK8EAPVOWK8/875274__FORM1_TSS_Feb2026_GRANT_AND_VEST_FINAL.pdf",
+    "formType": "Form 1",
+    "transactionDate": "12-Feb-2026",
+    "numberOfShares": "81,099 awards of fully-paid ordinary shares granted pursuant to the DBSH Share Plan",
+    "consideration": "Nil"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/6FB0TMUVRQGJOOI8/b40f11f7bb98d5d8c63bd64db55afcda9acd6c08f01d2a434214912424ea41fb",
+    "dateTime": "16 Feb 2026 03:37 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/6FB0TMUVRQGJOOI8/875272__Form%201%20Or%20Lay%20Huat%20Daniel.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "241,500",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/WW7T00JLUAGDSAIG/a75cc1e5e10894c4f2d35a81550e437e8b643f3a07a65dff1ba9c5254a558f43",
+    "dateTime": "16 Feb 2026 03:36 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/WW7T00JLUAGDSAIG/875270__Form%201%20Oh%20Enc%20Nam.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "99,750",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/6Q66MZCKXPTWWKR2/3213f01e52f50fcb0d3d01736c8996679fdb4ff9276257fb408d1dbcd43c0946",
+    "dateTime": "16 Feb 2026 03:35 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/6Q66MZCKXPTWWKR2/875268__Form%201%20Or%20Kiam%20Meng.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "241,500",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/K0ME7K44FBQO95UR/77ffa7163c0448b2de08c5ef9727ac5114e44fda249da513c4257e64e6cb5279",
+    "dateTime": "16 Feb 2026 03:34 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/K0ME7K44FBQO95UR/875266__Form%201%20Ang%20Beng%20Tin.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "242,625",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8HD55RK5AFBAW518/90ce13675de3989ba4d1c991632ab57144befc5587781809c6f4be3095af6614",
+    "dateTime": "16 Feb 2026 03:32 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8HD55RK5AFBAW518/875264__Form%201%20Or%20Toh%20Wat.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "241,500",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/F40L6TAQ3U0SS77O/a67592f6d7c67a360618b671cbaa5cb6db3f31fd47a167cb7271c31d5c6a6d02",
+    "dateTime": "16 Feb 2026 03:30 PM",
+    "issuerName": "OKP HOLDINGS LIMITED",
+    "securityName": "OKP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION IN RESPECT OF CHANGE IN INTEREST OF A DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/F40L6TAQ3U0SS77O/875262__Form%201%20Or%20Kim%20Peow.pdf",
+    "formType": "Form 1",
+    "transactionDate": "16-Feb-2026",
+    "numberOfShares": "567,750",
+    "consideration": "0"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/7a77c33abb76cd36e3eaa42e7eda8ad93de835487c3d11d8e103cb2abbd2a846",
     "dateTime": "13 Feb 2026 07:52 PM",
     "issuerName": "HIAP SENG INDUSTRIES LIMITED",
     "securityName": "HIAP SENG INDUSTRIES LIMITED",
     "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notice of Becoming a Substantial Shareholder: Tian Yuan",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/7a77c33abb76cd36e3eaa42e7eda8ad93de835487c3d11d8e103cb2abbd2a846",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/875183__eFORM3V2%20-%20Tian%20Yuan_Option_Final.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JEHQOZK8GFO3WX09/875183__eFORM3V2%20-%20Tian%20Yuan_Option_Final.pdf",
+    "formType": "Form 3",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": "6.",
+    "consideration": "$2,198,895.03"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/b47aeee395bc4979773666d90cd923451aa1002480bc12440d23dc37500e4a27",
     "dateTime": "13 Feb 2026 06:28 PM",
     "issuerName": "NANOFILM TECHNOLOGIES INTERNATIONAL LIMITED",
     "securityName": "NANOFILM TECHNOLOGIES INTL LTD",
     "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notice of Cessation of Substantial Shareholders' Interest - Temasek/Tembusu/Napier/Venezio",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/b47aeee395bc4979773666d90cd923451aa1002480bc12440d23dc37500e4a27",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/875157__Form3-TH_Tembusu_Napier_Venezio.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/19H4YTJ89GT37WRB/875157__Form3-TH_Tembusu_Napier_Venezio.pdf",
+    "formType": "Form 3",
+    "transactionDate": "11-Feb-2026",
+    "numberOfShares": "1,049,300 Shares disposed of by Venezio",
+    "consideration": "S$653,608.97 received by Venezio"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/9dd018ac2910cbb793349c97ac7cc4d816d5ecca48bee1f8fefc221ad3a4db4f",
     "dateTime": "13 Feb 2026 06:14 PM",
     "issuerName": "PAN-UNITED CORPORATION LTD.",
     "securityName": "PAN-UNITED CORPORATION LTD",
     "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/9dd018ac2910cbb793349c97ac7cc4d816d5ecca48bee1f8fefc221ad3a4db4f",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/875149__FORM%201_LKS_260213.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VN1N3JD6LXHMT84P/875149__FORM%201_LKS_260213.pdf",
+    "formType": "Form 1",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": "69,200 ordinary shares vested and released pursuant to the Pan-United Share Plan",
+    "consideration": "Nil"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JZYG5WQH5NPPCVK0/eed099b9be29fb09bd240e8aa4356b4a7d84d4e6a661d1f7a4be12813101d607",
     "dateTime": "13 Feb 2026 05:34 PM",
     "issuerName": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
     "securityName": "FRASERS LOGISTICS & COMMERCIAL TRUST",
     "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest / Changes in Interest of Substantial Unitholder(s)",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JZYG5WQH5NPPCVK0/eed099b9be29fb09bd240e8aa4356b4a7d84d4e6a661d1f7a4be12813101d607",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JZYG5WQH5NPPCVK0/875104__Form%203%20-%20FPITH%20II.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JZYG5WQH5NPPCVK0/875104__Form%203%20-%20FPITH%20II.pdf",
+    "formType": "Form 3",
+    "transactionDate": "12-Feb-2026",
+    "numberOfShares": "6.",
+    "consideration": "S$5,200,038"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OTBGY15A9CCGJ6S1/de52998aae40ff38ce7f7d0558670b61735188e85bd327e980f0e1db1cb3461b",
     "dateTime": "13 Feb 2026 05:23 PM",
     "issuerName": "KEPPEL REIT MANAGEMENT LIMITED",
     "securityName": "KEPPEL REIT",
     "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interests of Trustee-Manager/Responsible Person",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OTBGY15A9CCGJ6S1/de52998aae40ff38ce7f7d0558670b61735188e85bd327e980f0e1db1cb3461b",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OTBGY15A9CCGJ6S1/875076__MAS%20Form%206%20Notification%20Form_13Feb2026_final.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OTBGY15A9CCGJ6S1/875076__MAS%20Form%206%20Notification%20Form_13Feb2026_final.pdf",
+    "formType": "Form 6",
+    "transactionDate": "13-Feb-2026",
+    "numberOfShares": null,
+    "consideration": "5."
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/R8UZ7SBEVFGK4B1B/98664a4bc75d590dcdec73f3fc5a2d69f168705c7be96849df1e45f0be4960d3",
     "dateTime": "12 Feb 2026 10:19 PM",
     "issuerName": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
     "securityName": "FRASERS LOGISTICS & COMMERCIAL TRUST",
     "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest / Changes in Interest of Trustee-Manager/Responsible Person",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/R8UZ7SBEVFGK4B1B/98664a4bc75d590dcdec73f3fc5a2d69f168705c7be96849df1e45f0be4960d3",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/R8UZ7SBEVFGK4B1B/875021__Form%206%20-%20FLCAM.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/R8UZ7SBEVFGK4B1B/875021__Form%206%20-%20FLCAM.pdf",
+    "formType": "Form 6",
+    "transactionDate": "12-Feb-2026",
+    "numberOfShares": null,
+    "consideration": "5."
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OZ5ICX3ZVCV162GR/a4ad4a6f2d47969656adcd9882d76c564e0bc2b3cc76603abc02437d47c216cc",
     "dateTime": "12 Feb 2026 10:16 PM",
     "issuerName": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
     "securityName": "FRASERS LOGISTICS & COMMERCIAL TRUST",
     "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest / Changes in Interest of Substantial Unitholder(s)",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OZ5ICX3ZVCV162GR/a4ad4a6f2d47969656adcd9882d76c564e0bc2b3cc76603abc02437d47c216cc",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OZ5ICX3ZVCV162GR/875018__Form%203%20-%20FPITH%20II.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OZ5ICX3ZVCV162GR/875018__Form%203%20-%20FPITH%20II.pdf",
+    "formType": "Form 3",
+    "transactionDate": "11-Feb-2026",
+    "numberOfShares": "6.",
+    "consideration": "S$1,000,000"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/29Y2BCOUAWDCHPN9/bd09fb409246806febe5bde282b0963eb430d2656ce9751a28d20ff42811721b",
     "dateTime": "12 Feb 2026 08:32 PM",
     "issuerName": "OUE HEALTHCARE LIMITED",
     "securityName": "OUE HEALTHCARE LIMITED",
     "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/29Y2BCOUAWDCHPN9/bd09fb409246806febe5bde282b0963eb430d2656ce9751a28d20ff42811721b",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/29Y2BCOUAWDCHPN9/875004__Tower%20-%20TIHPL%20Form%203%20Completion.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/29Y2BCOUAWDCHPN9/875004__Tower%20-%20TIHPL%20Form%203%20Completion.pdf",
+    "formType": "Form 3",
+    "transactionDate": "11-Feb-2026",
+    "numberOfShares": "858,412,248",
+    "consideration": "S$20,714,865.71"
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/SBAT8R3RWACQUF7P/99716a9b84e45c8137983ea8d6479a87a48ee71951338689b282cb2a4254d006",
     "dateTime": "12 Feb 2026 06:26 PM",
     "issuerName": "MAPLETREE LOGISTICS TRUST MANAGEMENT LTD.",
     "securityName": "MAPLETREE LOGISTICS TRUST",
     "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Notification Form for Trustee-Manager in respect of Changes in its Interest (Form 6)",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/SBAT8R3RWACQUF7P/99716a9b84e45c8137983ea8d6479a87a48ee71951338689b282cb2a4254d006",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SBAT8R3RWACQUF7P/874963__20260212-MLT-Form6_final.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SBAT8R3RWACQUF7P/874963__20260212-MLT-Form6_final.pdf",
+    "formType": "Form 6",
+    "transactionDate": "12-Feb-2026",
+    "numberOfShares": null,
+    "consideration": "5."
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CCQL6N9UGS21F6S4/13a36f92fdb673824d73fad37913dc02c2f2cec06f16c7b6eb352300c16a0df7",
     "dateTime": "12 Feb 2026 06:13 PM",
     "issuerName": "MPACT MANAGEMENT LTD.",
     "securityName": "MAPLETREE PANASIA COM TRUST",
     "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Notification Form for Trustee-Manager in respect of Changes in its Interest (Form 6)",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CCQL6N9UGS21F6S4/13a36f92fdb673824d73fad37913dc02c2f2cec06f16c7b6eb352300c16a0df7",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CCQL6N9UGS21F6S4/874959__MPACTM_Form%206_12Feb2026.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 06:10 PM",
-    "issuerName": "CAPITALAND INDIA TRUST MANAGEMENT PTE. LTD.",
-    "securityName": "CAPITALAND INDIA TRUST",
-    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Interest of Substantial Unitholder: CLI India Pte. Ltd.",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/33S1LHZMGD6FM28O/103012b5722449b2c9d46452e4f1b3ef081ceecddfcac0b1b28a08747fd6d099",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/33S1LHZMGD6FM28O/874955__20260212%20-%20Form%203%20-%20CLI%20India%20-%20Final.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 06:05 PM",
-    "issuerName": "CAPITALAND INDIA TRUST MANAGEMENT PTE. LTD.",
-    "securityName": "CAPITALAND INDIA TRUST",
-    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Change in Interest of Trustee-Manager - CapitaLand India Trust Management Pte. Ltd.",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8QMDTLA3IKR8MYJG/5eebc023d02048f98515346cdda81661f4c3baa339d7fee25240253898ed8708",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8QMDTLA3IKR8MYJG/874942__20260212%20-%20Form%206%20-%20CLINTMPL%20-%20Final.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:57 PM",
-    "issuerName": "GUOCOLAND LIMITED",
-    "securityName": "GUOCOLAND LIMITED",
-    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notification Form for Director in respect of Interests in Securities",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/W2G3X2O2F4XMPFZN/c07a108ea6520e06f09fd7938b8164ecf9644e732fb776141422bb68d3aea2fa",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/W2G3X2O2F4XMPFZN/874934__Form%201%20CEO-Share%20Grant%20Feb26-F120226.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:37 PM",
-    "issuerName": "AIMS APAC REIT MANAGEMENT LIMITED",
-    "securityName": "AIMS APAC REIT",
-    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/M326UFM2ZDBMDR7C/fc20b8827fd9ae454fe3888c5d9e454979158eae93bfbe9bab9a1b976db472cb",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/M326UFM2ZDBMDR7C/874914__FORM%201.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:36 PM",
-    "issuerName": "AIMS APAC REIT MANAGEMENT LIMITED",
-    "securityName": "AIMS APAC REIT",
-    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5776KI1AZ4QI6IFN/6a1084db4f83145697a6eaf7a832b03ee7a5b796f6bba63bf32a802d5213709f",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5776KI1AZ4QI6IFN/874911__FORM%206.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:34 PM",
-    "issuerName": "GS HOLDINGS LIMITED",
-    "securityName": "GS HOLDINGS LIMITED",
-    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest - Pang Pok and Ang Siew Kiock",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/MNQ4ZL54FHYM6MCW/e2952abbbc670257cb0a5477e7990fd312c742cbccc1d2a01393374c6b7196f1",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/MNQ4ZL54FHYM6MCW/874907__Form%203%20-%20Pang%20Pok%20and%20Ang%20Siew%20Kiock%2010022026.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:23 PM",
-    "issuerName": "FIRST REIT MANAGEMENT LIMITED",
-    "securityName": "FIRST REAL ESTATE INV TRUST",
-    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interest of Trustee Manager/ Responsible Person",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/0OQIS0OLM626AAK7/078f17f7993702553f8d46ae7b5c187d215991dc0b3d0448f69074642c4dc3dd",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/0OQIS0OLM626AAK7/874887__First_REIT_Form_6_12_February_2026.pdf"
-  },
-  {
-    "dateTime": "12 Feb 2026 05:17 PM",
-    "issuerName": "KEPPEL DC REIT MANAGEMENT PTE. LTD.",
-    "securityName": "KEPPEL DC REIT",
-    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interest of Trustee-Manager/Responsible Person",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/7QBXOF1M79XU0RAV/3fe57b3d5d7910392394e18f87a54419b95e8548d0f0062fe7299ad1c05852d8",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/7QBXOF1M79XU0RAV/874873__KDCREIT-Form%206_KDCRM_12022026_final.pdf"
-  },
-  {
-    "dateTime": "11 Feb 2026 07:25 PM",
-    "issuerName": "UNUSUAL LIMITED",
-    "securityName": "UNUSUAL LIMITED",
-    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/X4XAVJ7YR2HQYAPP/cc906cd5743854ac5ae1ae2fc7862b26a3cea2299dc15655d1591e9d7c3d6a57",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/X4XAVJ7YR2HQYAPP/874778__Form%203%20-%20UMPL%20and%20Others%20-%20Final.pdf"
-  },
-  {
-    "dateTime": "11 Feb 2026 07:18 PM",
-    "issuerName": "SKYLINK HOLDINGS LIMITED",
-    "securityName": "SKYLINK HOLDINGS LIMITED",
-    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest of Substantial Shareholder - Teh Wing Kwan",
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/M5XJAN8M7I01MUXT/abe072f9487fb6a76337ff58487a3c2c224b8b3a57b737eaea512c6c40368419",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/M5XJAN8M7I01MUXT/874776__Form%203_Teh%20Wing%20Kwan.pdf"
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CCQL6N9UGS21F6S4/874959__MPACTM_Form%206_12Feb2026.pdf",
+    "formType": "Form 6",
+    "transactionDate": "12-Feb-2026",
+    "numberOfShares": null,
+    "consideration": "5."
   }
 ]

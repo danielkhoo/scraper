@@ -7,7 +7,11 @@
       "Bash(sh)",
       "Bash(~/.local/bin/uv sync:*)",
       "Bash(~/.local/bin/uv run:*)",
-      "WebFetch(domain:r.jina.ai)"
+      "WebFetch(domain:r.jina.ai)",
+      "Bash(npm run start:*)",
+      "Bash(npm install:*)",
+      "Bash(sqlite3:*)",
+      "Bash(test:*)"
     ]
   }
 }
