@@ -72,11 +72,24 @@ const FIELD_MAPPINGS = {
   }
 };
 
+// Entity extraction patterns - different for each form type
+const ENTITY_PATTERNS = {
+  // Form 1: Name appears after "Name of Director/CEO:" then question number, then name
+  form1: /Name\s+of\s+Director\/CEO:.*?\n\s*([^\n]+)/is,
+  // Form 3: Has two possible layouts:
+  // Layout A: Entity name BEFORE label - "Entity Name\nName of Substantial Shareholder/Unitholder:1."
+  // Can be company name (with Ltd, Inc, etc) or individual name (capitalized words)
+  // Layout B: Entity name AFTER label - "Name of Substantial Shareholder/Unitholder:1.\nEntity Name"
+  form3Before: /FORM\s*3.*?\n([A-Z][^\n]{2,80})\s*\n\s*Name\s+of\s+Substantial\s+Shareholder\/Unitholder:\s*1\./is,
+  form3After: /Name\s+of\s+Substantial\s+Shareholder\/Unitholder:\s*1\.\s*\n\s*([A-Z][^\n]+?)(?=\n\s*2\.)/is
+};
+
 // Function to parse transaction data from raw PDF text
 function parseTransactionData(text) {
   // Initialize all fields to null
   const data = {
     formType: null,
+    entity: null,
     transactionDate: null,
     numberOfShares: null,
     consideration: null
@@ -90,6 +103,45 @@ function parseTransactionData(text) {
       data.formType = 'Form 3';
     } else if (text.match(/FORM\s*6/i)) {
       data.formType = 'Form 6';
+    }
+
+    // Extract entity based on form type
+    if (data.formType === 'Form 1') {
+      const match = text.match(ENTITY_PATTERNS.form1);
+      if (match && match[1]) {
+        data.entity = match[1].trim();
+      }
+    } else if (data.formType === 'Form 3') {
+      // Form 3 can have multiple shareholders - extract all and join with "/"
+      const entities = [];
+
+      // Try "after" pattern first (can match multiple)
+      const afterMatches = [...text.matchAll(/Name\s+of\s+Substantial\s+Shareholder\/Unitholder:\s*1\.\s*\n\s*([A-Z][^\n]+?)(?=\n\s*2\.)/gis)];
+      if (afterMatches.length > 0) {
+        afterMatches.forEach(match => {
+          if (match[1]) {
+            entities.push(match[1].trim());
+          }
+        });
+      }
+
+      // If no matches from "after" pattern, try "before" pattern
+      if (entities.length === 0) {
+        const beforeMatches = [...text.matchAll(/FORM\s*3.*?\n([A-Z][^\n]{2,80})\s*\n\s*Name\s+of\s+Substantial\s+Shareholder\/Unitholder:\s*1\./gis)];
+        if (beforeMatches.length > 0) {
+          beforeMatches.forEach(match => {
+            if (match[1]) {
+              entities.push(match[1].trim());
+            }
+          });
+        }
+      }
+
+      // Deduplicate and join all entities with " / "
+      if (entities.length > 0) {
+        const uniqueEntities = [...new Set(entities)];
+        data.entity = uniqueEntities.join(' / ');
+      }
     }
 
     // Extract fields using the mapping configuration
@@ -126,6 +178,7 @@ function initDatabase() {
           title TEXT,
           attachment TEXT,
           formType TEXT,
+          entity TEXT,
           transactionDate TEXT,
           numberOfShares TEXT,
           consideration TEXT
@@ -157,8 +210,8 @@ function saveAnnouncement(db, announcement) {
       // Insert or replace the record
       db.run(`
         INSERT OR REPLACE INTO announcements
-        (link, dateTime, issuerName, securityName, title, attachment, formType, transactionDate, numberOfShares, consideration)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        (link, dateTime, issuerName, securityName, title, attachment, formType, entity, transactionDate, numberOfShares, consideration)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
       `, [
         announcement.link,
         announcement.dateTime,
@@ -167,6 +220,7 @@ function saveAnnouncement(db, announcement) {
         announcement.title,
         announcement.attachment || null,
         announcement.formType || null,
+        announcement.entity || null,
         announcement.transactionDate || null,
         announcement.numberOfShares || null,
         announcement.consideration || null
@@ -304,6 +358,17 @@ async function scrapeSGXAnnouncements(options = {}) {
               const pdfText = await fetchPdfText(attachment);
               const transactionData = parseTransactionData(pdfText);
 
+              // Debug Form 3 entity extraction
+              if (transactionData.formType === 'Form 3' && i < 3) {
+                const shareholderIndex = pdfText.indexOf('Name of Substantial Shareholder');
+                if (shareholderIndex >= 0) {
+                  console.log(`\n--- Form 3 Entity Debug for: ${data[i].title.substring(0, 50)} ---`);
+                  console.log(pdfText.substring(shareholderIndex - 200, shareholderIndex + 100));
+                  console.log(`Extracted entity: "${transactionData.entity}"`);
+                  console.log('--- End Debug ---\n');
+                }
+              }
+
               // Add transaction fields to row
               Object.assign(data[i], transactionData);
               console.log(`  ✓ Parsed transaction data`);
@@ -342,17 +407,18 @@ async function scrapeSGXAnnouncements(options = {}) {
 
     // Generate markdown table from all database records
     const mdHeader = '# SGX Announcements - Transaction Summary\n\n';
-    const mdTableHeader = '| Transaction Date | Security Name | Number of Shares | Consideration | Attachment |\n';
-    const mdTableSeparator = '|-----------------|---------------|------------------|---------------|------------|\n';
+    const mdTableHeader = '| Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |\n';
+    const mdTableSeparator = '|-----------------|--------|---------------|------------------|---------------|------------|\n';
 
     const mdRows = allAnnouncements.map(row => {
       const transactionDate = row.transactionDate || 'N/A';
+      const entity = row.entity || 'N/A';
       const securityName = row.securityName || 'N/A';
       const numberOfShares = row.numberOfShares || 'N/A';
       const consideration = row.consideration || 'N/A';
       const attachment = row.attachment ? `[PDF](${row.attachment})` : 'N/A';
 
-      return `| ${transactionDate} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
+      return `| ${transactionDate} | ${entity} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
     }).join('\n');
 
     const markdown = mdHeader + mdTableHeader + mdTableSeparator + mdRows + '\n';
