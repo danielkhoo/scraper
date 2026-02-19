@@ -2,6 +2,14 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 13-Feb-2026 | Marco Low Peng Kiat | LOW KENG HUAT (SINGAPORE) LTD | 315,543,246 (Deemed Interest) | S$0.78 per Share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VFA4IE4VT7A14HKZ/875345__eFORM1V2%20-%20Marco%20Low.pdf) |
+| 19-Feb-2026 | Parkway Pantai Limited / Parkway Holdings Limited / Parkway Investments Pte. Ltd. | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EVHSFZZMAQ1FZRXR/875381__Form%203-PPL.pdf) |
+| 19-Feb-2026 | Mitsui & Co., Ltd. | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PVITUOOXYSWLZW0U/875378__Form%203-Mitsui.pdf) |
+| 13-Feb-2026 | PANG YOKE CHUN | TAI SIN ELECTRIC LIMITED | Deemed interest in 63,800 shares acquired by husband at S$0.515 per share | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VCUXA8JZULVCGHMW/875376__eFORM3V2-Pang%20Yoke%20Chun-20260219.pdf) |
+| 13-Feb-2026 | LIM BOON HOCK BERNARD | TAI SIN ELECTRIC LIMITED | Acquired 63,800 shares in own name | S$0.515 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5XI1QJOU1YZDB0BT/875374__eFORM1V2-Bernard%20Lim-20260219.pdf) |
+| 19-Feb-2026 | Khazanah Nasional Berhad | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WZ9GT5TOT99KY38P/875371__Form%203-Khazanah.pdf) |
+| 19-Feb-2026 | IHH Healthcare Berhad / Integrated Healthcare Holdings Limited | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/RQDKSURRGPKS0ZYX/875367__Form%203-IHH.pdf) |
+| 19-Feb-2026 | N/A | PARKWAYLIFE REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/6ITMAOPQN3A9ETQY/875362__Form%206-PTML.pdf) |
 | 13-Feb-2026 | Nagaraj Sivaram | ESR REIT | 220,500 units | S$544,430 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/18T4L9Q44DJSFT8H/875251__Form%201%20-%20Nagaraj%20Sivaram_13%20Feb%202026_final.pdf) |
 | 13-Feb-2026 | PANG POK / ANG SIEW KIOCK | GS HOLDINGS LIMITED | 2,000,000 | 122,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LPJSYOW5DGZS6KC5/875248__Form%203%20-%20Pang%20Pok%20and%20Ang%20Siew%20Kiock%2013022026.pdf) |
 | 11-Feb-2026 | UnUsUal Management Pte. Ltd. / mm2 Asia Ltd. / Leslie Ong Chin Soon / Johnny Ong Chin Leong | UNUSUAL LIMITED | Please refer to Paragraph 4 below. | Please refer to Paragraph 4 below. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P0W37OJSI1B3CT94/875246__Form%203%20-%20UMPL%20and%20Others%20-%20Final.pdf) |
