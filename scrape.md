@@ -2,6 +2,7 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 19-Feb-2026 | LIM HOW TECK | RAFFLES EDUCATION LIMITED | 500,000 | S$75,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2LOU8P1CBU250I2B/875527__eFORM1V2%20-%20LHT%20-%2020%20Feb%202026%20-%20final.pdf) |
 | 13-Feb-2026 | Marco Low Peng Kiat | LOW KENG HUAT (SINGAPORE) LTD | 315,543,246 (Deemed Interest) | S$0.78 per Share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VFA4IE4VT7A14HKZ/875345__eFORM1V2%20-%20Marco%20Low.pdf) |
 | 19-Feb-2026 | Parkway Pantai Limited / Parkway Holdings Limited / Parkway Investments Pte. Ltd. | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EVHSFZZMAQ1FZRXR/875381__Form%203-PPL.pdf) |
 | 19-Feb-2026 | Mitsui & Co., Ltd. | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PVITUOOXYSWLZW0U/875378__Form%203-Mitsui.pdf) |
