@@ -2,6 +2,12 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 16-Feb-2026 | Jan Frederic Moermann | ALPHA INTEGRATED REIT | 13,973,926 | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SZ85R0AIDB8CSQ7O/875589__20260220%20Alpha%20Integrated%20REIT%20Jan%20Moerman%20Form%201.pdf) |
+| 16-Feb-2026 | Quarz Capital ASIA (Singapore) Pte. Ltd. | ALPHA INTEGRATED REIT | 13,973,926 | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EWM3VVQ9BPOTRMJZ/875587__20260220%20Alpha%20Integrated%20REIT%20QCA%20Form%203.pdf) |
+| 19-Feb-2026 | TAN SU SHAN | DBS GROUP HOLDINGS LTD | 53,988 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P0JUTRZW5TUITY9T/875627__FORM1_TSS_19Feb26_VEST_FINAL.pdf) |
+| 23-Feb-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EHF160SEDIGBC01E/875608__eFORM1_ChengWK_230226_Final.pdf) |
+| 19-Feb-2026 | BlackRock, Inc. | KEPPEL DC REIT | 100,800 | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1TH9HE1DIZ51XL78/875605__Keppel%20DC%20Reit%2002.19.2026%20Form%203_final.pdf) |
+| 20-Feb-2026 | Mikuni Co., Limited / YOSHIMI Kunikazu | CDW HOLDING LIMITED | 244,700 | S$34,030.80 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WYNMV2PCHW4NOK65/875596__eFORM3V2%20-%20Mikuni%20Co%20Limited%20and%20Yoshimi%20Kunikazu_Final.pdf) |
 | 19-Feb-2026 | LIM HOW TECK | RAFFLES EDUCATION LIMITED | 500,000 | S$75,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2LOU8P1CBU250I2B/875527__eFORM1V2%20-%20LHT%20-%2020%20Feb%202026%20-%20final.pdf) |
 | 13-Feb-2026 | Marco Low Peng Kiat | LOW KENG HUAT (SINGAPORE) LTD | 315,543,246 (Deemed Interest) | S$0.78 per Share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VFA4IE4VT7A14HKZ/875345__eFORM1V2%20-%20Marco%20Low.pdf) |
 | 19-Feb-2026 | Parkway Pantai Limited / Parkway Holdings Limited / Parkway Investments Pte. Ltd. | PARKWAYLIFE REIT | 0 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EVHSFZZMAQ1FZRXR/875381__Form%203-PPL.pdf) |
