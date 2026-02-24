@@ -2,6 +2,11 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 20-Feb-2026 | HILDRICS ASIA GROWTH FUND VCC | UNUSUAL LIMITED | 97,100 | $2,718.80 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/BVMQT28VEGJS6ZMK/875748__vF%20-%20Hildrics%20VCC%20-%20eFORM3V2.pdf) |
+| 20-Feb-2026 | HILDRICS CAPITAL PTE. LTD. / CHOO KEE SIONG / WEE TENG CHUEN | UNUSUAL LIMITED | 0 | 0 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3ZZ67K3SM9YH9W47/875746__vF%20-%20Hildrics%20Capital%20-%20eFORM3V2.pdf) |
+| 24-Feb-2026 | N/A | CAPITALAND ASCOTT TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XBKEZYC4ZR92GBOV/875723__eFORM6V2_CLASBTML.pdf) |
+| 24-Feb-2026 | N/A | CAPITALAND ASCOTT TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SLX5KK505T6B60UE/875718__eFORM6V2_CLASML.pdf) |
+| 24-Feb-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P0085775XJZTJOWU/875714__eFORM1_ChengWK_240226_Final.pdf) |
 | 16-Feb-2026 | Jan Frederic Moermann | ALPHA INTEGRATED REIT | 13,973,926 | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SZ85R0AIDB8CSQ7O/875589__20260220%20Alpha%20Integrated%20REIT%20Jan%20Moerman%20Form%201.pdf) |
 | 16-Feb-2026 | Quarz Capital ASIA (Singapore) Pte. Ltd. | ALPHA INTEGRATED REIT | 13,973,926 | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EWM3VVQ9BPOTRMJZ/875587__20260220%20Alpha%20Integrated%20REIT%20QCA%20Form%203.pdf) |
 | 19-Feb-2026 | TAN SU SHAN | DBS GROUP HOLDINGS LTD | 53,988 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P0JUTRZW5TUITY9T/875627__FORM1_TSS_19Feb26_VEST_FINAL.pdf) |
