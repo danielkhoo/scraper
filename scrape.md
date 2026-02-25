@@ -2,6 +2,16 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| N/A | N/A | ALPHA INTEGRATED REIT | N/A | N/A | N/A |
+| 23-Dec-2025 | N/A | ALPHA INTEGRATED REIT | Shareholder | 3. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/W5UVTPBILZ7ZX9MB/876031__eFORM5_Volare_Dec%2025.pdf) |
+| 24-Feb-2026 | Mindarie Investment Pte. Ltd / Mindarie Holding Pte. Ltd. / Volare Group AG / Cielo Holding AG / Daniel Sieber | ALPHA INTEGRATED REIT | 137,215,125 units | S$65,577,736.78 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LZXE24AL4VSGZY08/876022__eFORM3_Volare_25%20Feb%2026.pdf) |
+| 23-Feb-2026 | YEOMAN 3-RIGHTS VALUE ASIA FUND VCC / Yeoman Capital Management Pte Ltd / YEO SENG CHONG | NAM LEE PRESSED METAL INDS LTD | 175,000 SHARES | @0.71857 PER SHARES | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/09VQZPX1UJU9S6RL/875971__eFORM3V2%20NAM%20LEE%20%2025022026.pdf) |
+| 23-Feb-2026 | Zhou Xinping | TRITECH GROUP LIMITED | 27,106,846 shares | S$352,389 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/BCNFGZLPRPO3N3A5/875954__eFORM1V2_Zhou%20Xinping%20-%20Final.pdf) |
+| 23-Feb-2026 | Protocol Capital W.L.L. / Mohammed Hassan Ma Al-Thani / Shiekh Hassan Mohd Al-Thani | TRITECH GROUP LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LP5PEIP2Q6TNUPBA/875952__eFORM3V2_Protocol%20Capital%20W.L.L%20-%20Final.PDF) |
+| 23-Feb-2026 | Lee Sui Hee | TRITECH GROUP LIMITED | 439,089,398 shares | S$5,708,162.18 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8TKEOO1OSAVCS5TX/875950__eFORM3V2_Lee%20Sui%20Hee%20%20-%20Final.pdf) |
+| 23-Feb-2026 | Wang Xiaoning | TRITECH GROUP LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/4QLD630WPEXA9STJ/875944__eFORM3V2_Jeffrey%20Wang%20-%20Final.pdf) |
+| 25-Feb-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/S6O732YG2U5WDUMJ/875925__eFORM1_ChengWK_250226_Final.pdf) |
+| 20-Feb-2026 | Boey Teik Heng (Mei Dexing) | IPS SECUREX HOLDINGS LIMITED | 15,900 shares | S$636.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UMQAH3QZO3BALZDV/875849__Form%201%20-%20Kendrick%20Boey%20-%2024%20Feb%202026.pdf) |
 | 20-Feb-2026 | HILDRICS ASIA GROWTH FUND VCC | UNUSUAL LIMITED | 97,100 | $2,718.80 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/BVMQT28VEGJS6ZMK/875748__vF%20-%20Hildrics%20VCC%20-%20eFORM3V2.pdf) |
 | 20-Feb-2026 | HILDRICS CAPITAL PTE. LTD. / CHOO KEE SIONG / WEE TENG CHUEN | UNUSUAL LIMITED | 0 | 0 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3ZZ67K3SM9YH9W47/875746__vF%20-%20Hildrics%20Capital%20-%20eFORM3V2.pdf) |
 | 24-Feb-2026 | N/A | CAPITALAND ASCOTT TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XBKEZYC4ZR92GBOV/875723__eFORM6V2_CLASBTML.pdf) |
