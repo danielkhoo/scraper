@@ -2,7 +2,23 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
-| N/A | N/A | ALPHA INTEGRATED REIT | N/A | N/A | N/A |
+| 25-Feb-2026 | Lee Sai Sing | ABUNDANTE LIMITED | 300,000 ordinary shares | $45,000.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/CGDXK2FYSQ175926/876194__SFA%20Form1%20LSS%20Feb26.pdf) |
+| 25-Feb-2026 | LIM HOW TECK | RAFFLES EDUCATION LIMITED | 500,000 | S$75,500 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2OU58KJYZFU7YCL0/876377__eFORM1V2%20-%20LHT%20-%2026%20Feb%202026.pdf) |
+| 25-Feb-2026 | Boey Teik Heng (Mei Dexing) | IPS SECUREX HOLDINGS LIMITED | 230,200 shares | S$9,389.20 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7XD4F93YQQ0237ZC/876375__Form%201%20-%20Kendrick%20Boey%20-%2025%20Feb%202026%20-%20Final.pdf) |
+| 23-Feb-2026 | UnUsUal Management Pte. Ltd. / mm2 Asia Ltd. / Leslie Ong Chin Soon / Johnny Ong Chin Leong | UNUSUAL LIMITED | Please refer to Paragraph 4 below. | Please refer to Paragraph 4 below. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/YSDKZC33N9WMS9UI/876365__Form%203%20-%20UMPL%20and%20Others%20-%20Final.pdf) |
+| 25-Feb-2026 | Frasers Property Industrial Trust Holdings II Pte. Ltd. ("FPITH II") | FRASERS LOGISTICS & COMMERCIAL TRUST | 1,000,000 units in FLCT ("Units") | S$1,000,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/287MZRAYL46EUI2P/876357__Form%203%20-%20FPITH%20II.pdf) |
+| 26-Feb-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/6O38PI1FABYH1IJ2/876351__eFORM1_ChengWK_260226_Final.pdf) |
+| 23-Jan-2026 | Eddy Lee Yip Hang | MULTIPLE | NA | NA | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/AZAG5QDQ7Y25ZAD3/876346__Form%203%20-%20Eddy.pdf) |
+| 26-Feb-2026 | KEN LOH KAH SOON | PAN-UNITED CORPORATION LTD | 70,000 share awards | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LRZ6U91SS3I1H307/876339__FORM%201_LKS_SA.pdf) |
+| 26-Feb-2026 | N/A | CAPITALAND CHINA TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LM2VNRVUB9HEMM2V/876309__eFORM6V2_26FEB2026.pdf) |
+| 24-Feb-2026 | Chua Keng Kim | CAPITALAND CHINA TRUST | 100,000 units | SGD71,500.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/MTUVL77RE9P84SGR/876307__FORM_1_CKK.pdf) |
+| 26-Feb-2026 | N/A | CAPITALAND INDIA TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/C0L41L2E0YFOAZ3Q/876287__20260226%20-%20Form%206%20-%20Final.pdf) |
+| 26-Feb-2026 | N/A | CAPITALAND ASCENDAS REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1CLAR0EH578UE8HM/876284__eFORM6V2%20-%2026%20Feb%202026.pdf) |
+| 26-Feb-2026 | N/A | CAPITALAND ASCOTT TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/40XOM8A683Q8RYDG/876261__eFORM6V2_CLASML.pdf) |
+| 26-Feb-2026 | N/A | CAPITALAND INTEGRATED COMM TR | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/G2DS7GVOP6SWRDH7/876256__CICT%20-%20Form%206_v2.pdf) |
+| 25-Feb-2026 | Andrew Lee Kok Keng | OVERSEA-CHINESE BANKING CORP | 23,085 options | S$203,471.19 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SVJDTDZHU325ZCAC/876251__Form1_Andrew_Lee_25Feb2026.pdf) |
+| 24-Feb-2026 | Dr Bhupendra Kumar Modi ("Dr Modi") | DIGILIFE TECHNOLOGIES LIMITED | 153,501 ordinary shares in the Company | S$408,312.66 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/C0DL0TWBVVICQK8Z/876055__eFORM3_Dr%20Modi_Final.pdf) |
+| 24-Feb-2026 | N/A | ALPHA INTEGRATED REIT | Shareholder | 3. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/6ZY3JSLQGVXJI393/876034__eFORM5_Volare_Feb%2026.pdf) |
 | 23-Dec-2025 | N/A | ALPHA INTEGRATED REIT | Shareholder | 3. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/W5UVTPBILZ7ZX9MB/876031__eFORM5_Volare_Dec%2025.pdf) |
 | 24-Feb-2026 | Mindarie Investment Pte. Ltd / Mindarie Holding Pte. Ltd. / Volare Group AG / Cielo Holding AG / Daniel Sieber | ALPHA INTEGRATED REIT | 137,215,125 units | S$65,577,736.78 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LZXE24AL4VSGZY08/876022__eFORM3_Volare_25%20Feb%2026.pdf) |
 | 23-Feb-2026 | YEOMAN 3-RIGHTS VALUE ASIA FUND VCC / Yeoman Capital Management Pte Ltd / YEO SENG CHONG | NAM LEE PRESSED METAL INDS LTD | 175,000 SHARES | @0.71857 PER SHARES | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/09VQZPX1UJU9S6RL/875971__eFORM3V2%20NAM%20LEE%20%2025022026.pdf) |
