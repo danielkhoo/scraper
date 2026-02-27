@@ -2,6 +2,26 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 25-Feb-2026 | Brooklands Fund Management Limited | SING HOLDINGS LIMITED | 1,695,500 | SGD 0.71 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UMFTH0V0DU9L9WBR/876794__Form%203%20Brooklands%20Sing%20Holdings.pdf) |
+| 27-Feb-2026 | Kong Chee Min | CENTURION CORPORATION LIMITED | 50,000 ordinary shares | S$77,500.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2IYH8OKKU1R1RU7D/876786__eFORM1V2-Kong%20Chee%20Min-20260227.pdf) |
+| 26-Feb-2026 | Deborah Lee Siew Yin | CAPITALAND ASCOTT TRUST | 24,621 stapled securities | S$0.8529 per stapled security | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EDZHULJ2ITJYRIJB/876755__eFORM1V2_DL.pdf) |
+| 26-Feb-2026 | Chia Kim Huat | CAPITALAND ASCOTT TRUST | 24,621 stapled securities | S$0.8529 per stapled security | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7PXJ61EU74DPE1ZO/876751__eFORM1V2_CKH.pdf) |
+| 26-Feb-2026 | Lui Chong Chee | CAPITALAND ASCOTT TRUST | 34,001 stapled securities | S$0.8529 per stapled security | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ZLG2339QSOG5X1GH/876748__eFORM1V2_LCC.pdf) |
+| 24-Feb-2026 | Tembusu Capital Pte. Ltd. ("Tembusu") | CAPITALAND ASCOTT TRUST | 15,225,684 stapled securities of the Listed Issuer ("Units"). | S$0.9415 per Unit. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TI1LH4WBAVHULBCH/876742__CLAS%2020260226%20FORM%203%20Tembusu%20final.pdf) |
+| 24-Feb-2026 | HILDRICS CAPITAL PTE. LTD. / CHOO KEE SIONG / WEE TENG CHUEN | UNUSUAL LIMITED | 0 | 0 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P9B4E2250T9PKD0O/876737__vF%20-%20Hildrics%20Capital%20-%20eFORM3V2.pdf) |
+| 24-Feb-2026 | HILDRICS ASIA GROWTH FUND VCC | UNUSUAL LIMITED | 114,400 | $3,203.20 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/W6JDTQ6T3S7SIFCN/876730__vF%20-%20Hildrics%20VCC%20-%20eFORM3V2.pdf) |
+| 26-Feb-2026 | Choo Oi Yee | CAPITALAND ASCENDAS REIT | 6,805 units | S$2.645 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/MTCFQXQIG9MKY5S9/876725__eFORM1V2%20-%20Oi%20Yee.pdf) |
+| 26-Feb-2026 | Chinniah Kunnasagaran | CAPITALAND ASCENDAS REIT | 9,073 units | S$2.645 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/H8MHRJ2TPLKW1ANQ/876720__eFORM1V2%20-%20Kunna.pdf) |
+| 26-Feb-2026 | Daniel Cuthbert Ee Hock Huat | CAPITALAND ASCENDAS REIT | 10,586 units | S$2.645 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/FBUYBOGO2QNKSOFY/876705__eFORM1V2%20-%20Daniel.pdf) |
+| 26-Feb-2026 | Liu Sing Cheong | CAPITALAND CHINA TRUST | 3,773 units | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/01X8KSCSZD27E8BA/876663__eFORM1_LSC_27FEB26.pdf) |
+| 26-Feb-2026 | Wan Mei Kit | CAPITALAND CHINA TRUST | 26,115 units | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/JPF3VFOCQASPSWZ4/876656__eFORM1_WMK_27FEB26.pdf) |
+| 26-Feb-2026 | Tay Hwee Pio | CAPITALAND CHINA TRUST | 26,115 units | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/QSA33HYKHP2N09UO/876652__eFORM1_THP_27FEB26.pdf) |
+| 26-Feb-2026 | Ong Seow Eng | CAPITALAND CHINA TRUST | 26,115 | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/D08ZTE7FBZ99KNEG/876646__eFORM1_OSE_27FEB26.pdf) |
+| 26-Feb-2026 | Chua Keng Kim | CAPITALAND CHINA TRUST | 27,881 units | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/C9BXUIR7IAI21QAX/876635__eFORM1_CKK_27FEB26.pdf) |
+| 26-Feb-2026 | Tan Tee How | CAPITALAND CHINA TRUST | 42,546 units | S$0.6816 per unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8BVHUZ8W1JJKX131/876630__eFORM1_TTH_27FEB26.pdf) |
+| 26-Feb-2026 | N/A | ESR REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/APH1L6BM57MTLYPC/876606__Form%206%20-%20ESR%20MFU%20-%2026%20Feb%2026.final.pdf) |
+| 27-Feb-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/B8FV6FSE6LVAOJZB/876577__eFORM1_ChengWK_270226_Final.pdf) |
+| 26-Feb-2026 | Chew Choon Tee | MEGACHEM LIMITED | 3,000 shares | S$0.42 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Z11ZOB8SLAQDW8F9/876545__FORM1_Chew%20Choon%20Tee.pdf) |
 | 25-Feb-2026 | Lee Sai Sing | ABUNDANTE LIMITED | 300,000 ordinary shares | $45,000.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/CGDXK2FYSQ175926/876194__SFA%20Form1%20LSS%20Feb26.pdf) |
 | 25-Feb-2026 | LIM HOW TECK | RAFFLES EDUCATION LIMITED | 500,000 | S$75,500 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2OU58KJYZFU7YCL0/876377__eFORM1V2%20-%20LHT%20-%2026%20Feb%202026.pdf) |
 | 25-Feb-2026 | Boey Teik Heng (Mei Dexing) | IPS SECUREX HOLDINGS LIMITED | 230,200 shares | S$9,389.20 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7XD4F93YQQ0237ZC/876375__Form%201%20-%20Kendrick%20Boey%20-%2025%20Feb%202026%20-%20Final.pdf) |
