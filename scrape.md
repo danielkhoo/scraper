@@ -2,6 +2,9 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| 27-Feb-2026 | LIM HOW TECK | RAFFLES EDUCATION LIMITED | 250,000 | S$38,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/17STMV1XOJ7VLP8L/876879__eFORM1V2%20-%20LHT%20-%2027%20Feb%202026%20final.pdf) |
+| 26-Feb-2026 | N/A | CENTURION ACCOMMODATION REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/H6BWGMV2O1Z7M8Q3/876865__Form%206%20-%20CAM%20-%2027%20Feb%202026.pdf) |
+| 24-Feb-2026 | Ameriprise Financial, Inc. | VENTURE CORPORATION LIMITED | 281,700 shares | SGD 4,721,715 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/F2N967Y7QXUX0O2H/876861__FORM_3_Ameriprise_20260224.pdf) |
 | 25-Feb-2026 | Brooklands Fund Management Limited | SING HOLDINGS LIMITED | 1,695,500 | SGD 0.71 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UMFTH0V0DU9L9WBR/876794__Form%203%20Brooklands%20Sing%20Holdings.pdf) |
 | 27-Feb-2026 | Kong Chee Min | CENTURION CORPORATION LIMITED | 50,000 ordinary shares | S$77,500.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2IYH8OKKU1R1RU7D/876786__eFORM1V2-Kong%20Chee%20Min-20260227.pdf) |
 | 26-Feb-2026 | Deborah Lee Siew Yin | CAPITALAND ASCOTT TRUST | 24,621 stapled securities | S$0.8529 per stapled security | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EDZHULJ2ITJYRIJB/876755__eFORM1V2_DL.pdf) |
