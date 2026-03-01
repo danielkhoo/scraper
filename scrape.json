@@ -1545,5 +1545,31 @@
     "transactionDate": "22-Jan-2026",
     "numberOfShares": "NOT APPLICABLE",
     "consideration": "NOT APPLICABLE"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/A9KDQ5FFAFZPKVO1/0668efdd3e419857bfded47a50d5408887f71fa6f86e583450fcc0b3718e906b",
+    "dateTime": "01 Mar 2026 04:44 PM",
+    "issuerName": "VALUEMAX GROUP LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Tan Hong Yee",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/A9KDQ5FFAFZPKVO1/876963__eFORM3V2%2020260226%20THY.pdf",
+    "formType": "Form 3",
+    "entity": "Tan Hong Yee (\"THY\")",
+    "transactionDate": "26-Feb-2026",
+    "numberOfShares": "34,800,000 ordinary shares",
+    "consideration": "S$40,368,000/-"
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/ICKVUB40L86DTACS/bbd0784b3137e44ebd5b61e7ede014947af2a9a8a65b25e89ba2b78ab9c3750f",
+    "dateTime": "01 Mar 2026 04:41 PM",
+    "issuerName": "VALUEMAX GROUP LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Yeah Hiang Nam",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/ICKVUB40L86DTACS/876961__eFORM1V2%2020260226%20YHN.pdf",
+    "formType": "Form 1",
+    "entity": "Yeah Hiang Nam @ Yeo Hiang Nam (\"YHN\")",
+    "transactionDate": "26-Feb-2026",
+    "numberOfShares": "34,800,000 ordinary shares",
+    "consideration": "S$40,368,000/-"
   }
 ]

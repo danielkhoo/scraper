@@ -121,3 +121,5 @@
 | 04-Feb-2026 | CHEW SOO LIN | DUTY FREE INTERNATIONALLIMITED | 200 | S$15.20 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/V2H0PS8M160ZIRP8/874544__eFORM1V2%20CSL%2009022026.pdf) |
 | 07-Feb-2026 | John J. Stewart | DIGITAL CORE REIT | 600,000 time-based restricted units and 461,538 performance-based contingent units (please see item 12 below) | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TT9SDYUDBF317KDT/874529__Form%201%20-%20CEO.pdf) |
 | 22-Jan-2026 | HEAH THEARE HAW | ASTI HOLDINGS LIMITED | NOT APPLICABLE | NOT APPLICABLE | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GGU17P13V5X2IU4O/874527__20260206%20eFORM3V2_Heah%20Theare%20Haw.pdf) |
+| 26-Feb-2026 | Tan Hong Yee ("THY") | MULTIPLE | 34,800,000 ordinary shares | S$40,368,000/- | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/A9KDQ5FFAFZPKVO1/876963__eFORM3V2%2020260226%20THY.pdf) |
+| 26-Feb-2026 | Yeah Hiang Nam @ Yeo Hiang Nam ("YHN") | MULTIPLE | 34,800,000 ordinary shares | S$40,368,000/- | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ICKVUB40L86DTACS/876961__eFORM1V2%2020260226%20YHN.pdf) |
