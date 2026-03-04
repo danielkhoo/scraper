@@ -159,6 +159,56 @@ function parseTransactionData(text) {
   return data;
 }
 
+// Returns true if numberOfShares contains a number >= 100,000 AND transactionDate is today
+function shouldNotify(numberOfShares, transactionDate) {
+  if (!numberOfShares || !transactionDate) return false;
+
+  const today = new Date();
+  const txDate = parseTransactionDate(transactionDate);
+  if (
+    txDate.getFullYear() !== today.getFullYear() ||
+    txDate.getMonth()    !== today.getMonth()    ||
+    txDate.getDate()     !== today.getDate()
+  ) return false;
+
+  const match = numberOfShares.match(/[\d,]+/);
+  if (!match) return false;
+  const num = parseInt(match[0].replace(/,/g, ''), 10);
+  return !isNaN(num) && num >= 100000;
+}
+
+// POST a push notification to ntfy.sh for a qualifying announcement
+function sendNotification(row) {
+  return new Promise((resolve) => {
+    const message = `${row.securityName || 'N/A'} - ${row.entity || 'N/A'} - ${row.numberOfShares || 'N/A'}`;
+    const body = Buffer.from(message);
+    const anchorId = row.link ? (row.link.match(/corporate-announcements\/([^/]+)\//) || [])[1] : null;
+    const clickUrl = anchorId
+      ? `https://github.com/danielkhoo/scraper/blob/main/scrape.md#${anchorId}`
+      : 'https://github.com/danielkhoo/scraper/blob/main/scrape.md';
+    const options = {
+      hostname: 'ntfy.sh',
+      path: '/sgx-scraper',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'text/plain',
+        'Content-Length': body.length,
+        'Click': clickUrl
+      }
+    };
+    const req = https.request(options, (res) => {
+      console.log(`  ✓ Notification sent (HTTP ${res.statusCode})`);
+      resolve();
+    });
+    req.on('error', (err) => {
+      console.log(`  ✗ Notification failed: ${err.message}`);
+      resolve();
+    });
+    req.write(body);
+    req.end();
+  });
+}
+
 // Initialize SQLite database
 function initDatabase() {
   return new Promise((resolve, reject) => {
@@ -181,14 +231,30 @@ function initDatabase() {
           entity TEXT,
           transactionDate TEXT,
           numberOfShares TEXT,
-          consideration TEXT
+          consideration TEXT,
+          notify INTEGER DEFAULT 0
         )
       `, (err) => {
         if (err) {
           reject(err);
           return;
         }
-        resolve(db);
+
+        // Add notify column to existing DBs that predate this field (no-op if already present)
+        db.run(`ALTER TABLE announcements ADD COLUMN notify INTEGER DEFAULT 0`, () => {
+          // Backfill notify for existing rows that haven't been set yet
+          db.all('SELECT link, numberOfShares FROM announcements WHERE notify IS NULL OR notify = 0', [], (err, rows) => {
+            if (err || !rows || rows.length === 0) {
+              resolve(db);
+              return;
+            }
+            const stmt = db.prepare('UPDATE announcements SET notify = ? WHERE link = ?');
+            rows.forEach(row => {
+              stmt.run(shouldNotify(row.numberOfShares) ? 1 : 0, row.link);
+            });
+            stmt.finalize(() => resolve(db));
+          });
+        });
       });
     });
   });
@@ -210,8 +276,8 @@ function saveAnnouncement(db, announcement) {
       // Insert or replace the record
       db.run(`
         INSERT OR REPLACE INTO announcements
-        (link, dateTime, issuerName, securityName, title, attachment, formType, entity, transactionDate, numberOfShares, consideration)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        (link, dateTime, issuerName, securityName, title, attachment, formType, entity, transactionDate, numberOfShares, consideration, notify)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
       `, [
         announcement.link,
         announcement.dateTime,
@@ -223,7 +289,8 @@ function saveAnnouncement(db, announcement) {
         announcement.entity || null,
         announcement.transactionDate || null,
         announcement.numberOfShares || null,
-        announcement.consideration || null
+        announcement.consideration || null,
+        shouldNotify(announcement.numberOfShares, announcement.transactionDate) ? 1 : 0
       ], function (err) {
         if (err) {
           reject(err);
@@ -235,14 +302,29 @@ function saveAnnouncement(db, announcement) {
   });
 }
 
+// Parse "DD-Mon-YYYY" transaction date strings into Date objects for sorting
+function parseTransactionDate(dateStr) {
+  if (!dateStr) return new Date(0);
+  const months = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
+  const [day, mon, year] = dateStr.split('-');
+  const m = months[mon];
+  if (!day || m === undefined || !year) return new Date(0);
+  return new Date(parseInt(year), m, parseInt(day));
+}
+
 // Get all announcements from database
 function getAllAnnouncements(db) {
   return new Promise((resolve, reject) => {
-    db.all('SELECT * FROM announcements ORDER BY dateTime DESC', [], (err, rows) => {
+    db.all('SELECT * FROM announcements', [], (err, rows) => {
       if (err) {
         reject(err);
         return;
       }
+      rows.sort((a, b) => {
+        const dateDiff = parseTransactionDate(b.transactionDate) - parseTransactionDate(a.transactionDate);
+        if (dateDiff !== 0) return dateDiff;
+        return (b.dateTime || '').localeCompare(a.dateTime || '');
+      });
       resolve(rows);
     });
   });
@@ -389,6 +471,9 @@ async function scrapeSGXAnnouncements(options = {}) {
         if (isNew) {
           newRecords++;
           console.log(`  ✓ Saved to database (new record)`);
+          if (shouldNotify(data[i].numberOfShares, data[i].transactionDate)) {
+            await sendNotification(data[i]);
+          }
         } else {
           existingRecords++;
           console.log(`  ✓ Already in database (updated)`);
@@ -411,6 +496,8 @@ async function scrapeSGXAnnouncements(options = {}) {
     const mdTableSeparator = '|-----------------|--------|---------------|------------------|---------------|------------|\n';
 
     const mdRows = allAnnouncements.map(row => {
+      const anchorId = row.link ? (row.link.match(/corporate-announcements\/([^/]+)\//) || [])[1] : null;
+      const anchor = anchorId ? `<a id="${anchorId}"></a>` : '';
       const transactionDate = row.transactionDate || 'N/A';
       const entity = row.entity || 'N/A';
       const securityName = row.securityName || 'N/A';
@@ -418,7 +505,7 @@ async function scrapeSGXAnnouncements(options = {}) {
       const consideration = row.consideration || 'N/A';
       const attachment = row.attachment ? `[PDF](${row.attachment})` : 'N/A';
 
-      return `| ${transactionDate} | ${entity} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
+      return `| ${anchor}${transactionDate} | ${entity} | ${securityName} | ${numberOfShares} | ${consideration} | ${attachment} |`;
     }).join('\n');
 
     const markdown = mdHeader + mdTableHeader + mdTableSeparator + mdRows + '\n';
