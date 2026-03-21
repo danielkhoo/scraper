@@ -1,5 +1,47 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/Z8B7E6P4NVUN097V/d5451931cc3698d0163dd473a70127247b05c3507f41927a35c11421d0cf56f1",
+    "dateTime": "20 Mar 2026 10:45 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/Z8B7E6P4NVUN097V/879021__eFORM3V2%20-%20CCS_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "CHUA CHENG SOON",
+    "transactionDate": "20-Mar-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/SKQAAE39YKQAM6IC/a06c6afd76557802fbd5c5532bb92cfa348f6b60b3a5e32eaca1c6e701d7f9c9",
+    "dateTime": "20 Mar 2026 10:42 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SKQAAE39YKQAM6IC/879019__eFORM3V2%20-%20CSX_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "CAO SHIXUAN",
+    "transactionDate": "20-Mar-2026",
+    "numberOfShares": "N.A",
+    "consideration": "N.A",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XJ55OCDQHI8OMIJL/2679fa483c1c8a57697ee30d888c7805f4e3c60342ca0510193cb8bc0a1a3539",
+    "dateTime": "20 Mar 2026 08:33 PM",
+    "issuerName": "MEDI LIFESTYLE LIMITED",
+    "securityName": "MEDI LIFESTYLE LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest of Substantial Shareholder - Tan Ong Huat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XJ55OCDQHI8OMIJL/879013__eFORM3V2%20-%20Tan%20Ong%20Huat_SPA_Final.pdf",
+    "formType": "Form 3",
+    "entity": "Tan Ong Huat",
+    "transactionDate": "20-Mar-2026",
+    "numberOfShares": "44,000,000",
+    "consideration": "S$176,000.00",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/5SR2M6366XGDH500/bd8ad60bcb06b07d7374acbb25b3b8ebd58625ca9c6f2012f7e8c3ed21913512",
     "dateTime": "20 Mar 2026 07:12 PM",
     "issuerName": "ESR TRUST MANAGEMENT (SUNTEC) LIMITED",
@@ -11,7 +53,7 @@
     "transactionDate": "20-Mar-2026",
     "numberOfShares": "317,981,810 Units in Suntec REIT",
     "consideration": "N.A",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/STA3X18XZLN4QSM1/7387c404f58c2ced1f02945588238ab2c1facfe1863bfddbbd990d91c7b2b15c",
@@ -25,7 +67,7 @@
     "transactionDate": "20-Mar-2026",
     "numberOfShares": "317,981,810 Units in Suntec REIT",
     "consideration": "N.A",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/BMQS4BF1IBNRGJM8/ae854bf34d6f4ff41d8336de39376b43b230d8146dc3393cd4fa1533a36196c5",
@@ -39,7 +81,7 @@
     "transactionDate": "20-Mar-2026",
     "numberOfShares": "Total of 317,981,810 Units under the SPA",
     "consideration": "Aggregate of S$540,569,077 for the 317,981,810 Units",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/7CY6XX2C2WC5EN0T/00f1e673ead671f11bb069d2b95b1eac2778d370512989a393164996fd2b9184",
@@ -53,7 +95,7 @@
     "transactionDate": "20-Mar-2026",
     "numberOfShares": "317,981,810 Units in Suntec REIT",
     "consideration": "N.A",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/SB5OPK08591EVPHD/a12c90f2b228b56053f9450e5a98a98328ef9b769e37304699174b1fdda22eb1",
@@ -123,7 +165,7 @@
     "transactionDate": "20-Mar-2026",
     "numberOfShares": "478,365",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/R4G2Y26K3MWYFQHZ/dff470fc67533ec49ad72b18e9f7c8f687c9895c76d8c0a9fd8b45f0250bfb3a",
@@ -476,6 +518,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/2NY8C8LXMHPY7JH7/ebf3210c24241002d182b12c54ada247fc4c984c57b024025f4da0fa997d8a75",
+    "dateTime": "20 Mar 2026 11:23 PM",
+    "issuerName": "AEM HOLDINGS LTD.",
+    "securityName": "AEM HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest Change - JPMorgan Chase & Co.",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/2NY8C8LXMHPY7JH7/879026__eFORM3V2.pdf",
+    "formType": "Form 3",
+    "entity": "JPMorgan Chase & Co.",
+    "transactionDate": "17-Mar-2026",
+    "numberOfShares": "887,900 Units",
+    "consideration": "SGD 3,214,529",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/24DPVUN4FB3U1I4T/41428c30d01005d980f5e636937c20ff37d99af3d7e1198d740ff1168ce6edb9",
     "dateTime": "20 Mar 2026 05:41 PM",
     "issuerName": "MARCO POLO MARINE LTD.",
@@ -711,6 +767,20 @@
     "transactionDate": "17-Mar-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/FJ0IVIAV1AU7IBEI/3996e5445042761a5e5f595d97fdbe69745dc16bbaf31c33360aea368108325e",
+    "dateTime": "20 Mar 2026 10:49 PM",
+    "issuerName": "AEM HOLDINGS LTD.",
+    "securityName": "AEM HOLDINGS LTD",
+    "title": "REPL::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Replacement Announcement on Changes in Interest of Substantial Shareholder - JPMorgan Chase & Co.",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/FJ0IVIAV1AU7IBEI/879024__eFORM3V2%20-Updated.pdf",
+    "formType": "Form 3",
+    "entity": "JPMorgan Chase & Co.",
+    "transactionDate": "16-Mar-2026",
+    "numberOfShares": "632,400 Units",
+    "consideration": "SGD  1,864,650.07",
     "notify": 0
   },
   {
