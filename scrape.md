@@ -2,6 +2,8 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="5ZD81CBB4M43VI85"></a>21-Mar-2026 | Pek Choon Heng | MEDI LIFESTYLE LTD | 36,000,000 | S$144,000.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5ZD81CBB4M43VI85/880035__eFORM3V2%20-%20Pek%20Choon%20Heng_SPA_Final.pdf) |
+| <a id="TPZ2V2PYU2KTQ5OV"></a>21-Mar-2026 | Ong Gim Loo | MEDI LIFESTYLE LTD | 39,000,000 | S$156,000.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TPZ2V2PYU2KTQ5OV/880033__eFORM3V2%20-%20Ong%20Gim%20Loo_SPA_Final.pdf) |
 | <a id="Z8B7E6P4NVUN097V"></a>20-Mar-2026 | CHUA CHENG SOON | METECH INTERNATIONAL LTD | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Z8B7E6P4NVUN097V/879021__eFORM3V2%20-%20CCS_Exe.pdf) |
 | <a id="SKQAAE39YKQAM6IC"></a>20-Mar-2026 | CAO SHIXUAN | METECH INTERNATIONAL LTD | N.A | N.A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SKQAAE39YKQAM6IC/879019__eFORM3V2%20-%20CSX_Exe.pdf) |
 | <a id="XJ55OCDQHI8OMIJL"></a>20-Mar-2026 | Tan Ong Huat | MEDI LIFESTYLE LTD | 44,000,000 | S$176,000.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XJ55OCDQHI8OMIJL/879013__eFORM3V2%20-%20Tan%20Ong%20Huat_SPA_Final.pdf) |
