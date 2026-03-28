@@ -25,7 +25,7 @@
     "transactionDate": "27-Mar-2026",
     "numberOfShares": "118,500",
     "consideration": "SGD2,729",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/21Y8A2XYE2USC8DU/6ab572f9fc1e1af3e2d671611d7864f2c6b133d9ed1f86e67b7320143498cfa6",
@@ -39,7 +39,7 @@
     "transactionDate": "27-Mar-2026",
     "numberOfShares": "677,137 units vested under the Digital Core REIT Management Pte. Ltd. Incentive Award Plan",
     "consideration": "Not applicable",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/43YHADXRPZVNCLCF/358e9f0d9c1a28fb2bf4b753f67b45fc26f2122d23d9a343afe464bee6699923",
@@ -347,6 +347,20 @@
     "transactionDate": "25-Mar-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/Z1VCJY0MI7TZXTWX/961e78e380c86c37791c390fe939652e93bb66a7da03ca2abc2094d200bb3428",
+    "dateTime": "27 Mar 2026 09:13 PM",
+    "issuerName": "STARHUB LTD.",
+    "securityName": "STARHUB LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/Changes in Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/Z1VCJY0MI7TZXTWX/880851__Form%203%20-%20OIH_Ooredoo%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "OIH Investment LLC / Ooredoo Q.P.S.C.",
+    "transactionDate": "24-Mar-2026",
+    "numberOfShares": "Not Applicable",
+    "consideration": "Not Applicable",
     "notify": 0
   },
   {
@@ -6664,6 +6678,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/AI92GZKM53E8EI0P/55b08733b14e732c6998f5335643c0787b8516672ac30c77ee0c3185f67681c8",
+    "dateTime": "27 Mar 2026 09:33 PM",
+    "issuerName": "ASPIAL CORPORATION LIMITED",
+    "securityName": "ASPIAL S$43.5M6.5%N270702",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGES IN INTEREST OF DIRECTOR - KOH LEE HWEE",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/AI92GZKM53E8EI0P/880857__eFORM1%20-%20KLH.pdf",
+    "formType": "Form 1",
+    "entity": "Koh Lee Hwee",
+    "transactionDate": "02-Oct-2025",
+    "numberOfShares": "Disposal of $250,000  in aggregate principal amount 6.50 per cent. Notes due 2027",
+    "consideration": "Nil",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/SJFIGN26Y0PLYZ9V/273af989f889fb8667d346a273accfb0c871ea017780878b003ab4c2aad0fd52",
     "dateTime": "06 Mar 2026 08:19 PM",
     "issuerName": "ASIA VETS HOLDINGS LTD.",
@@ -6790,6 +6818,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/3Q0CQ6VJQRW9ATA7/4800cbb21f8f7a53cfd7326ceabbe9cac1006f5ae57c804bc958f47cc44250d0",
+    "dateTime": "27 Mar 2026 09:32 PM",
+    "issuerName": "ASPIAL CORPORATION LIMITED",
+    "securityName": "ASPIAL CORPORATION LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Ko Lee Meng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/3Q0CQ6VJQRW9ATA7/880855__Form%201%20-%20Ko%20Lee%20Meng.pdf",
+    "formType": "Form 1",
+    "entity": "Ko Lee Meng",
+    "transactionDate": "06-Sep-2024",
+    "numberOfShares": "22,642,785",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/U6FWSKK0D3ITZU0H/4122f0df8488155d7c642fd25da8a635a272cdad5fe37b3d53a2356d8b9c9847",
     "dateTime": "16 Mar 2026 06:35 PM",
     "issuerName": "ASPIAL LIFESTYLE LIMITED",
@@ -6801,6 +6843,48 @@
     "transactionDate": "06-Sep-2024",
     "numberOfShares": "14,768,050 shares",
     "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XAGMDXW4C6ZOXXHO/bf426aa0b576080b5920fb9fad37e95445033ba54d0c52f698b8de876d41e46c",
+    "dateTime": "27 Mar 2026 10:20 PM",
+    "issuerName": "RECLAIMS GLOBAL LIMITED",
+    "securityName": "RECLAIMS GLOBAL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Chan Bih Tzy",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XAGMDXW4C6ZOXXHO/_eFORM1-Chan%20Bih%20Tzy.pdf",
+    "formType": null,
+    "entity": null,
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/TA5SSMU849GV2VX3/b04dce9f0a59280166d6ab5cdac1d8194ed65f8a24202f03bdc5502f5112c114",
+    "dateTime": "27 Mar 2026 10:20 PM",
+    "issuerName": "RECLAIMS GLOBAL LIMITED",
+    "securityName": "RECLAIMS GLOBAL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Tan Kok Huat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/TA5SSMU849GV2VX3/_eFORM1-Tan%20Kok%20Huat.pdf",
+    "formType": null,
+    "entity": null,
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/d2315bcea0a7720e605b46d332bd11a09f1e698a73d281918c91acef4d2997ff",
+    "dateTime": "27 Mar 2026 10:18 PM",
+    "issuerName": "RECLAIMS GLOBAL LIMITED",
+    "securityName": "RECLAIMS GLOBAL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Chan Chew Leh",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf",
+    "formType": null,
+    "entity": null,
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
     "notify": 0
   },
   {
