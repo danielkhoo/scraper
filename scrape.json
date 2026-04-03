@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/O3C208ZBIS28L3YM/f513cbf36c88396e74717a3e022edddd6aa4e1148a114422376dda80f2489592",
+    "dateTime": "02 Apr 2026 09:54 PM",
+    "issuerName": "TOTM TECHNOLOGIES LIMITED",
+    "securityName": "TOTM TECHNOLOGIES LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interests of Director - Pierre Prunier",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/O3C208ZBIS28L3YM/881910__260402%20Form%201%20-%20Pierre%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Prunier Pierre Olivier Marc Yves (\"Mr Pierre Prunier\")",
+    "transactionDate": "02-Apr-2026",
+    "numberOfShares": "1,000,000 ordinary shares",
+    "consideration": "S$0.026 per share",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/QMXIATN7YOMX7MPR/967fce4db2a184bc55d212103d61ef135765e030e67f482a99f3a952834c03cc",
     "dateTime": "02 Apr 2026 07:47 PM",
     "issuerName": "LINCOTRADE & ASSOCIATES HOLDINGS LIMITED",
@@ -11,7 +25,7 @@
     "transactionDate": "02-Apr-2026",
     "numberOfShares": "150,000",
     "consideration": "S$0.31 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/BN4SG09LH6MBQ16D/7a25e2ebbc2d726a215301acfdb52f6e3b5033b29149df12c3707109348bd87f",
@@ -39,7 +53,7 @@
     "transactionDate": "02-Apr-2026",
     "numberOfShares": "1,918,700 ordinary shares",
     "consideration": "S$1,052,464.51",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/ZGY1J6ALTTM31HB2/10c250eb1bf3aa01725f6cc9844ba60ff9976a265677005837c34b91ef9ae3b9",
@@ -53,7 +67,63 @@
     "transactionDate": "02-Apr-2026",
     "numberOfShares": "2,250,000",
     "consideration": "S$763,250",
-    "notify": 1
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/60K8MVRHZ83UC77C/765c5718386c9365ec9c1f0a8c5698df8bd4417a8089713e14ab6c7f9e5b8e54",
+    "dateTime": "02 Apr 2026 11:18 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::DISCLOSURE OF CHANGES IN INTEREST OF DIRECTOR - DR NG CHIN SIAU",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/60K8MVRHZ83UC77C/881922__eFORM1V2-DR%20NG-0104and0204.pdf",
+    "formType": "Form 1",
+    "entity": "Dr. Ng Chin Siau (\"Dr Ng\")",
+    "transactionDate": "01-Apr-2026",
+    "numberOfShares": "Not applicable",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/G9O7T6OWTQRND9WX/a5bc6442c75fed26ed16cedf99972057ec4a2d9120a2bb9eeda3a9aa5a47e6cd",
+    "dateTime": "02 Apr 2026 11:15 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER-Q & M DENTAL GROUP (SINGAPORE) LIMITED",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/G9O7T6OWTQRND9WX/881920__eFORM3V2-QM%20and%20QMH-0104and0204.pdf",
+    "formType": "Form 3",
+    "entity": "Q & M Dental Group (Singapore) Limited (\"Q & M\") / Quan Min Holdings Pte. Ltd.",
+    "transactionDate": "01-Apr-2026",
+    "numberOfShares": "4,400,000 ordinary shares",
+    "consideration": "S$820,600",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5HZCP8LFHKBT9H6H/c37090fd0637f6040a0708f4729badf61d1f0e7a36b1f628161756e0302a607f",
+    "dateTime": "02 Apr 2026 10:33 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5HZCP8LFHKBT9H6H/881913__eFORM3V2_CSX%202%20April%202026_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "CAO SHIXUAN",
+    "transactionDate": "01-Apr-2026",
+    "numberOfShares": "9,954,545",
+    "consideration": "S$199,090.90",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4NBPQS29EV2RTDV3/6b9b40b02b0e80d4f1245afe022f2e7c6d40d5344169cf393745d2438675a4ee",
+    "dateTime": "02 Apr 2026 09:48 PM",
+    "issuerName": "SEMBCORP INDUSTRIES LTD",
+    "securityName": "SEMBCORP INDUSTRIES LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest by Director - Mr Andreas Sohmen-Pao",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4NBPQS29EV2RTDV3/881908__eFORM1V2_Andreas%20Sohmen-Pao_020426%20final.pdf",
+    "formType": "Form 1",
+    "entity": "Andreas Sohmen-Pao",
+    "transactionDate": "01-Apr-2026",
+    "numberOfShares": "1,496,900",
+    "consideration": "S$10,027,998",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/C4I8IBMGDV49ZXE8/18cc4db4d220484ac9dd710ea247b47c5036f33f7c712c23a222694f83fa6f72",
@@ -389,6 +459,20 @@
     "transactionDate": "31-Mar-2026",
     "numberOfShares": "62,300 Units",
     "consideration": "S$0.503 per Unit",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4WUSL8QI06V4AER0/f0887401cee751865154f2d7afe4fe99ec16febf8b0dd50aaf768c21f05fc36c",
+    "dateTime": "03 Apr 2026 05:04 PM",
+    "issuerName": "FRENCKEN GROUP LIMITED",
+    "securityName": "FRENCKEN GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Substantial Shareholder's Interest",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4WUSL8QI06V4AER0/881929__20260403Form3_Amova_SMTG.pdf",
+    "formType": "Form 3",
+    "entity": "Amova Asset Management Asia Limited / Amova Asset Management International Limited / Amova Asset Management Co., Ltd. / Sumitomo Mitsui Trust Group, Inc.",
+    "transactionDate": "31-Mar-2026",
+    "numberOfShares": "2,478,200",
+    "consideration": "SGD 5,248,084.14",
     "notify": 0
   },
   {
@@ -8089,6 +8173,20 @@
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VMU6EJ2J9XIZ7FXH/6f1bfbd90baee4e8a59da0d4152014880313962988b20d539d66c0799a440e4b",
+    "dateTime": "02 Apr 2026 10:34 PM",
+    "issuerName": "ACESIAN PARTNERS LIMITED",
+    "securityName": "ACESIAN PARTNERS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Director's Interest",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VMU6EJ2J9XIZ7FXH/881915__eFORM1V2_Kelvinv2.pdf",
+    "formType": "Form 1",
+    "entity": "KELVIN KWOK YING CHOY",
+    "transactionDate": null,
+    "numberOfShares": "6.Amount of consideration paid or received by Director/CEO (excluding brokerage and stamp",
+    "consideration": "A",
     "notify": 0
   },
   {
