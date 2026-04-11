@@ -25,7 +25,7 @@
     "transactionDate": "10-Apr-2026",
     "numberOfShares": "1,000,000 Ordinary Shares.",
     "consideration": "None.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/26SI64OTEKMVCZ2P/8873ad2402d461641b383cf88caafdb9cd0276dd5edf8d5fa343de3a7282ee92",
@@ -53,6 +53,48 @@
     "transactionDate": "10-Apr-2026",
     "numberOfShares": null,
     "consideration": "5.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DOLQ5QD1ML5MFHU8/f81fc08d71d0e4065b970bad7d876042b83b73d5a86f072cc444e7adcf41d0a4",
+    "dateTime": "10 Apr 2026 11:07 PM",
+    "issuerName": "SOUP HOLDINGS LIMITED",
+    "securityName": "SOUP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Change in Interest of a Substantial Shareholder - Mok Yip Peng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DOLQ5QD1ML5MFHU8/883168__260410%20Form%203%20-%20Mok%20Yip%20Peng.pdf",
+    "formType": "Form 3",
+    "entity": "Mok Yip Peng",
+    "transactionDate": "09-Apr-2026",
+    "numberOfShares": "15,008,400 ordinary shares",
+    "consideration": "S$900,504",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/EA4XHEC2LRKLB6PK/cf353164c1c444e47edab787f0830f3ea805cdd676bc9073fdac89a4f025e86d",
+    "dateTime": "10 Apr 2026 11:03 PM",
+    "issuerName": "SOUP HOLDINGS LIMITED",
+    "securityName": "SOUP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Change in Interest of a Director - Wong Wei Teck",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/EA4XHEC2LRKLB6PK/883166__260410%20Form%201%20Wong%20Wei%20Teck.pdf",
+    "formType": "Form 1",
+    "entity": "Wong Wei Teck",
+    "transactionDate": "09-Apr-2026",
+    "numberOfShares": "15,008,400 ordinary shares",
+    "consideration": "S$900,504",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/ZU4JR200WZVQAPQ5/775f70c8a488bd4cc155ca66bb263c3a1a49df836dd7eb59cf48bb1bbc038c0e",
+    "dateTime": "10 Apr 2026 09:55 PM",
+    "issuerName": "ESR-REIT MANAGEMENT (S) LIMITED",
+    "securityName": "ESR REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s) / Unitholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/ZU4JR200WZVQAPQ5/883157__FINAL_Form%203%20-%20ESR-REIT%20-%20SW%20entities.pdf",
+    "formType": "Form 3",
+    "entity": "Starwood Electron Co-Invest LP / Starwood Electron Co-Invest GP, LLC / SOF-12 Sequoia Investco Ltd / SOF-12 International Management S.à.r.l. / SCGG II GP, L.L.C. / Starwood Capital Group Holdings GP L.L.C. / BSS SCG GP Holdings L.L.C. / Barry Stuart Sternlicht / S Asia Hold Co 1 Private Limited / SOF-12 International SCSP / Starwood XII Management L.P. / Starwood XII Management GP, L.L.C. / Starwood Capital Group Global II, L.P",
+    "transactionDate": "09-Apr-2026",
+    "numberOfShares": "N.A",
+    "consideration": "N.A",
     "notify": 0
   },
   {
