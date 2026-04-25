@@ -39,7 +39,7 @@
     "transactionDate": "24-Apr-2026",
     "numberOfShares": "435,721,500 ordinary shares",
     "consideration": "S$2,025,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/ARBPQZ9VUQRR8IYC/39db73e81cbde871544d7f6b592c54c7faee3005a5d84a7437dcc4fc41f19d07",
@@ -151,6 +151,76 @@
     "transactionDate": "24-Apr-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/J4I3NJ69SB96EWMY/ce310440fa94b09ecb796ebd3a1edd8ae8496280902c45c62ebd0dfb6843d948",
+    "dateTime": "24 Apr 2026 09:14 PM",
+    "issuerName": "CAPITALAND ASCENDAS REIT MANAGEMENT LIMITED",
+    "securityName": "CAPITALAND ASCENDAS REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Mr Chinniah Kunnasagaran",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/J4I3NJ69SB96EWMY/885810__eFORM1V2%20-%20Kunna%20-%2024%20Apr%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Chinniah Kunnasagaran",
+    "transactionDate": "23-Apr-2026",
+    "numberOfShares": "1,243 units allotted pursuant to the acceptance of provisionally allotted units",
+    "consideration": "S$2.35 per unit",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/P92NPSIZZ75MSKVG/044e6dd1a2b6bc57b9eba8ae461cb9693dab071c23be6cc01402bda4a4423d02",
+    "dateTime": "24 Apr 2026 09:02 PM",
+    "issuerName": "CAPITALAND ASCENDAS REIT MANAGEMENT LIMITED",
+    "securityName": "CAPITALAND ASCENDAS REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Mr Daniel Cuthbert Ee Hock Huat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/P92NPSIZZ75MSKVG/885807__eFORM1V2%20-%20Daniel%20-%2024%20April%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Daniel Cuthbert Ee Hock Huat",
+    "transactionDate": "23-Apr-2026",
+    "numberOfShares": "2,183 units allotted pursuant to the acceptance of provisionally allotted units",
+    "consideration": "S$2.35 per unit",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/LW66QBAAQOZ7A3BA/b4a22d75185273ffd85122bf1015421039be7287457c788094753882967047de",
+    "dateTime": "24 Apr 2026 08:55 PM",
+    "issuerName": "CAPITALAND ASCENDAS REIT MANAGEMENT LIMITED",
+    "securityName": "CAPITALAND ASCENDAS REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Mr Tham Wei Hsing, Paul",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/LW66QBAAQOZ7A3BA/885802__eFORM1V2%20-%20Paul%20-%2023%20Apr%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Tham Wei Hsing, Paul",
+    "transactionDate": "23-Apr-2026",
+    "numberOfShares": "140 units allotted pursuant to the acceptance of provisionally allotted units",
+    "consideration": "S$2.35 per unit",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/RIY1LFK12YLO4YK9/328c2281c21e8b3edc4b8623b712a4fc061c807679a5684e944725a2b2b33b6d",
+    "dateTime": "24 Apr 2026 08:44 PM",
+    "issuerName": "CAPITALAND ASCENDAS REIT MANAGEMENT LIMITED",
+    "securityName": "CAPITALAND ASCENDAS REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Ms Choo Oi Yee",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/RIY1LFK12YLO4YK9/885800__eFORM1V2%20-%20Oi%20Yee%20-%2023%20Apr%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Choo Oi Yee",
+    "transactionDate": "23-Apr-2026",
+    "numberOfShares": "548 units allotted pursuant to the acceptance of provisionally allotted units",
+    "consideration": "S$2.35 per unit",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HHKYXS1UCMKPB14Q/233c4507470ebc95128521a0f77cf254181d4fbe61d3990c487a221665b02bee",
+    "dateTime": "24 Apr 2026 08:33 PM",
+    "issuerName": "CAPITALAND ASCENDAS REIT MANAGEMENT LIMITED",
+    "securityName": "CAPITALAND ASCENDAS REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Mr William Tay Wee Leong",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HHKYXS1UCMKPB14Q/885798__eFORM1V2%20-%20William%20-%2023%20April%202026.pdf",
+    "formType": "Form 1",
+    "entity": "William Tay Wee Leong",
+    "transactionDate": "23-Apr-2026",
+    "numberOfShares": "30,770 units alloted pursuant to the acceptance of provisionally allotted units",
+    "consideration": "S$2.35 per unit",
     "notify": 0
   },
   {
