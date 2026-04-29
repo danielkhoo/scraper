@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HTSXNMSYQQNUTUUN/41e57a714f8288a91e317df956c4d2d72c4b07ab90d2ffe0a498e69d0dfeb19c",
+    "dateTime": "29 Apr 2026 05:19 PM",
+    "issuerName": "HONG LAI HUAT GROUP LIMITED",
+    "securityName": "HONG LAI HUAT GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/Change in Interest of Director/Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HTSXNMSYQQNUTUUN/886601__FORM%201%20V2%20OBH.pdf",
+    "formType": "Form 1",
+    "entity": "Ong Bee Huat",
+    "transactionDate": "28-Apr-2026",
+    "numberOfShares": "244,400",
+    "consideration": "SGD23,706.80 @ $0.097 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VHO96UQEZNMA6FZ8/9adff8ebcc0724a71f914b13a842bb2e14f4d215a05fe812e02f53a12305d5f3",
+    "dateTime": "28 Apr 2026 09:52 PM",
+    "issuerName": "LE TREE HOLDINGS LIMITED",
+    "securityName": "LE TREE HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Becoming a Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VHO96UQEZNMA6FZ8/886530__Form%203%20-%20Singapore%20Gingyu%20and%20XM%20Jingyu.pdf",
+    "formType": "Form 3",
+    "entity": "XIAMEN JINGYU COSMETIC CO., LTD. / SINGAPORE GINGYU PTE. LTD.",
+    "transactionDate": "28-Apr-2026",
+    "numberOfShares": "[You may attach a chart in item 10 to show the relationship between the Substantial",
+    "consideration": "S$1,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/Z8KKEA28FLYN5DHO/cadd5865967f478139c46ec1ad72107f024ab99276e632aead389ed06bea45c9",
+    "dateTime": "28 Apr 2026 09:52 PM",
+    "issuerName": "LE TREE HOLDINGS LIMITED",
+    "securityName": "LE TREE HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/Z8KKEA28FLYN5DHO/886528__Form%201%20-%20Lin%20Yiyi.pdf",
+    "formType": "Form 1",
+    "entity": "LIN YIYI (\"MR LIN\")",
+    "transactionDate": "28-Apr-2026",
+    "numberOfShares": "5,983,855,571 ordinary shares (\"Shares\") in the capital of the Company",
+    "consideration": "S$1,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/3EB1QWWW3NLKM6DX/cc61c0c7b11d9220de69367a20db1d17d1f15c059fbc792b56110588b889b44f",
+    "dateTime": "28 Apr 2026 09:39 PM",
+    "issuerName": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
+    "securityName": "FRASERS CENTREPOINT TRUST",
+    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/Changes in Interest of Trustee-Manager/Responsible Person",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/3EB1QWWW3NLKM6DX/886524__Form%206%20-%2028%20Apr%202026%20FINAL.pdf",
+    "formType": "Form 6",
+    "entity": null,
+    "transactionDate": "28-Apr-2026",
+    "numberOfShares": null,
+    "consideration": "5.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/70289Q8MJO66ZF7T/e6458c457e0f96b327f5cefe3387dd53804d323074aa264cc55f1f5c1ee5bec2",
     "dateTime": "28 Apr 2026 07:28 PM",
     "issuerName": "PENGUIN INTERNATIONAL LIMITED",
@@ -11,7 +67,7 @@
     "transactionDate": "28-Apr-2026",
     "numberOfShares": "700,000 shares",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/EE9WDRTQ74B53BVX/2d698647528a2adb192554acfccb96ff2d46b51be9ccc984869f181b2177f5e9",
@@ -25,7 +81,7 @@
     "transactionDate": "28-Apr-2026",
     "numberOfShares": "700,000 shares",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/11DGYHTL4FZMQHW5/e3fd8d3cafe10da42aa2c44c97fbfcc2223fba1d085ca9657f68d3868daf448d",
@@ -39,7 +95,7 @@
     "transactionDate": "28-Apr-2026",
     "numberOfShares": "24,338,800 ordinary shares",
     "consideration": "S$23,000,166",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/B4HEZSA4AKF2N16Z/f8a06859f3ad29af04a3f89d02bbe72f8be205a70905dff286a9278a81356cbd",
@@ -67,6 +123,20 @@
     "transactionDate": "28-Apr-2026",
     "numberOfShares": null,
     "consideration": "5.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4J870YB4VM33IJJK/9bb939caf648e9bfc972c67382f4eca927a90ed154d14d61c364d3fdaa581385",
+    "dateTime": "29 Apr 2026 05:19 PM",
+    "issuerName": "NERA TELECOMMUNICATIONS LTD",
+    "securityName": "NERATELECOMMUNICATIONS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest / Changes in Interest of Director / Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4J870YB4VM33IJJK/886599__eFORM1V2_STEVE.pdf",
+    "formType": "Form 1",
+    "entity": "CHU, FU-CHUAN",
+    "transactionDate": "27-Apr-2026",
+    "numberOfShares": "120,000",
+    "consideration": "SGD21,600.00",
     "notify": 0
   },
   {
@@ -166,6 +236,62 @@
     "numberOfShares": "333,334",
     "consideration": "Nil",
     "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DQEJRO46BGI9LEFG/ffebe0e5f80e759653a0824d54221e8867343aed82a9290fc0990dc02842c5df",
+    "dateTime": "29 Apr 2026 06:50 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - MoneyFarm Pte Ltd",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DQEJRO46BGI9LEFG/886776__eFORM3V2_MONEYFARM_FINAL.pdf",
+    "formType": "Form 3",
+    "entity": "MONEY FARM PTE LTD",
+    "transactionDate": "24-Apr-2026",
+    "numberOfShares": "Not Applicable",
+    "consideration": "Not Applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/7P51XCWUXQPARX08/ae81da40a8c96312076d4a9e42bcde414b874b33ca278664fdc128eee4a2b8dc",
+    "dateTime": "29 Apr 2026 06:45 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - Lim Liang Eng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/7P51XCWUXQPARX08/886771__eFORM3V2_LIM%20LIANG%20ENG_FINAL.pdf",
+    "formType": "Form 3",
+    "entity": "LIM LIANG ENG",
+    "transactionDate": "24-Apr-2026",
+    "numberOfShares": "Not Applicable",
+    "consideration": "Not Applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/S6JD5S0P8PGCVZ5V/57ead6a1fa8e67eb9056ea06efa9dea9864a50a42e265175ca3dc8c969d57ada",
+    "dateTime": "29 Apr 2026 06:43 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - Lim Yong Sheng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/S6JD5S0P8PGCVZ5V/886765__eFORM3V2_LIM%20YONG%20SHENG_FINAL.pdf",
+    "formType": "Form 3",
+    "entity": "LIM YONG SHENG",
+    "transactionDate": "24-Apr-2026",
+    "numberOfShares": "Not Applicable",
+    "consideration": "Not Applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/TR32T48M8X50L1C5/a5eb85d995c3d7b7e00472133acd0da40f9b7178d82ce3c3373563d936c3404d",
+    "dateTime": "29 Apr 2026 06:40 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - Lim Yong Guan",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/TR32T48M8X50L1C5/886757__eFORM3V2_LIM%20YONG%20GUAN_FINAL.pdf",
+    "formType": "Form 3",
+    "entity": "LIM YONG GUAN",
+    "transactionDate": "24-Apr-2026",
+    "numberOfShares": "Not Applicable",
+    "consideration": "Not Applicable",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/PS5UFZ3C8WBN9DHC/ec7497b54b528c0b82a56b8b1d11bc947dc9761c69cad9aebdcb8b688c45fa7c",
@@ -11813,6 +11939,20 @@
     "transactionDate": "13-Nov-2025",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VA4E8WM977BML4VS/c783626914d46a32dc7b30c42003c3fde46f86ada877008f364d4f5c5d570609",
+    "dateTime": "29 Apr 2026 05:21 PM",
+    "issuerName": "BROMAT HOLDINGS LTD",
+    "securityName": "BROMAT HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Director's Interests - Frank Liu Tao",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VA4E8WM977BML4VS/886604__eFORM1V2%20-LiuTao.pdf",
+    "formType": "Form 1",
+    "entity": "Liu Tao",
+    "transactionDate": "27-Oct-2025",
+    "numberOfShares": "365,742,469 ordinary shares",
+    "consideration": "S$6,950,000",
     "notify": 0
   },
   {
