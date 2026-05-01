@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/PIBTR152KY7X5BSD/e6dc0c4b1a96d25a88664e9ddd65580ddbe2a85064604c4a44412bfb8a7757ec",
+    "dateTime": "30 Apr 2026 09:59 PM",
+    "issuerName": "MENCAST HOLDINGS LTD.",
+    "securityName": "MENCAST HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Mr Marini Martin Vincent",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/PIBTR152KY7X5BSD/887349__Form_1-Marini_Martin_Vincent.pdf",
+    "formType": "Form 1",
+    "entity": "Marini Martin Vincent",
+    "transactionDate": "30-Apr-2026",
+    "numberOfShares": "200,000 shares",
+    "consideration": "S$20,200.00",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Y05VD7BKRUN2IM4S/2d2f0454139d121abf6656820ca779f3579cdf60b956489bca7bcbb1c71e8dda",
     "dateTime": "30 Apr 2026 07:30 AM",
     "issuerName": "M&C REIT MANAGEMENT LIMITED",
@@ -53,7 +67,7 @@
     "transactionDate": "30-Apr-2026",
     "numberOfShares": "315,000 Units",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/NBCV1KYD86K0H628/afa7ed664e15006df15ba534369bec5bd2259f875ad70c940db049bc89258a46",
@@ -67,7 +81,7 @@
     "transactionDate": "30-Apr-2026",
     "numberOfShares": "Conditional share awards in respect of 1,360,470 shares.  Please refer to item 12 for more details.",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/XUXN0PO5CSS7FDZB/a4496afd36d0cc6715e2057d5c4b1e9a3bc4e5afa2fb4a77da8627507b264038",
@@ -95,7 +109,7 @@
     "transactionDate": "30-Apr-2026",
     "numberOfShares": "945,000 Units",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/4YSNWROH138IHSNX/0a869707b53ba9ae8058aa730a292d01c4c62407953ac20a35119c05cc278665",
@@ -235,6 +249,20 @@
     "transactionDate": "29-Apr-2026",
     "numberOfShares": "Not applicable",
     "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4DZ0G53VVHWOXDUM/501f9a73117646c32eca4b355de744c8caf8991bdd24d197f26df5f9c53d1c01",
+    "dateTime": "01 May 2026 11:50 AM",
+    "issuerName": "KEPPEL DC REIT MANAGEMENT PTE. LTD.",
+    "securityName": "KEPPEL DC REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Interest of Substantial Unitholder / Cessation of Substantial Unitholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4DZ0G53VVHWOXDUM/887371__Keppel%20DC%20Reit%2004.29.2026%20Form%203_final.pdf",
+    "formType": "Form 3",
+    "entity": "BlackRock, Inc.",
+    "transactionDate": "29-Apr-2026",
+    "numberOfShares": "3,187,800",
+    "consideration": "N/A",
     "notify": 0
   },
   {
@@ -2391,6 +2419,20 @@
     "transactionDate": "15-Apr-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4HY6UJG6JE53HV3S/4315608e1458399f6d6e6918053c633afee6384b55542b600a4d7765519706df",
+    "dateTime": "30 Apr 2026 11:57 PM",
+    "issuerName": "QUANTUM HEALTHCARE LIMITED",
+    "securityName": "QUANTUM HEALTHCARE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4HY6UJG6JE53HV3S/887365__eFORM3V2.pdf",
+    "formType": "Form 3",
+    "entity": "CA Indosuez (Switzerland) SA Singapore Branch",
+    "transactionDate": "14-Apr-2026",
+    "numberOfShares": "2,727,272,800",
+    "consideration": "SGD 3,272,727,36",
     "notify": 0
   },
   {
@@ -12247,6 +12289,20 @@
     "transactionDate": "30-Sep-2025",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JLXLGRTJ25SVYM0Y/057e327fa19df684f32e23e3646c2454613da448e8a48422bfac0b11836474ba",
+    "dateTime": "30 Apr 2026 08:39 PM",
+    "issuerName": "MENCAST HOLDINGS LTD.",
+    "securityName": "MENCAST HOLDINGS LTD.",
+    "title": "WD::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Mr Marini Martin Vincent",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JLXLGRTJ25SVYM0Y/887328__Form%201-Marini_Martin_Vincent.pdf",
+    "formType": "Form 1",
+    "entity": "Marini Martin Vincent",
+    "transactionDate": "17-Sep-2025",
+    "numberOfShares": "100,000 shares",
+    "consideration": "S$4,100.00",
     "notify": 0
   },
   {
