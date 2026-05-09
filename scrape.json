@@ -25,7 +25,7 @@
     "transactionDate": "08-May-2026",
     "numberOfShares": "3,000,000 ordinary shares",
     "consideration": "S$789,990",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/CSJ6EVWLVIYXRC6Y/8e346b900f18ce674cd98b195d9d00325088c8f12bcd340801e4a055d593a829",
@@ -95,6 +95,62 @@
     "transactionDate": "08-May-2026",
     "numberOfShares": "20,000",
     "consideration": "S$17,922.50",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/P5CR28EBQVSKK43J/032401926d492531c153e3063c97e56d85065d35e23318789e901000f590ee8c",
+    "dateTime": "08 May 2026 09:10 PM",
+    "issuerName": "ASIA VETS HOLDINGS LTD.",
+    "securityName": "ASIA VETS HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Becoming a Substantial Shareholder - Pan Wei",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/P5CR28EBQVSKK43J/888185__eFORM3V2%20_Pan%20Wei%2020260508.pdf",
+    "formType": "Form 3",
+    "entity": "PAN WEI",
+    "transactionDate": "07-May-2026",
+    "numberOfShares": "41,726,832 Shares",
+    "consideration": "S$5,007,219.84",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/EUO005L7TJ2B3CF5/6db473952ac5a677359190ab1a9d0986cd510797a4d5f88cebe41367fc5c4755",
+    "dateTime": "08 May 2026 09:06 PM",
+    "issuerName": "ASIA VETS HOLDINGS LTD.",
+    "securityName": "ASIA VETS HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Ceased as Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/EUO005L7TJ2B3CF5/888183__eFORM3V2_TGBPL%20TYH%2020260507.pdf",
+    "formType": "Form 3",
+    "entity": "Tan Gee Beng Private Limited / Ms Tan Yoke Hong",
+    "transactionDate": "07-May-2026",
+    "numberOfShares": "40,000,331 shares",
+    "consideration": "$4,800,039.72",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/LABXOXBMP932X2E6/48297a01564bf2f9e4e8a4adcb9b081cdc2614a8cbfe91dbe836d686aaa78845",
+    "dateTime": "08 May 2026 09:05 PM",
+    "issuerName": "ASIA VETS HOLDINGS LTD.",
+    "securityName": "ASIA VETS HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change of Interest of Director - Ms Tan Geok Moey",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/LABXOXBMP932X2E6/888181__eFORM1V2%20TGM%2020260507.pdf",
+    "formType": "Form 1",
+    "entity": "Tan Geok Moey",
+    "transactionDate": "07-May-2026",
+    "numberOfShares": "40,000,331 shares",
+    "consideration": "$4,800,039.72",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/E065D3KDWTYNLYOQ/ff57a539dbf37f755df6343435746327798bbb99cb6a9171cf5d593e3590ba6b",
+    "dateTime": "08 May 2026 09:03 PM",
+    "issuerName": "ASIA VETS HOLDINGS LTD.",
+    "securityName": "ASIA VETS HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Mr Tan Tong Guan",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/E065D3KDWTYNLYOQ/888179__eFORM1V2%20TTG%2020260507.pdf",
+    "formType": "Form 1",
+    "entity": "Tan Tong Guan",
+    "transactionDate": "07-May-2026",
+    "numberOfShares": "41,726,832 shares",
+    "consideration": "$5,007,219.84",
     "notify": 0
   },
   {
