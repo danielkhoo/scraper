@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/TY1BP3EC6KN90CF8/039828b9a9015f508fdeb86d4f84d82911d29eadb5561ba16da69d96e2c47e4a",
+    "dateTime": "15 May 2026 11:10 PM",
+    "issuerName": "HRNETGROUP LIMITED",
+    "securityName": "HRNETGROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest - SIMCO Global Ltd. and Butterfield Trust (Asia) Limited",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/TY1BP3EC6KN90CF8/889153__HGS_Form%203_SIMCO%20Global_Butterfield%20Trust%20as%20at%2015%20May%202026%20final.pdf",
+    "formType": "Form 3",
+    "entity": "SIMCO Global Ltd. / Butterfield Trust (Asia) Limited",
+    "transactionDate": "15-May-2026",
+    "numberOfShares": "NIL",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/KI09FYQL0ME0VA76/ebf3b2639dcf7cf2c2443c2289b8223e6493401fc9addcc8219da00d49ed22ac",
+    "dateTime": "15 May 2026 11:06 PM",
+    "issuerName": "HRNETGROUP LIMITED",
+    "securityName": "HRNETGROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest - Joshua Sim, Nelly Sim, Tan Eei Choo, SIMCO Ltd",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/KI09FYQL0ME0VA76/889151__HGS_Form%203_Joshua%20Sim_Nelly%20Sim_Tan%20Eei%20Choo_SIMCO%20Ltd%20as%20at%2015%20May%202026%20final.pdf",
+    "formType": "Form 3",
+    "entity": "Sim Wei Rong Joshua / Nelly Sim Nee Tan Kheng Eng / Tan Eei Choo / SIMCO Ltd",
+    "transactionDate": "15-May-2026",
+    "numberOfShares": "NIL",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/STFAC176KUY4F6EI/5d0ccdd96c86d22cd68550da061d2744ab652d6349ee8382b8448c686cbe686f",
+    "dateTime": "15 May 2026 11:03 PM",
+    "issuerName": "HRNETGROUP LIMITED",
+    "securityName": "HRNETGROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Sim Joo Siang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/STFAC176KUY4F6EI/889149__HGS_Form%201_Sim%20Joo%20Siang%20as%20at%2015%20May%202026%20final.pdf",
+    "formType": "Form 1",
+    "entity": "Sim Joo Siang",
+    "transactionDate": "15-May-2026",
+    "numberOfShares": "NIL",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4CCADFEDXFMMD5BE/5db4c79c598c1ca9cc5e808fc6224da8a760822ca0543a750d23bf0a34644d28",
+    "dateTime": "15 May 2026 10:59 PM",
+    "issuerName": "HRNETGROUP LIMITED",
+    "securityName": "HRNETGROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Sim Yong Siang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4CCADFEDXFMMD5BE/889147__HGS_Form%201%20Sim%20Yong%20Siang%20as%20at%2015%20May%202026%20final.pdf",
+    "formType": "Form 1",
+    "entity": "Sim Yong Siang",
+    "transactionDate": "15-May-2026",
+    "numberOfShares": "NIL",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/YXUPTZQED6YZG5O0/4ae71be88321743c7baca8df3f0881f0c31c759b6c30d7f20293537b1733f388",
     "dateTime": "15 May 2026 07:54 PM",
     "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
@@ -25,7 +81,7 @@
     "transactionDate": "15-May-2026",
     "numberOfShares": "11,666,200 ordinary shares",
     "consideration": "S$3,030,528.77",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/VXSEVFZ0DO1TH4TU/525d7fcac3ddac8426c07f47230788a9da5f8e61a4db3eaa9e7df5051a32a3b2",
@@ -39,7 +95,7 @@
     "transactionDate": "15-May-2026",
     "numberOfShares": "8,990,025 units was issued to MLTM and MPM, please refer to page 6, item 13 for details.",
     "consideration": "S$1.176 per unit",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/0TXZS2M84IMKBF3O/bf09f5f67befa536103ef6b3716be654d88d3a075806258fc894926bb8c26f62",
@@ -81,7 +137,7 @@
     "transactionDate": "15-May-2026",
     "numberOfShares": "1,000,000 share awards.",
     "consideration": "NIL",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/OEPW615B957GJCQ3/85bd2ec9ddffff7975797f4bf4a2fb15506f3bd1c7072a72952b56cec05fa542",
