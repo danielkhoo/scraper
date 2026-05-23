@@ -25,7 +25,7 @@
     "transactionDate": "22-May-2026",
     "numberOfShares": "600,000 ordinary shares",
     "consideration": "S$148,500",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/ZB8G393U6J8V3WMP/68a224cf4a9a35e58c90b300a486f05c01f0251148dfb99115d2dae176210d89",
@@ -81,7 +81,7 @@
     "transactionDate": "22-May-2026",
     "numberOfShares": "Allotment of 19,770,800 shares at S$0.0306 per share",
     "consideration": "S$604,986",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/YWR20LC8S6MEYQQ8/da83db81f2c8d942e6fa11675f82c85361cf6633ffb9700173b7f0ced0c5d872",
@@ -95,7 +95,7 @@
     "transactionDate": "22-May-2026",
     "numberOfShares": "Allotment of 19,770,800 shares at S$0.0306 per share",
     "consideration": "S$604,986",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/D57SGX5MPTHRCSFU/c43c0764f0f6df738e044371ffbc34e62acb74b4f0b4962e93cf3ba943849c66",
@@ -109,7 +109,7 @@
     "transactionDate": "22-May-2026",
     "numberOfShares": "Allotment of 24,497,600 shares at S$0.0306 per share",
     "consideration": "S$749,626",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/MTWPGKYDJQS51HJ9/91e42e1ff4e588cbd458b80a8530d6a89d2a2e39b523943b3b63ab690de02a98",
