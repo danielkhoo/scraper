@@ -11,7 +11,35 @@
     "transactionDate": "26-May-2026",
     "numberOfShares": "1,850,000 Shares",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CK8GGRQ6O074QV3M/377367383f05707d25d04ce51064ad7f87547554dcc66d2c05140f1155cfd810",
+    "dateTime": "26 May 2026 10:49 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::DISCLOSURE OF CHANGES IN INTEREST OF DIRECTOR - DR NG CHIN SIAU",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CK8GGRQ6O074QV3M/890477__eFORM1V2-DR%20NG-26052026.pdf",
+    "formType": "Form 1",
+    "entity": "Dr Ng Chin Siau (\"Dr Ng\")",
+    "transactionDate": "26-May-2026",
+    "numberOfShares": "Not applicable",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/WJV20A49KYMFJA5L/7ca2fec2b408d3447e6c61cfdc7c6d1273e9b76b6321b8a41550c5e558b29cd0",
+    "dateTime": "26 May 2026 10:48 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER - QUAN MIN HOLDINGS PTE LTD",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/WJV20A49KYMFJA5L/890475__eFORM3V2-QMH-26052026.pdf",
+    "formType": "Form 3",
+    "entity": "Quan Min Holdings Pte. Ltd. (\"QMH\")",
+    "transactionDate": "26-May-2026",
+    "numberOfShares": "7,776,900 ordinary shares",
+    "consideration": "S$2,144,246.87",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/T9EAH1KBY44XSEDF/477815ed9c9cd6090cddbd2f8d3319e817b516d97018a5929287e05597b9a732",
@@ -67,7 +95,7 @@
     "transactionDate": "26-May-2026",
     "numberOfShares": "200,000 share options",
     "consideration": "$1.00",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/LJC8HPSS10QX4QEB/7f5eb6a4e1c59107948ae01ad9811c51c888b6b6ecc85dfb82724ab14e72213b",

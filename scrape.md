@@ -3,6 +3,8 @@
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
 | <a id="3XGDKXZQYYVC14GY"></a>26-May-2026 | Per Arne Lind (Per Lind) | REX INTERNATIONAL HOLDING LTD | 1,850,000 Shares | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3XGDKXZQYYVC14GY/890230__20260526_RIH_Annct_eFORM1V2_PerLind_Final2.pdf) |
+| <a id="CK8GGRQ6O074QV3M"></a>26-May-2026 | Dr Ng Chin Siau ("Dr Ng") | AOXIN Q & M DENTAL GRP LIMITED | Not applicable | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/CK8GGRQ6O074QV3M/890477__eFORM1V2-DR%20NG-26052026.pdf) |
+| <a id="WJV20A49KYMFJA5L"></a>26-May-2026 | Quan Min Holdings Pte. Ltd. ("QMH") | AOXIN Q & M DENTAL GRP LIMITED | 7,776,900 ordinary shares | S$2,144,246.87 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WJV20A49KYMFJA5L/890475__eFORM3V2-QMH-26052026.pdf) |
 | <a id="T9EAH1KBY44XSEDF"></a>26-May-2026 | JANET LC TAN | A-SONIC AEROSPACE LIMITED | NA | NA | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/T9EAH1KBY44XSEDF/890366__eFORM3V2_26052026.pdf) |
 | <a id="18VMKXR9YB9I0B7K"></a>26-May-2026 | Saw Meng Tee | FOOD EMPIRE HOLDINGS LIMITED | 50,000 share options | $1.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/18VMKXR9YB9I0B7K/890344__Form%201%20-%20SMT.pdf) |
 | <a id="JQVKJ8OIBH306R8Q"></a>26-May-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/JQVKJ8OIBH306R8Q/890300__eFORM1_ChengWK_260526_Final.pdf) |
