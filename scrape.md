@@ -2,6 +2,8 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="1N4VB2UP5813KSC1"></a>29-May-2026 | Dr Ng Chin Siau ("Dr Ng") | AOXIN Q & M DENTAL GRP LIMITED | Not applicable | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1N4VB2UP5813KSC1/890955__eFORM1V2-DR%20NG-29052026.pdf) |
+| <a id="PLUYKXYQ5DHJLQNV"></a>29-May-2026 | Quan Min Holdings Pte. Ltd. ("QMH") | AOXIN Q & M DENTAL GRP LIMITED | 4,257,500 ordinary shares | S$1,297,898.88 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PLUYKXYQ5DHJLQNV/890953__eFORM3V2-QMH-29052026.pdf) |
 | <a id="AF53J09A3K6A4R6K"></a>29-May-2026 | JANET LC TAN | A-SONIC AEROSPACE LIMITED | NA | NA | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/AF53J09A3K6A4R6K/890879__eFORM3V2_29052026.pdf) |
 | <a id="U1YL3FIV6GN9JR3O"></a>29-May-2026 | Koh Wee Seng | ASPIALLIFEST S$70M6.25%N270924 | Disposal of S$500,000 in aggregate principal amount of 6.25 per cent. Notes due 2027 | S$504,500 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/U1YL3FIV6GN9JR3O/890813__Form%201%20-%20KWS.pdf) |
 | <a id="YX43UAXEYPERWCO3"></a>28-May-2026 | Chua Thian Poh | HO BEE LAND LIMITED | 146,500 shares acquired by Ho Bee Holdings (Pte) Ltd | S$305,482 paid by Ho Bee Holdings (Pte) Ltd | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/YX43UAXEYPERWCO3/890941__eFORM1_CTP_20260529.pdf) |
