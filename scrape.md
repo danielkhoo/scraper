@@ -2,6 +2,8 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="5GETCYJ695Z6Y41Y"></a>03-Jun-2026 | Kong Wan Sing | JUSTCO HOLDINGS LIMITED | 200,000 | S$131,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5GETCYJ695Z6Y41Y/891408__20260604%20Form%201-KWS-Final.pdf) |
+| <a id="BYZWUX1TFPB84XAG"></a>03-Jun-2026 | LIM BOON KHENG | CSE GLOBAL LTD | Transfer of 1,289,016  treasury shares pursuant to the CSE Performance Share Plan ("PSP") | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/BYZWUX1TFPB84XAG/891396__Form%201_LBK_PSP_Finalised.pdf) |
 | <a id="8FJK2SW6QTSE0V79"></a>03-Jun-2026 | JENNIFER DUONG YOUNG | TELECHOICE INTERNATIONAL LTD | 134,000 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8FJK2SW6QTSE0V79/891321__Form%201%20-%20Jenny%20Young.pdf) |
 | <a id="071JU6J34C3UZIZC"></a>03-Jun-2026 | ADRIAN CHAN PENGEE | TELECHOICE INTERNATIONAL LTD | 168,000 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/071JU6J34C3UZIZC/891318__Form%201%20-%20Adrian%20Chan.pdf) |
 | <a id="DTKFCY1CRCAT2VVZ"></a>03-Jun-2026 | SHAILESH ANAND GANU | TELECHOICE INTERNATIONAL LTD | 202,000 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/DTKFCY1CRCAT2VVZ/891316__Form%201%20-%20Shailesh%20Ganu.pdf) |
@@ -9,6 +11,9 @@
 | <a id="NP8D8ZBWJ3RLTEBG"></a>03-Jun-2026 | CHEAH SUI LING | TELECHOICE INTERNATIONAL LTD | 201,000 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/NP8D8ZBWJ3RLTEBG/891312__Form%201%20-%20Cheah%20Sui%20Ling.pdf) |
 | <a id="J4REAUIFL1CS1CL3"></a>03-Jun-2026 | STEPHEN GEOFFREY MILLER | TELECHOICE INTERNATIONAL LTD | 170,000 | Nil. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/J4REAUIFL1CS1CL3/891310__Form%201%20-%20Stephen%20Miller.pdf) |
 | <a id="I4D5FVGOZOFWE1EG"></a>03-Jun-2026 | SEAH LIM SIANG | TELECHOICE INTERNATIONAL LTD | 349,000 | Nil. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/I4D5FVGOZOFWE1EG/891308__Form%201%20-%20Ronald%20Seah.pdf) |
+| <a id="HCBSVLKID9HOZ1Z7"></a>02-Jun-2026 | Lim Hock Chye Daniel | HOSEN GROUP LTD | 412,100 | SGD26,695.84 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/HCBSVLKID9HOZ1Z7/891425__eFORM1V2%20DL%2020260604.pdf) |
+| <a id="RO7OULYICCSDYNAW"></a>02-Jun-2026 | Chua Lian Hock | LEONG GUAN HOLDINGS LIMITED | 100 ordinary shares | S$22.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/RO7OULYICCSDYNAW/891414__20260604%20-%20LGH_Form%201_CLH.pdf) |
+| <a id="AZ4W860KXJT7T9UK"></a>02-Jun-2026 | PAULINE WONG MAE SUM | TELECHOICE INTERNATIONAL LTD | Please refer to Item 12 below. | Nil. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/AZ4W860KXJT7T9UK/891359__Form%201%20-%20Pauline%20Wong.pdf) |
 | <a id="B7XZZ7W9HFLJTKCC"></a>02-Jun-2026 | SIMON ENG | METECH INTERNATIONAL LTD | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/B7XZZ7W9HFLJTKCC/891346__eFORM3V2_Simon%20Eng_Exe.pdf) |
 | <a id="FNUHUOHFGM5ASS39"></a>02-Jun-2026 | Loh Kim Kang David | CENTURION ACCOMMODATION REIT | Deemed interest in 84,077,200 units held by Centurion Capital Investments Ltd. | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/FNUHUOHFGM5ASS39/891302__eFORM1V2-David%20Loh-20260603.pdf) |
 | <a id="SZGDLDTX8WR69LAA"></a>02-Jun-2026 | Han Seng Juan | CENTURION ACCOMMODATION REIT | Deemed interest in 84,077,200 units held by Centurion Capital Investments Ltd. | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SZGDLDTX8WR69LAA/891300__eFORM3V2-Han%20Seng%20Juan-20260603.pdf) |

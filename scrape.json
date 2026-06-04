@@ -1,5 +1,33 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5GETCYJ695Z6Y41Y/ee8e0b69e60d3e8ee464ac557a68b285978cb9216fac7d6cb44ecddc40e24d78",
+    "dateTime": "04 Jun 2026 05:47 PM",
+    "issuerName": "JUSTCO HOLDINGS LIMITED",
+    "securityName": "JUSTCO HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Chairman and Chief Executive Officer - Kong Wan Sing",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5GETCYJ695Z6Y41Y/891408__20260604%20Form%201-KWS-Final.pdf",
+    "formType": "Form 1",
+    "entity": "Kong Wan Sing",
+    "transactionDate": "03-Jun-2026",
+    "numberOfShares": "200,000",
+    "consideration": "S$131,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/BYZWUX1TFPB84XAG/4e4ca9ab87daa4c4e6a8079b29745b64d84586ee8959ee40ea1b07123b41c3fa",
+    "dateTime": "04 Jun 2026 05:34 PM",
+    "issuerName": "CSE GLOBAL LIMITED",
+    "securityName": "CSE GLOBAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR - LIM BOON KHENG",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/BYZWUX1TFPB84XAG/891396__Form%201_LBK_PSP_Finalised.pdf",
+    "formType": "Form 1",
+    "entity": "LIM BOON KHENG",
+    "transactionDate": "03-Jun-2026",
+    "numberOfShares": "Transfer of 1,289,016  treasury shares pursuant to the CSE Performance Share Plan (\"PSP\")",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/8FJK2SW6QTSE0V79/59c392fe3872a2e3b7bb0bb9c6c11eb4156bd2f2ac635ece84cb9234f3fa7c2a",
     "dateTime": "03 Jun 2026 06:35 PM",
     "issuerName": "TELECHOICE INTERNATIONAL LIMITED",
@@ -11,7 +39,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "134,000",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/071JU6J34C3UZIZC/da35ebd587d53c2afbe3741d7c91d13614132224b5c322c4ae9be47dcba3ec45",
@@ -25,7 +53,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "168,000",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/DTKFCY1CRCAT2VVZ/6abf207ccb445eeac3bcd04fb26a48566f642c70bc3d1bd4f9831656d65e1880",
@@ -39,7 +67,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "202,000",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/E47OOCEXNS0JZRDS/2164f32d074098f33d7fdcc06f2b516a91d232187371a557ef593c0389bcff5f",
@@ -53,7 +81,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "233,000",
     "consideration": "Nil.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/NP8D8ZBWJ3RLTEBG/7c14c9cbcc8d6a2e6db1eda3c36d49dc45b8b5594af867b10e6bc6af01e26bd4",
@@ -67,7 +95,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "201,000",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/J4REAUIFL1CS1CL3/daeb2911b49cbb222b8e3c168f51b100655376ab7ef5058d0a50a75dd7c45bc5",
@@ -81,7 +109,7 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "170,000",
     "consideration": "Nil.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/I4D5FVGOZOFWE1EG/9cf5b6f66d6953912da999df4e321f4a4c6d82c3deb91aa080ca750ef8313f58",
@@ -95,7 +123,49 @@
     "transactionDate": "03-Jun-2026",
     "numberOfShares": "349,000",
     "consideration": "Nil.",
-    "notify": 1
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HCBSVLKID9HOZ1Z7/980be18f5bca0b9ddeb19f951bc7e995bed77983b9623e4aae49802a075782bf",
+    "dateTime": "04 Jun 2026 06:25 PM",
+    "issuerName": "HOSEN GROUP LTD.",
+    "securityName": "HOSEN GROUP LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interests of Director / Chief Executive Officer - Lim Hock Chye Daniel",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HCBSVLKID9HOZ1Z7/891425__eFORM1V2%20DL%2020260604.pdf",
+    "formType": "Form 1",
+    "entity": "Lim Hock Chye Daniel",
+    "transactionDate": "02-Jun-2026",
+    "numberOfShares": "412,100",
+    "consideration": "SGD26,695.84",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/RO7OULYICCSDYNAW/cfb48e4b0c721387eed105a59008a5cc43638a265925ee2f98ab3f6af602d05b",
+    "dateTime": "04 Jun 2026 05:55 PM",
+    "issuerName": "LEONG GUAN HOLDINGS LIMITED",
+    "securityName": "LEONG GUAN HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Chua Lian Hock",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/RO7OULYICCSDYNAW/891414__20260604%20-%20LGH_Form%201_CLH.pdf",
+    "formType": "Form 1",
+    "entity": "Chua Lian Hock",
+    "transactionDate": "02-Jun-2026",
+    "numberOfShares": "100 ordinary shares",
+    "consideration": "S$22.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/AZ4W860KXJT7T9UK/300a23d78e1b6902ce19dbd598782cc67b0399726b152b6558e1995b21d5b04f",
+    "dateTime": "03 Jun 2026 11:43 PM",
+    "issuerName": "TELECHOICE INTERNATIONAL LIMITED",
+    "securityName": "TELECHOICE INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/AZ4W860KXJT7T9UK/891359__Form%201%20-%20Pauline%20Wong.pdf",
+    "formType": "Form 1",
+    "entity": "PAULINE WONG MAE SUM",
+    "transactionDate": "02-Jun-2026",
+    "numberOfShares": "Please refer to Item 12 below.",
+    "consideration": "Nil.",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/B7XZZ7W9HFLJTKCC/df55ff86d36860b041f235d2977e67c4c963c4286f5b6166d36dfe8a9c469803",
