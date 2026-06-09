@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5WQZP9SHKB0209OX/45a9b4bf5e5dc50e1567651ff3bd029a07e4a65fa6894cfbb4f49f3487ded527",
+    "dateTime": "09 Jun 2026 08:37 PM",
+    "issuerName": "ASPIAL LIFESTYLE LIMITED",
+    "securityName": "ASPIAL LIFESTYLE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Koh Wee Seng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5WQZP9SHKB0209OX/891800__Form%201%20-%20KWS.pdf",
+    "formType": "Form 1",
+    "entity": "Koh Wee Seng",
+    "transactionDate": "09-Jun-2026",
+    "numberOfShares": "66,200",
+    "consideration": "S$23,635.21",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/UZAF7MF3TVUJN8RO/e0b94a61d115466dabe171a212c9d6643e77c02bf7b0cfe00af7c417733a447b",
+    "dateTime": "09 Jun 2026 05:18 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/UZAF7MF3TVUJN8RO/891745__eFORM1_ChengWK_090626_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "09-Jun-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/1UUEAD57XV9NUF87/712e5c9b78b67394dbe1e82d989c850d67fa7372948baf3d7f32dde347f6dd42",
+    "dateTime": "09 Jun 2026 05:44 PM",
+    "issuerName": "EMBRACING FUTURE HOLDINGS LIMITED",
+    "securityName": "EMBRACING FUTURE HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of a Director - Chen Lu",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/1UUEAD57XV9NUF87/891776__Form%201%20-%20Chen%20Lu.pdf",
+    "formType": "Form 1",
+    "entity": "Chen Lu",
+    "transactionDate": "08-Jun-2026",
+    "numberOfShares": "83,000,000",
+    "consideration": "3,901,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/PBYVDRPDYM8WSKMU/115be5ae66bdc7956932fd584f2d941aee8c0a7efd56f75c4aab46db7bbfd381",
+    "dateTime": "09 Jun 2026 05:42 PM",
+    "issuerName": "CENTURION CORPORATION LIMITED",
+    "securityName": "CENTURION CORPORATION LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notification of Change in Interest by Director and Substantial Shareholder - Loh Kim Kang David",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/PBYVDRPDYM8WSKMU/891774__eFORM1V2-David%20Loh-20260609.pdf",
+    "formType": "Form 1",
+    "entity": "Loh Kim Kang David",
+    "transactionDate": "08-Jun-2026",
+    "numberOfShares": "500,000 ordinary shares",
+    "consideration": "S$1.41 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CT5F1Z14ZPKCXS53/08ac555939342c6d7980d3c44f2f276f3bf51eac91cce1b021ce5a7d5c62e82a",
+    "dateTime": "09 Jun 2026 05:29 PM",
+    "issuerName": "EUROSPORTS GLOBAL LIMITED",
+    "securityName": "EUROSPORTS GLOBAL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notice of Change in Interest - Goh Kim Hup",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CT5F1Z14ZPKCXS53/891758__Form%201%20-%20Goh%20Kim%20Hup.pdf",
+    "formType": "Form 1",
+    "entity": "GOH KIM HUP",
+    "transactionDate": "08-Jun-2026",
+    "numberOfShares": "100000",
+    "consideration": "7569.06",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/7R562QCHI5LGFHML/8ee12d4187b05ccd1f0d1db9d2004fad4b554a6321ccfff63afe3e043d0a25fd",
     "dateTime": "08 Jun 2026 08:46 PM",
     "issuerName": "ASPIAL LIFESTYLE LIMITED",
@@ -11,7 +81,7 @@
     "transactionDate": "08-Jun-2026",
     "numberOfShares": "1,000,000",
     "consideration": "S$364,134.32",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/YBGKVS8TSCAYQVPF/a7ecc1823b55be2c7408f09403b22ffd8b46ab65d8350e6ecf557d5f8dc44249",
@@ -25,7 +95,7 @@
     "transactionDate": "08-Jun-2026",
     "numberOfShares": "130,000",
     "consideration": "S$83,713",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/PVM4NL8K97V9UHMT/6522b7da5d231b29c8b11be30d1d8bac0315a4c731c3d8439892218809d3c18a",
@@ -53,7 +123,7 @@
     "transactionDate": "08-Jun-2026",
     "numberOfShares": "54,014,083 ordinary shares",
     "consideration": "S$4,321,126.64",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/9SOT25YAST94KEHU/fda055708f90f3b63c183782bc7784bb331d932d15003cab85c67bd1467852ce",
@@ -81,7 +151,7 @@
     "transactionDate": "08-Jun-2026",
     "numberOfShares": "59,622,866 ordinary shares",
     "consideration": "S$4,769,829.28",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/8IWKR5HB57ZWH98H/5b512dc7907f2d7593185f8008d7b28094804ddee0d7dea63288099ec60ce5ba",
@@ -109,6 +179,34 @@
     "transactionDate": "08-Jun-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/J9DZ4N1N1W8J7MZ1/d84293fcf1f61114c7b7bd8b973bdd9960f1525f9cd881611f3dbaeb75505193",
+    "dateTime": "09 Jun 2026 05:42 PM",
+    "issuerName": "ANNICA HOLDINGS LIMITED",
+    "securityName": "ANNICA HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director - Zulkefli Bin Ahmad Makinudin",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/J9DZ4N1N1W8J7MZ1/891772__Form%201%20-%20Tan%20Sri.pdf",
+    "formType": "Form 1",
+    "entity": "ZULKEFLI BIN AHMAD MAKINUDIN",
+    "transactionDate": "05-Jun-2026",
+    "numberOfShares": "Provisional allotment of 1,119,999 rights shares (\"Rights Entitlement\")",
+    "consideration": "Not Applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/2ZAIS6ECBHEZLFRF/6898f5b786ba172bc72978c328649e09c0725153909b9d05cf3e915b4e311288",
+    "dateTime": "09 Jun 2026 05:41 PM",
+    "issuerName": "ANNICA HOLDINGS LIMITED",
+    "securityName": "ANNICA HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Director and CEO - Sandra Liz Hon Ai Ling",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/2ZAIS6ECBHEZLFRF/891770__Form%201%20-Sandra.pdf",
+    "formType": "Form 1",
+    "entity": "Sandra Liz Hon Ai Ling",
+    "transactionDate": "05-Jun-2026",
+    "numberOfShares": "Provisional allotment of 17,121,910 rights shares (\"Rights Entitlement\")",
+    "consideration": "Not Applicable",
     "notify": 0
   },
   {

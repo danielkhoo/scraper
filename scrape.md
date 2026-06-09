@@ -2,6 +2,11 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="5WQZP9SHKB0209OX"></a>09-Jun-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 66,200 | S$23,635.21 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5WQZP9SHKB0209OX/891800__Form%201%20-%20KWS.pdf) |
+| <a id="UZAF7MF3TVUJN8RO"></a>09-Jun-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UZAF7MF3TVUJN8RO/891745__eFORM1_ChengWK_090626_Final.pdf) |
+| <a id="1UUEAD57XV9NUF87"></a>08-Jun-2026 | Chen Lu | EMBRACING FUTURE HOLDINGS LTD | 83,000,000 | 3,901,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1UUEAD57XV9NUF87/891776__Form%201%20-%20Chen%20Lu.pdf) |
+| <a id="PBYVDRPDYM8WSKMU"></a>08-Jun-2026 | Loh Kim Kang David | CENTURION CORPORATION LIMITED | 500,000 ordinary shares | S$1.41 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PBYVDRPDYM8WSKMU/891774__eFORM1V2-David%20Loh-20260609.pdf) |
+| <a id="CT5F1Z14ZPKCXS53"></a>08-Jun-2026 | GOH KIM HUP | EUROSPORTS GLOBAL LIMITED | 100000 | 7569.06 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/CT5F1Z14ZPKCXS53/891758__Form%201%20-%20Goh%20Kim%20Hup.pdf) |
 | <a id="7R562QCHI5LGFHML"></a>08-Jun-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 1,000,000 | S$364,134.32 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7R562QCHI5LGFHML/891714__Form%201%20-%20KWS.pdf) |
 | <a id="YBGKVS8TSCAYQVPF"></a>08-Jun-2026 | TAN MIN LOON | SOON HOCK ENTERPRISE HLDG LTD | 130,000 | S$83,713 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/YBGKVS8TSCAYQVPF/891712__20260608-eFORM1V2-TML.pdf) |
 | <a id="PVM4NL8K97V9UHMT"></a>08-Jun-2026 | Han Ming Kwang | GDS GLOBAL LIMITED | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PVM4NL8K97V9UHMT/891686__GDS_FORM%203_Han%20Ming%20Kwang.pdf) |
@@ -10,6 +15,8 @@
 | <a id="OUZ9PZRKMGCX0M1N"></a>08-Jun-2026 | Tang Hee Sung | GDS GLOBAL LIMITED | 59,622,866 ordinary shares | S$4,769,829.28 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/OUZ9PZRKMGCX0M1N/891675__GDS_FORM%201_Tang%20Hee%20Sung.pdf) |
 | <a id="8IWKR5HB57ZWH98H"></a>08-Jun-2026 | Mark Chong Chin Kok | SINGAPORE POST LIMITED | 2,053,570 share awards (see item 12 under "Remarks" section for details on the share awards) | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8IWKR5HB57ZWH98H/891662__FORM1_Mark_20260608.pdf) |
 | <a id="0TCWTJVFHP5ZM60B"></a>08-Jun-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/0TCWTJVFHP5ZM60B/891637__eFORM1_ChengWK_080626_Final.pdf) |
+| <a id="J9DZ4N1N1W8J7MZ1"></a>05-Jun-2026 | ZULKEFLI BIN AHMAD MAKINUDIN | ANNICA HOLDINGS LTD | Provisional allotment of 1,119,999 rights shares ("Rights Entitlement") | Not Applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/J9DZ4N1N1W8J7MZ1/891772__Form%201%20-%20Tan%20Sri.pdf) |
+| <a id="2ZAIS6ECBHEZLFRF"></a>05-Jun-2026 | Sandra Liz Hon Ai Ling | ANNICA HOLDINGS LTD | Provisional allotment of 17,121,910 rights shares ("Rights Entitlement") | Not Applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2ZAIS6ECBHEZLFRF/891770__Form%201%20-Sandra.pdf) |
 | <a id="VY7U4W86V3OKBR73"></a>05-Jun-2026 | GOH KIM HUP | EUROSPORTS GLOBAL LIMITED | 440000 | 35486.56 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VY7U4W86V3OKBR73/891640__Form%201%20-%20Goh%20Kim%20Hup.pdf) |
 | <a id="F21TN2LLBGUP3OJJ"></a>05-Jun-2026 | ZHANG YE | SUNMOON FOOD COMPANY LIMITED | 118800 | SGD2614 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/F21TN2LLBGUP3OJJ/891595__ZHANG%20YE%20-%20Form%201_20260605_final_a.pdf) |
 | <a id="U0CCBL44WZ7H4SEP"></a>05-Jun-2026 | ZHANG YE | SUNMOON FOOD COMPANY LIMITED | 1173900 | SGD22418 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/U0CCBL44WZ7H4SEP/891578__ZHANG%20YE%20-%20Form%201_20260605_final.pdf) |
