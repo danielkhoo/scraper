@@ -2,6 +2,9 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="CXEONCEBWBR0SVU3"></a>19-Jun-2026 | Chen Zeyuan | YAMADA GREEN RESOURCES LIMITED | 35,303,633 shares | S$2,930,201.54 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/CXEONCEBWBR0SVU3/893747__Form%203%20-%20Chen%20Zeyuan%20-%20Final.pdf) |
+| <a id="85ZBXUT1PW5NWSRN"></a>19-Jun-2026 | Yang Wanyu / Chen Qiuhai | YAMADA GREEN RESOURCES LIMITED | 29,324,762 shares | S$2,433,955.25 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/85ZBXUT1PW5NWSRN/893745__Form%203%20-%20Yang%20Wanyu%20and%20Chen%20Qiuhai%20-%20Final.pdf) |
+| <a id="QV8K5OA4LC88AWD8"></a>19-Jun-2026 | Sanwang International Holdings Limited / Chen Qiuhai | YAMADA GREEN RESOURCES LIMITED | 64,628,395 shares | S$5,364,156.79 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/QV8K5OA4LC88AWD8/893743__Form%203%20-%20Sanwang%20and%20Chen%20Qiuhai%20-%20Final.pdf) |
 | <a id="EPERR4989J3ZX33O"></a>19-Jun-2026 | N/A | LENDLEASE GLOBAL COMMERCIAL REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EPERR4989J3ZX33O/893727__eForm6%20-%20The%20Manager.pdf) |
 | <a id="Y216DKBMTCKR68JU"></a>19-Jun-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 700,000 | S$247,433.17 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Y216DKBMTCKR68JU/893707__Form%201%20-%20KWS.pdf) |
 | <a id="9ROZ9WX9I0JG8SRW"></a>19-Jun-2026 | Tan Teck Long | OVERSEA-CHINESE BANKING CORP | 7,279 | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/9ROZ9WX9I0JG8SRW/893696__Form1_Tan_Teck_Long_19Jun2026.pdf) |
