@@ -2,12 +2,16 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="RMTMMKBILRZ667VT"></a>23-Jun-2026 | Ravinder Sajwan | MULTIPLE | 198,025 | USD266,260.50 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/RMTMMKBILRZ667VT/894084__RS%20eFORM1V2%2024%20June%202026%20-%20Final.pdf) |
+| <a id="EDCOGTI9OD5TYC0D"></a>23-Jun-2026 | Kong Wan Sing | JUSTCO HOLDINGS LIMITED | 300,000 | S$162,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EDCOGTI9OD5TYC0D/894082__20260624-Form%201-KWS-Final.pdf) |
+| <a id="XHXB26KXZTEIWU1X"></a>23-Jun-2026 | Lim Wah Fong | THE ASSEMBLY PLACE | 88,800 shares | S$19,980.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XHXB26KXZTEIWU1X/894068__eFORM1V2%20-%20Lim%20Wah%20Fong.pdf) |
 | <a id="5MHW4DKY4FCVWSZR"></a>23-Jun-2026 | Gordon Blaikie | GLOBAL INVACOM GROUP LIMITED | 1,500,000 Share Options | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5MHW4DKY4FCVWSZR/893966__GIGL-eFORM1V2-Gordon.pdf) |
 | <a id="Z0VH4I18E9M59FDQ"></a>23-Jun-2026 | TAN ONG HUAT | TRICKLESTAR LIMITED | Not applicable. | Not applicable. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Z0VH4I18E9M59FDQ/893953__20260623%20-%20eFORM3V2%20-%20Tan%20Ong%20Huat.pdf) |
 | <a id="MONG3GUTYUVZH5GR"></a>23-Jun-2026 | JASON JOHN CLARK | TRICKLESTAR LIMITED | Vesting of 139,219 ordinary shares awards pursuant to the TrickleStar Performance Share Plan. | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/MONG3GUTYUVZH5GR/893951__20260623%20-%20eFORM1V2%20-%20Jason.pdf) |
 | <a id="8WTBRYXAFHHB2YJE"></a>23-Jun-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 150,000 | S$52,591.94 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8WTBRYXAFHHB2YJE/893939__KWS%20-%20Form%201.pdf) |
 | <a id="K4OUJOR5ER5DTD4Z"></a>23-Jun-2026 | Yuen Kuan Moon | SINGTEL | Please see items 8, 10 and 12 below | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/K4OUJOR5ER5DTD4Z/893936__Form1-Moon-20260623.pdf) |
 | <a id="JA3LZIY98D6ES5Y1"></a>23-Jun-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/JA3LZIY98D6ES5Y1/893922__eFORM1_ChengWK_230626_Final.pdf) |
+| <a id="8PDM377WZ9K6QSHQ"></a>22-Jun-2026 | Amova Asset Management Co., Ltd. / Sumitomo Mitsui Trust Group, Inc. | UI BOUSTEAD REIT | 659,300 | SGD 537197.64 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8PDM377WZ9K6QSHQ/894094__eFORM3V2%20UIBREIT%2020260619.pdf) |
 | <a id="6CQU6WZKESIPEH31"></a>22-Jun-2026 | Yee Pinh Jeremy | CLEARBRIDGE HEALTH LIMITED | Nil | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/6CQU6WZKESIPEH31/893964__eFORM3V2%20Jeremy%20Yee.pdf) |
 | <a id="7SDNUZ8MAWQRT4CB"></a>22-Jun-2026 | Chen Johnson | CLEARBRIDGE HEALTH LIMITED | Nil | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7SDNUZ8MAWQRT4CB/893962__eFORM3V2%20Johnson%20Chen.pdf) |
 | <a id="QVIO4DTBGBRUL3OD"></a>22-Jun-2026 | Vitters Sim Yu Xiong | CLEARBRIDGE HEALTH LIMITED | 961,910,412 shares | S$1,731,438.74 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/QVIO4DTBGBRUL3OD/893960__eFORM3V2%20Vitters%20Sim.pdf) |
@@ -1513,6 +1517,7 @@
 | <a id="XAGMDXW4C6ZOXXHO"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XAGMDXW4C6ZOXXHO/_eFORM1-Chan%20Bih%20Tzy.pdf) |
 | <a id="TA5SSMU849GV2VX3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TA5SSMU849GV2VX3/_eFORM1-Tan%20Kok%20Huat.pdf) |
 | <a id="20GDWZSHQ74AI1A3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf) |
+| <a id="GTZC7B7WVCFAIUYL"></a>N/A | Ong Choon Yi (Wang Junyi) | CLEARBRIDGE HEALTH LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/894092__eFORM1V2%20-%20Ong%20Choon%20Yi.pdf) |
 | <a id="IJ7E1O1PG262PKUA"></a>N/A | Liu Lianlian | OLIVE TREE ESTATES LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IJ7E1O1PG262PKUA/878713__20260318%20OTEL%20-%20eFORM1%20-Liu%20Lianlian.pdf) |
 | <a id="R4D0W77P9WA309RY"></a>N/A | Huang Da | OLIVE TREE ESTATES LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/R4D0W77P9WA309RY/878711__20260318%20OTEL%20-%20eFORM1%20-Huang%20Da.pdf) |
 | <a id="T0WBQVIC8EAEJZ2A"></a>N/A | CHUA HOI TEK | TRICKLESTAR LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/T0WBQVIC8EAEJZ2A/893639__20260618%20-%20eFORM1V2%20-%20Chua%20Hoi%20Tek.pdf) |

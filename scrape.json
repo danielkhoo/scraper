@@ -1,5 +1,47 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/RMTMMKBILRZ667VT/456fcaf3ab2e09eef7cd96318a8e6d973590d3e868cbd31e6a27e32a8051f18c",
+    "dateTime": "24 Jun 2026 05:47 PM",
+    "issuerName": "ULTRAGREEN.AI LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest of Director and Chief Executive Officer - Ravinder Sajwan",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/RMTMMKBILRZ667VT/894084__RS%20eFORM1V2%2024%20June%202026%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Ravinder Sajwan",
+    "transactionDate": "23-Jun-2026",
+    "numberOfShares": "198,025",
+    "consideration": "USD266,260.50",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/EDCOGTI9OD5TYC0D/22bf0e937e874be55b88024c2ada80f409c83536f56b629d779693eb713c45a6",
+    "dateTime": "24 Jun 2026 05:46 PM",
+    "issuerName": "JUSTCO HOLDINGS LIMITED",
+    "securityName": "JUSTCO HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes in Interest of Chairman and Chief Executive Officer - Kong Wan Sing",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/EDCOGTI9OD5TYC0D/894082__20260624-Form%201-KWS-Final.pdf",
+    "formType": "Form 1",
+    "entity": "Kong Wan Sing",
+    "transactionDate": "23-Jun-2026",
+    "numberOfShares": "300,000",
+    "consideration": "S$162,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XHXB26KXZTEIWU1X/ab061bf6c75a5e32f98478b74087cee71176459eb7e741507121df450b3fb1a5",
+    "dateTime": "24 Jun 2026 05:16 PM",
+    "issuerName": "THE ASSEMBLY PLACE HOLDINGS LTD.",
+    "securityName": "THE ASSEMBLY PLACE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Changes in Interest of Director - Mr. Lim Wah Fong",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XHXB26KXZTEIWU1X/894068__eFORM1V2%20-%20Lim%20Wah%20Fong.pdf",
+    "formType": "Form 1",
+    "entity": "Lim Wah Fong",
+    "transactionDate": "23-Jun-2026",
+    "numberOfShares": "88,800 shares",
+    "consideration": "S$19,980.00",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/5MHW4DKY4FCVWSZR/987752f1b38a2734f6e68026c13bf15c41a14e90e893a32e86d4ae7cbee11b51",
     "dateTime": "23 Jun 2026 06:53 PM",
     "issuerName": "GLOBAL INVACOM GROUP LIMITED",
@@ -11,7 +53,7 @@
     "transactionDate": "23-Jun-2026",
     "numberOfShares": "1,500,000 Share Options",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Z0VH4I18E9M59FDQ/59957c4bb4a8fe2752538febbef0f3c7c97b2951519b43393220dd7cde0a8cc4",
@@ -39,7 +81,7 @@
     "transactionDate": "23-Jun-2026",
     "numberOfShares": "Vesting of 139,219 ordinary shares awards pursuant to the TrickleStar Performance Share Plan.",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/8WTBRYXAFHHB2YJE/3456026b92bb7b0d570b570fcaa2044fe5274ee567464b67b9fa1f06fea5bfca",
@@ -53,7 +95,7 @@
     "transactionDate": "23-Jun-2026",
     "numberOfShares": "150,000",
     "consideration": "S$52,591.94",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/K4OUJOR5ER5DTD4Z/0716bbbcec894cf30883596c3d0f30435eb0408fbe30fba6c3310d893a1f74ac",
@@ -81,6 +123,20 @@
     "transactionDate": "23-Jun-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8PDM377WZ9K6QSHQ/468938ce809f30cd928728b8c3e4fe04deb9a0acfa7bbb92b16506e1b0090cdf",
+    "dateTime": "24 Jun 2026 06:00 PM",
+    "issuerName": "UIB REIT MANAGEMENT PTE. LTD.",
+    "securityName": "UI BOUSTEAD REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest of Substantial Shareholders - i) Amova Co. & ii) SMTG",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8PDM377WZ9K6QSHQ/894094__eFORM3V2%20UIBREIT%2020260619.pdf",
+    "formType": "Form 3",
+    "entity": "Amova Asset Management Co., Ltd. / Sumitomo Mitsui Trust Group, Inc.",
+    "transactionDate": "22-Jun-2026",
+    "numberOfShares": "659,300",
+    "consideration": "SGD 537197.64",
     "notify": 0
   },
   {
@@ -21148,6 +21204,20 @@
     "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf",
     "formType": null,
     "entity": null,
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/f14273af474395a76e6ca83ba6c38ec3aa7632bcc4abab067e76b37f37f33638",
+    "dateTime": "24 Jun 2026 05:59 PM",
+    "issuerName": "CLEARBRIDGE HEALTH LIMITED",
+    "securityName": "CLEARBRIDGE HEALTH LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Change in Director's Interest - Ong Choon Yi (Wang Junyi)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/894092__eFORM1V2%20-%20Ong%20Choon%20Yi.pdf",
+    "formType": "Form 1",
+    "entity": "Ong Choon Yi (Wang Junyi)",
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,
