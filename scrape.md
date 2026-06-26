@@ -2,6 +2,16 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="3A341NHP8SZPW203"></a>26-Jun-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3A341NHP8SZPW203/894529__eFORM1_ChengWK_260626_Final.pdf) |
+| <a id="4XQGDSBVOU068RWX"></a>26-Jun-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 831,200 | S$293,434.44 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/4XQGDSBVOU068RWX/894521__KWS%20-%20Form%201.pdf) |
+| <a id="A36MBUA2FL8GZRF7"></a>26-Jun-2026 | Ng Thiam Poh | GLOBAL INVESTMENTS LIMITED | 4,043 - Elected to receive shares (scrip dividend) in lieu of cash dividend. | S$0.122 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/A36MBUA2FL8GZRF7/894491__eFORM1V2_20260626_NTP_Final.pdf) |
+| <a id="ZWAC7CQIJPQASD02"></a>26-Jun-2026 | Boon Swan Foo | GLOBAL INVESTMENTS LIMITED | 12,426,012 - Elected to receive shares (scrip dividend) in lieu of cash dividend | S$0.122 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ZWAC7CQIJPQASD02/894484__eFORM1V2_20260626_BSF_Final.pdf) |
+| <a id="E6VSCW27M20C99K0"></a>25-Jun-2026 | Chew Choon Tee | MEGACHEM LIMITED | 100 shares | S$0.43 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/E6VSCW27M20C99K0/894487__FORM1_Chew%20Choon%20Tee.pdf) |
+| <a id="ULIOXJMKRVFCJ5D5"></a>25-Jun-2026 | Tan Sri Datuk Tiong Su Kouk | NAM CHEONG LTD | 90,000 shares | S$1.10667 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ULIOXJMKRVFCJ5D5/894482__eFORM1V2_TST.pdf) |
+| <a id="KX66TMSGL0BTGVTV"></a>25-Jun-2026 | S.K. Tiong Enterprise Sdn Bhd | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/KX66TMSGL0BTGVTV/894478__eFORM3V2_SKT.pdf) |
+| <a id="3RT0BHIF940UF7HQ"></a>25-Jun-2026 | Puan Sri Datin Wong Bak Hee | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3RT0BHIF940UF7HQ/894476__eFORM3V2_PSW.pdf) |
+| <a id="MIUAPKEMYFIMR3ZV"></a>25-Jun-2026 | Hung Yung Enterprise Sdn Bhd | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/MIUAPKEMYFIMR3ZV/894473__eFORM3V2%20_HYE.pdf) |
+| <a id="R0YBRXRPJU74QK8L"></a>25-Jun-2026 | Ravinder Sajwan | MULTIPLE | 335,200 | USD438,834 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/R0YBRXRPJU74QK8L/894448__RS%20eFORM1V2%2026%20June%202026.pdf) |
 | <a id="ZJI7O77Z612V0UFY"></a>25-Jun-2026 | Ahmad Abdulaziz A A Al-Neama | STARHUB LTD | 32,600 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ZJI7O77Z612V0UFY/894302__AAN%201%20eFORM1V2%20RSP2026%20AwardVesting%20Final.pdf) |
 | <a id="RBM5L8X9I5GDYJ7A"></a>25-Jun-2026 | Stephen Geoffrey Miller | STARHUB LTD | 50,400 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/RBM5L8X9I5GDYJ7A/894300__SM%201%20eFORM1V2%20RSP2026%20AwardVesting%20Final.pdf) |
 | <a id="3BTV2HIKWISNQ7VB"></a>25-Jun-2026 | Teo Ek Tor | STARHUB LTD | 37,000 | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3BTV2HIKWISNQ7VB/894295__TET%201%20eFORM1V2%20RSP2026%20AwardVesting%20Final.pdf) |
@@ -1537,6 +1547,7 @@
 | <a id="XAGMDXW4C6ZOXXHO"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XAGMDXW4C6ZOXXHO/_eFORM1-Chan%20Bih%20Tzy.pdf) |
 | <a id="TA5SSMU849GV2VX3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TA5SSMU849GV2VX3/_eFORM1-Tan%20Kok%20Huat.pdf) |
 | <a id="20GDWZSHQ74AI1A3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf) |
+| <a id="VMS82KKB3L4KOMT2"></a>N/A | TAN ONG HUAT | TRICKLESTAR LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VMS82KKB3L4KOMT2/894513__20260626%20-%20eFORM1V2%20-%20Tan%20Ong%20Huat.pdf) |
 | <a id="GTZC7B7WVCFAIUYL"></a>N/A | Ong Choon Yi (Wang Junyi) | CLEARBRIDGE HEALTH LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/894092__eFORM1V2%20-%20Ong%20Choon%20Yi.pdf) |
 | <a id="IJ7E1O1PG262PKUA"></a>N/A | Liu Lianlian | OLIVE TREE ESTATES LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IJ7E1O1PG262PKUA/878713__20260318%20OTEL%20-%20eFORM1%20-Liu%20Lianlian.pdf) |
 | <a id="R4D0W77P9WA309RY"></a>N/A | Huang Da | OLIVE TREE ESTATES LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/R4D0W77P9WA309RY/878711__20260318%20OTEL%20-%20eFORM1%20-Huang%20Da.pdf) |
