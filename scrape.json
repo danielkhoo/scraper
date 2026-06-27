@@ -25,7 +25,7 @@
     "transactionDate": "26-Jun-2026",
     "numberOfShares": "831,200",
     "consideration": "S$293,434.44",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/A36MBUA2FL8GZRF7/772925c6c3777b33e8f3d218773ece2522c3b8e703fcb9c60904a916e35576b9",
@@ -53,7 +53,7 @@
     "transactionDate": "26-Jun-2026",
     "numberOfShares": "12,426,012 - Elected to receive shares (scrip dividend) in lieu of cash dividend",
     "consideration": "S$0.122 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/E6VSCW27M20C99K0/eda56ce2e905d111f86f1ecc31f8d207cafe752500d623cfea1fe569d5890090",
