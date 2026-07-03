@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/INPI4JG8GI7E1OMM/7f6b49cce74bde3a0a9a13aa3bca945583ee6628cf0b0afb9cd09bb46a6a4653",
+    "dateTime": "03 Jul 2026 05:41 PM",
+    "issuerName": "HEALTHBANK HOLDINGS LIMITED",
+    "securityName": "HEALTHBANK HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director's Shareholding",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/INPI4JG8GI7E1OMM/895340__eFORM1V2-LEO.pdf",
+    "formType": "Form 1",
+    "entity": "PENG WEILE",
+    "transactionDate": "03-Jul-2026",
+    "numberOfShares": "13,825,000",
+    "consideration": "SGD 525,350",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HOF8NE16G466SV7Z/6ef64739f95ccca0af3172c3d28bcc3b91cf8d755cc43c0d593d9e6a471b9317",
+    "dateTime": "03 Jul 2026 05:39 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HOF8NE16G466SV7Z/895337__eFORM1_ChengWK_030726_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "03-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/RUYJAKW5DJM3MQ48/72c48735d538e3d4f1f63f0371d93d33338bc9557b853509c44a62e757206702",
+    "dateTime": "03 Jul 2026 07:17 PM",
+    "issuerName": "CENTURION ASSET MANAGEMENT PTE. LTD.",
+    "securityName": "CENTURION ACCOMMODATION REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notification of Interest by Substantial Unitholder - Cohen & Steers, Inc.",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/RUYJAKW5DJM3MQ48/895364__CAREIT%20Form%203%20FINAL-CNS%2020260703.pdf",
+    "formType": "Form 3",
+    "entity": "Cohen & Steers, Inc.",
+    "transactionDate": "02-Jul-2026",
+    "numberOfShares": "154000",
+    "consideration": "167,860 SGD = 154,000 units x 1.09 SGD",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/R5TQAOO274AYEY44/e5b9d5af8d0886ff593a24ac1e391bc8b9b5ce22f801d59c25b586dfd3641bbe",
+    "dateTime": "03 Jul 2026 05:28 PM",
+    "issuerName": "AUTAGCO LTD.",
+    "securityName": "AUTAGCO LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/R5TQAOO274AYEY44/895320__Form%203%20-%20Aurico_NBH_HPK.pdf",
+    "formType": "Form 3",
+    "entity": "AURICO GLOBAL HOLDINGS PTE. LTD. (\"Aurico\") / NG BOON HUI / HO POH KHUM",
+    "transactionDate": "02-Jul-2026",
+    "numberOfShares": "152,000,000 shares",
+    "consideration": "20,000,000 shares at S$0.003 per share; and 132,000,000 shares at S$0.0022 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/C1OY35DM39C66JAJ/e06f4135e2d9ceb6f60bf9a13bd87efc91731dfccad94366bb4ad46389972cc3",
+    "dateTime": "03 Jul 2026 05:27 PM",
+    "issuerName": "AUTAGCO LTD.",
+    "securityName": "AUTAGCO LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/C1OY35DM39C66JAJ/895318__FORM3%20-%20Aurico_NBH_HPK.pdf",
+    "formType": "Form 3",
+    "entity": "AURICO GLOBAL HOLDINGS PTE. LTD. (\"Aurico\") / NG BOON HUI / HO POH KHUM",
+    "transactionDate": "02-Jul-2026",
+    "numberOfShares": "190,000,000 shares",
+    "consideration": "S$0.002 per share",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/2YWCD40FBQGFHV1M/944a6dff03a5f9af00beb481525da5b0f26afb617a404e5290b534c1d7b6815c",
     "dateTime": "02 Jul 2026 08:04 PM",
     "issuerName": "ANNICA HOLDINGS LIMITED",
@@ -11,7 +81,7 @@
     "transactionDate": "02-Jul-2026",
     "numberOfShares": "2,854,315 shares",
     "consideration": "S$82,775.14",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/OZ9TAOUV82IDD27M/767f1988caa1690f54861e8d6518097fb5a6ba85ce8b280c04ab052babded4f9",
@@ -25,7 +95,7 @@
     "transactionDate": "02-Jul-2026",
     "numberOfShares": "7,166,908 shares",
     "consideration": "S$207,840.33",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/GI4KPIH7KEAN2FB5/5e15435e56a6697ee3266d697d26982403432f9063bfc99d1d24815f49325ba4",
@@ -53,6 +123,62 @@
     "transactionDate": "02-Jul-2026",
     "numberOfShares": "Subscription of 239 tokens with aggregate principal amount of S$2,443,485 (see paragraph 12 of Part III below)",
     "consideration": "S$2,443,485",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DV5AEGWEVH970YGQ/e72ca12fd2139149b79b046eea85f3b09467f2e54e6205172f6e0ac822a2bfac",
+    "dateTime": "03 Jul 2026 07:53 PM",
+    "issuerName": "STAMFORD LAND CORPORATION LTD",
+    "securityName": "STAMFORD LAND CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in interest of Director - Ow Chio Kiat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DV5AEGWEVH970YGQ/895367__eFORM1V2-SLC%20-%20For%20release%20on%203%20Jul%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Ow Chio Kiat",
+    "transactionDate": "01-Jul-2026",
+    "numberOfShares": "55,000 Ordinary Shares",
+    "consideration": "S$0.48968 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/AY8559351RYHRAYG/21b16186d70f6f47d77836581f7b117905b8cb0eb52adf7160dba90f3b14851d",
+    "dateTime": "03 Jul 2026 06:47 PM",
+    "issuerName": "SINGAPORE SHIPPING CORPORATION LIMITED",
+    "securityName": "SINGAPORE SHIPPING CORP LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in interest of Director - Ow Chio Kiat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/AY8559351RYHRAYG/895360__SSC%20-%20eFORM1V2%20-%20OCK.pdf",
+    "formType": "Form 1",
+    "entity": "Ow Chio Kiat",
+    "transactionDate": "01-Jul-2026",
+    "numberOfShares": "15,000 Ordinary Shares",
+    "consideration": "S$0.305 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/FMY701BHB2K8G0BZ/bce55e03335756f0a3edc27a157694f55eb9d3ca75aae8b3867a4a143cc3ef2a",
+    "dateTime": "02 Jul 2026 11:57 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/FMY701BHB2K8G0BZ/895277__Form%201_HJH.pdf",
+    "formType": "Form 1",
+    "entity": "HAN JUAT HOON",
+    "transactionDate": "01-Jul-2026",
+    "numberOfShares": "0",
+    "consideration": "0",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5V2NRFEYJUNWWOXJ/13e35828cca7f9543b116e5ae26760dd950bb4a9db0efdbe6e5e68afbc5217c8",
+    "dateTime": "02 Jul 2026 11:57 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5V2NRFEYJUNWWOXJ/895275__Form%201_FSS.pdf",
+    "formType": "Form 1",
+    "entity": "FOO SUAN SAI",
+    "transactionDate": "01-Jul-2026",
+    "numberOfShares": "3,300 shares disposed",
+    "consideration": "S$12,113.01",
     "notify": 0
   },
   {
@@ -376,6 +502,20 @@
     "numberOfShares": "100,000",
     "consideration": "S$35,562.29",
     "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/1VXA46ZWNL3YDNVV/b8f6b30b000e95c463bbbefafbc0e13fe7fc3337625084f553ebc6fc910d352b",
+    "dateTime": "03 Jul 2026 05:36 PM",
+    "issuerName": "VALUEMAX GROUP LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Tan Soon Liang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/1VXA46ZWNL3YDNVV/895334__TSL%20VM19%20ADDX%20JUN%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Tan Soon Liang",
+    "transactionDate": "30-Jun-2026",
+    "numberOfShares": "20 tokens",
+    "consideration": "S$400,000",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/AB6QMLBH2C96ANIJ/ea7dbacc89d158ba9bd2ce95d5688b438e0af88cd359bea64e785d63eda3c4ee",
@@ -809,6 +949,34 @@
     "transactionDate": "26-Jun-2026",
     "numberOfShares": "12,426,012 - Elected to receive shares (scrip dividend) in lieu of cash dividend",
     "consideration": "S$0.122 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/NVGFYA4FP9L4J2IP/af19ab6d24b11b4259fc25df6ea474f72a3523e5bb93b0eba0ff456016fae134",
+    "dateTime": "02 Jul 2026 11:46 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "REPL::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/NVGFYA4FP9L4J2IP/895273__Form%201_HJH-replace290626.pdf",
+    "formType": "Form 1",
+    "entity": "HAN JUAT HOON",
+    "transactionDate": "26-Jun-2026",
+    "numberOfShares": "0",
+    "consideration": "0",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HT5JYCBPV9VC4396/c52fc1683db4bfe74f32c7a3ec8296fb09befca0c531054519261c403db571d0",
+    "dateTime": "02 Jul 2026 11:43 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "REPL::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HT5JYCBPV9VC4396/895271__Form%201_FSS-replace290626.pdf",
+    "formType": "Form 1",
+    "entity": "FOO SUAN SAI",
+    "transactionDate": "26-Jun-2026",
+    "numberOfShares": "5,900",
+    "consideration": "S$21,653.00",
     "notify": 0
   },
   {
@@ -2125,6 +2293,34 @@
     "transactionDate": "18-Jun-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/QTDMYAQ9AGJPPOQN/c24d1812424994481a554aae3e4e7ff498e20290ef3c667b72d55fa9e7258071",
+    "dateTime": "02 Jul 2026 11:40 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "REPL::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/QTDMYAQ9AGJPPOQN/895269__Form%201_HJH-replace190626.pdf",
+    "formType": "Form 1",
+    "entity": "HAN JUAT HOON",
+    "transactionDate": "18-Jun-2026",
+    "numberOfShares": "0",
+    "consideration": "0",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/FWMX87GKA2T2ZY34/92a6081c94527c9c057d1b9f893ec8df35e513152320dce7649b27def9c484a2",
+    "dateTime": "02 Jul 2026 11:36 PM",
+    "issuerName": "MULTI-CHEM LIMITED",
+    "securityName": "MULTI-CHEM LIMITED",
+    "title": "REPL::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::CHANGE IN INTEREST OF DIRECTOR",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/FWMX87GKA2T2ZY34/895267__Form%201_FSS-replace190626.pdf",
+    "formType": "Form 1",
+    "entity": "FOO SUAN SAI",
+    "transactionDate": "18-Jun-2026",
+    "numberOfShares": "76,300",
+    "consideration": "S$280,114.09",
     "notify": 0
   },
   {
@@ -22901,6 +23097,20 @@
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/FWWKA5R9ZZUW9JEB/2ad287c0544388e1f509fa2aa490e19e0b5094b9ba5d380e0ae3029b9388867d",
+    "dateTime": "03 Jul 2026 06:44 AM",
+    "issuerName": "KEPPEL REIT MANAGEMENT LIMITED",
+    "securityName": "KEPPEL REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/FWWKA5R9ZZUW9JEB/895281__KREIT_Form%201_LKK_30Jun26_final.pdf",
+    "formType": "Form 1",
+    "entity": "Leong Kok Keong",
+    "transactionDate": null,
+    "numberOfShares": "6.Amount of consideration paid or received by Director/CEO (excluding brokerage and stamp",
+    "consideration": "A",
     "notify": 0
   },
   {
