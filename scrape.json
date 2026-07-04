@@ -11,7 +11,7 @@
     "transactionDate": "03-Jul-2026",
     "numberOfShares": "13,825,000",
     "consideration": "SGD 525,350",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/HOF8NE16G466SV7Z/6ef64739f95ccca0af3172c3d28bcc3b91cf8d755cc43c0d593d9e6a471b9317",
@@ -502,6 +502,34 @@
     "numberOfShares": "100,000",
     "consideration": "S$35,562.29",
     "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/1HNAFR275KYAVRT5/a9c8b7a60acc37e84ee85cc68dd6c13ce1a1655282df0adacf2a6e33dcf7b0b6",
+    "dateTime": "03 Jul 2026 11:16 PM",
+    "issuerName": "VALUEMAX GROUP LIMITED",
+    "securityName": "",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Yeah Hiang Nam",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/1HNAFR275KYAVRT5/895378__YHN%20VM13%20SDAX%20JUN%202026_FINAL_2nd%20July%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Yeah Hiang Nam",
+    "transactionDate": "30-Jun-2026",
+    "numberOfShares": "1200 tokens",
+    "consideration": "S$12,000,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/KQDXQKLUER5OO3F6/c0de9222abac61c521e34592b286bc2ed3ba8f10f3f54b73c4a1a9dc604221d1",
+    "dateTime": "03 Jul 2026 11:14 PM",
+    "issuerName": "VALUEMAX GROUP LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Tan Soon Liang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/KQDXQKLUER5OO3F6/895376__YHN%20VM19%20ADDX%20JUN%202026_FINAL_2%20July%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Yeah Hiang Nam",
+    "transactionDate": "30-Jun-2026",
+    "numberOfShares": "244 tokens",
+    "consideration": "S$4,880,000",
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/1VXA46ZWNL3YDNVV/b8f6b30b000e95c463bbbefafbc0e13fe7fc3337625084f553ebc6fc910d352b",
