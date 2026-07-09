@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/94J7FZN8KLSBMVL7/f34154795da52101ea51812a04b445b95f327d7e0fb4f8be9aecf2a7f3476119",
+    "dateTime": "09 Jul 2026 07:30 PM",
+    "issuerName": "CHINA AVIATION OIL (SINGAPORE) CORPORATION LTD",
+    "securityName": "CHINA AVIATION OIL(S) CORP LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notification of Becoming a Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/94J7FZN8KLSBMVL7/895909__eFORM3.pdf",
+    "formType": "Form 3",
+    "entity": "China Petrochemical Corporation",
+    "transactionDate": "09-Jul-2026",
+    "numberOfShares": "441,332,912",
+    "consideration": "Not Applicable.",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/M4VNCCHQUFMLL2T4/c9a536446db623cf7bb316b519695fc822c47a6995968f309b583bc5e4734731",
+    "dateTime": "09 Jul 2026 05:21 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/M4VNCCHQUFMLL2T4/895874__eFORM1_ChengWK_090726_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "09-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CXKZXNXP62676TGY/63e5e58c46448684f481c07ab29d3113c4ace4015c6939ea60411e62c968d126",
+    "dateTime": "09 Jul 2026 10:14 PM",
+    "issuerName": "ENECO ENERGY LIMITED",
+    "securityName": "ENECO ENERGY LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/Changes in Interest of Director - Ang Jun Long",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CXKZXNXP62676TGY/895928__Form%201%20-%20Ang%20Jun%20Long%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Ang Jun Long",
+    "transactionDate": "08-Jul-2026",
+    "numberOfShares": "2,000,000 shares",
+    "consideration": "S$16,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OF1LFFDSUAKIZ1QQ/9fdf18f2d9e921fdea826fbd2614536621fe447e17d0ca46db68ec0c65dfea0c",
+    "dateTime": "09 Jul 2026 05:31 PM",
+    "issuerName": "BROMAT HOLDINGS LTD",
+    "securityName": "BROMAT HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Director's Interests - Frank Liu Tao",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OF1LFFDSUAKIZ1QQ/895882__Frank%20Liu_eFORM1V2.pdf",
+    "formType": "Form 1",
+    "entity": "FRANK LIU TAO",
+    "transactionDate": "08-Jul-2026",
+    "numberOfShares": "2,879,036",
+    "consideration": "S$89,250.12",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/66K3YJE5MUS1ROXK/13e82ec7609d88eaae16e98dfe6cdfc3202fa298ebacd8d8f4c0c2cbf12cdf4f",
+    "dateTime": "09 Jul 2026 05:26 PM",
+    "issuerName": "LINCOTRADE & ASSOCIATES HOLDINGS LIMITED",
+    "securityName": "LINCOTRADE&ASSOCIATES HLDG LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholder - Wee Henry",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/66K3YJE5MUS1ROXK/895880__eFORM3V2_Wee%20Henry_20260709.pdf",
+    "formType": "Form 3",
+    "entity": "Wee Henry",
+    "transactionDate": "08-Jul-2026",
+    "numberOfShares": "Nil",
+    "consideration": "Not applicable.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/141L2V55SEA3D28A/c695adfbb17466c9001478fb9cae33cd176e84546e10ac4d7b26f1badd97fd5c",
     "dateTime": "08 Jul 2026 09:52 PM",
     "issuerName": "EVER GLORY UNITED HOLDINGS LIMITED",
@@ -11,7 +81,7 @@
     "transactionDate": "08-Jul-2026",
     "numberOfShares": "4,800,000 shares",
     "consideration": "S$3,720,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/M2GR05XZR8E762DP/41066a61a320cdc657fc74c9715873074c2c3c99e2b2c6c5a1198040f2f8a25d",
@@ -25,7 +95,7 @@
     "transactionDate": "08-Jul-2026",
     "numberOfShares": "5,000,000 shares",
     "consideration": "S$3,950,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/A9SMGUELYPJFT3YG/8eda389a5a9627d67cb841a3b2a6cfbb0028ad6cae2a89792cf66706dcb2ea67",
@@ -53,7 +123,7 @@
     "transactionDate": "08-Jul-2026",
     "numberOfShares": "409,086,400 (please refer to 8. below for details)",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/F8LWQWZCEAEWMJP1/6f9bd8453f72da407eb8fc690ffa534a4e6f2d5bcde2964ae951a96a48389a70",
@@ -266,6 +336,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GYGS43UYLZBHZUSH/461aa53a0d20e22b9d78943e0b99217508293c78d1dd4d14dcd7bbfd82921acb",
+    "dateTime": "09 Jul 2026 10:13 PM",
+    "issuerName": "ENECO ENERGY LIMITED",
+    "securityName": "ENECO ENERGY LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/Changes in Interest of Substantial Shareholder - Union Steel Holdings Limited",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GYGS43UYLZBHZUSH/895925__Form%203%20-%20Union%20Steel%20-%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "Union Steel Holdings Limited / Ang Yu Seng / Goi Seng Hui",
+    "transactionDate": "06-Jul-2026",
+    "numberOfShares": "600,000 shares",
+    "consideration": "S$5,400",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/NCVZFBP1NOTWFRRM/42c89818fac41e36497e432c517aa7c2a61cad26da1f1d1891c8a11ab2a3876b",
     "dateTime": "08 Jul 2026 06:32 PM",
     "issuerName": "GOODWILL ENTERTAINMENT HOLDING LIMITED",
@@ -445,6 +529,20 @@
     "transactionDate": "06-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/QIASA6CCJ5T9YGN0/1387715647fe9290434286a8d60dee2964070dabc98352c5dc9ad993bb21dd9c",
+    "dateTime": "09 Jul 2026 05:34 PM",
+    "issuerName": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
+    "securityName": "SINGAPORE TECH ENGINEERING LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest / Change in interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/QIASA6CCJ5T9YGN0/895884__ST%20Engg%2020260708%20FORM%203_final.pdf",
+    "formType": "Form 3",
+    "entity": "Temasek Holdings (Private) Limited (\"Temasek\")",
+    "transactionDate": "03-Jul-2026",
+    "numberOfShares": "20,000 Shares disposed of by Fullerton as investment manager.",
+    "consideration": "S$216,338.00 received by Fullerton as investment manager.",
     "notify": 0
   },
   {
@@ -23878,6 +23976,20 @@
     "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SIGAN1ULS9ADHKC6/877847__eFORM1V2%20Chris%20Fossick.pdf",
     "formType": "Form 1",
     "entity": "Christopher John Fossick",
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/KYP17IOQ97MMH9PO/4395dca56e7373741c13bfbe2197f29df02d43018d6efe7c6494fd8b9ba3ce91",
+    "dateTime": "09 Jul 2026 06:31 PM",
+    "issuerName": "ASIA VETS HOLDINGS LTD.",
+    "securityName": "ASIA VETS HOLDINGS LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notification of Interest of a new Director - Pan Wei",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/KYP17IOQ97MMH9PO/895899__eFORM1V2_PW_20260709_final.pdf",
+    "formType": "Form 1",
+    "entity": "Pan Wei",
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,
