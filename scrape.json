@@ -11,7 +11,7 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "155,700",
     "consideration": "SGD3,425",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/X4EYMPNDFBGGL55M/029b2859b63e68ee4e28ef9631ce7771276e7d368b90668b792272d142676acb",
@@ -25,7 +25,7 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "13,825,000",
     "consideration": "SGD 525,350",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/VTMXVORYUW8HS5HA/9f0517348cf0c47c312cef2748aafeb3413c2c2b39aa6ae03253dc17219e2703",
@@ -39,7 +39,7 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "13,825,000",
     "consideration": "SGD 525,350",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/W0158Q3UY3LT3ZYG/de468fb04d0f149402b494eab5293465e275f6328fea9144ec703990334c0895",
@@ -53,7 +53,7 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "S$1,000,000 in agaregate principal amount of 4.00 percent. Notes due 2029",
     "consideration": "S$1,000,000/-",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/5AEQ16I6IW39KFJU/e92d0c75c363406341030a6cac8b1fa6d19098fab3799ea10f3b502212f3372d",
@@ -67,7 +67,7 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "S$14,250,000 in aggregate principal amount of 4.00 percent. Notes due 2029",
     "consideration": "S$14,250,000/-",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/94J7FZN8KLSBMVL7/f34154795da52101ea51812a04b445b95f327d7e0fb4f8be9aecf2a7f3476119",
