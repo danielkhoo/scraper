@@ -1,5 +1,47 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/NTWCMXTRPHSLHBH9/d2b5fe391060aa96f11a6824bb30e1f175fb0c4de04e06d1c40b50dbf733fc2d",
+    "dateTime": "14 Jul 2026 05:25 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/NTWCMXTRPHSLHBH9/896284__eFORM1_ChengWK_140726_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "14-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DEH8U3CBRBIF26YF/76a79c0d4997d0901f009d170c5b874dc9c2f8c01ef188e8d45b1c06c2517077",
+    "dateTime": "14 Jul 2026 05:23 PM",
+    "issuerName": "ULTRAGREEN.AI LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest of Director - Tan Ng Kuang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DEH8U3CBRBIF26YF/896282__TNK%20eFORM1V2%2013%20July%202026.pdf",
+    "formType": "Form 1",
+    "entity": "TAN NG KUANG",
+    "transactionDate": "13-Jul-2026",
+    "numberOfShares": "25,000",
+    "consideration": "SGD39,500",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/9XZU6ROT8JNV7SAO/a62b73bc63374f8f77e9e71554f0c006f510f891685ec9154c38a28f5efab08b",
+    "dateTime": "14 Jul 2026 05:19 PM",
+    "issuerName": "BBR HOLDINGS (S) LTD",
+    "securityName": "BBR HOLDINGS (S) LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notification of Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/9XZU6ROT8JNV7SAO/896271__Volare%20BBR%20Holdings%20Form%203%2013%20July%202026_final.pdf",
+    "formType": "Form 3",
+    "entity": "Volare Group AG / Cielo Holding AG / Daniel Sieber",
+    "transactionDate": "13-Jul-2026",
+    "numberOfShares": "29,500,000",
+    "consideration": "SGD 8,850,000",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/QPJBUVC17YQN2UEM/3871f570b19cb28b5d8aad95091388d2d47b03cb1ca96ab16c887ace7ac304e5",
     "dateTime": "13 Jul 2026 08:38 PM",
     "issuerName": "BBR HOLDINGS (S) LTD",
@@ -11,7 +53,7 @@
     "transactionDate": "13-Jul-2026",
     "numberOfShares": "31,500,000",
     "consideration": "S$9,450,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/4PXMKTYLNHMNC1EK/2edc79693681750c20af6a5f16828e42a388aafee54c9d940892e7947ddfaf76",
@@ -25,7 +67,7 @@
     "transactionDate": "13-Jul-2026",
     "numberOfShares": "61,000,000",
     "consideration": "SGD18,300,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/N96NOEHGW079OCLO/59dd5b4d21701ee95682961982a85f5e2e94a478e59d9ed7577367def8a1bb0d",
@@ -39,7 +81,7 @@
     "transactionDate": "13-Jul-2026",
     "numberOfShares": "61,000,0000",
     "consideration": "SG$18,300,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/JNODU7KKY97F66Y8/c5fb859fdfe7f4c61a94e752f6ba63b2e37bc5282db7ea5941db426d1153d315",
@@ -67,6 +109,34 @@
     "transactionDate": "13-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/IWGHY1NNVXK3YD22/d6f839e202ffb26c242cb9e686c591a8b44ab36b3e7892fc284052c81b227c72",
+    "dateTime": "14 Jul 2026 05:21 PM",
+    "issuerName": "GOLDEN AGRI-RESOURCES LTD",
+    "securityName": "GOLDEN AGRI-RESOURCES LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Change in Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/IWGHY1NNVXK3YD22/896274__Form%203%20-%20Kopernik%20-%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "Kopernik Global Investors, LLC",
+    "transactionDate": "10-Jul-2026",
+    "numberOfShares": "13,807,400",
+    "consideration": "0.275",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/0I9M9MXLJ71M5UYI/0c9e2c2d5d82602fb26b240eb721f20ecec763d9fb27fd0ebb2d4582fa5a9320",
+    "dateTime": "14 Jul 2026 05:18 PM",
+    "issuerName": "BBR HOLDINGS (S) LTD",
+    "securityName": "BBR HOLDINGS (S) LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notification of Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/0I9M9MXLJ71M5UYI/896269__Volare%20BBR%20Holdings%20Form%203%2010%20July%202026_final.pdf",
+    "formType": "Form 3",
+    "entity": "Volare Group AG / Cielo Holding AG / Daniel Sieber",
+    "transactionDate": "10-Jul-2026",
+    "numberOfShares": "13,500,000",
+    "consideration": "SGD 4,050,000",
     "notify": 0
   },
   {
@@ -207,6 +277,20 @@
     "transactionDate": "10-Jul-2026",
     "numberOfShares": "S$14,250,000 in aggregate principal amount of 4.00 percent. Notes due 2029",
     "consideration": "S$14,250,000/-",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/PJIWB9PCVBPOQKIF/a4e22de4fac56a1fafc9e986fffc6c38dd81fa7b55de7888867a49555d590d68",
+    "dateTime": "14 Jul 2026 08:13 PM",
+    "issuerName": "TREK 2000 INTERNATIONAL LTD",
+    "securityName": "TREK 2000 INT'L LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in the Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/PJIWB9PCVBPOQKIF/896337__eFORM3V2-Kioxia-13%20Jul%2026-Final.pdf",
+    "formType": "Form 3",
+    "entity": "Kioxia Corporation",
+    "transactionDate": "09-Jul-2026",
+    "numberOfShares": "28,300 shares",
+    "consideration": "S$6,990.10",
     "notify": 0
   },
   {
