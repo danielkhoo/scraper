@@ -2,8 +2,10 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="O0I6ZWBK53ZMY2M6"></a>15-Jul-2026 | Asparta Pte. Ltd. | UNI-ASIA GROUP LIMITED | 119,300 shares | S$110,352.50 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/O0I6ZWBK53ZMY2M6/896596__Uni-Asia%202026-07-16%20-%20Changes%20in%20Interest%20of%20Substantial%20Shareholder.pdf) |
 | <a id="L208TN0KOAROEIB8"></a>15-Jul-2026 | Eddy Lee Yip Hang | MULTIPLE | Exercise of 11,620,807 warrants to ordinary shares | S$697,248.42 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/L208TN0KOAROEIB8/896439__Form%201%20-%20Eddy%20Lee_final.pdf) |
 | <a id="40GHX3911Q5C7NFO"></a>15-Jul-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/40GHX3911Q5C7NFO/896407__eFORM1_ChengWK_150726_Final.pdf) |
+| <a id="0UJBVB7T9J93VAF1"></a>14-Jul-2026 | Ow Chio Kiat | STAMFORD LAND CORPORATION LTD | 19,700 Ordinary Shares | S$0.490 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/0UJBVB7T9J93VAF1/896629__eFORM1V2%20-%20SLC%20-%20For%20release%2016%20Jul%202026.pdf) |
 | <a id="QA0XLPFPDSREETI8"></a>14-Jul-2026 | Hung Yung Enterprise Sdn Bhd | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/QA0XLPFPDSREETI8/896484__eFORM3V2_HYE.pdf) |
 | <a id="4HPL9J26V8DM7MP5"></a>14-Jul-2026 | S.K. Tiong Enterprise Sdn Bhd | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/4HPL9J26V8DM7MP5/896482__eFORM3V2_SKT.pdf) |
 | <a id="PX8G8E6OJL89J98B"></a>14-Jul-2026 | Puan Sri Datin Wong Bak Hee | NAM CHEONG LTD | NIL | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PX8G8E6OJL89J98B/896480__eFORM3V2_PSW.pdf) |

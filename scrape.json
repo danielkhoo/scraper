@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/O0I6ZWBK53ZMY2M6/310c195fab8f4a018efe4e957d15ed5dac0a41b320ee754d86f88f598b90883d",
+    "dateTime": "16 Jul 2026 06:05 PM",
+    "issuerName": "UNI-ASIA GROUP LIMITED",
+    "securityName": "UNI-ASIA GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Interest of Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/O0I6ZWBK53ZMY2M6/896596__Uni-Asia%202026-07-16%20-%20Changes%20in%20Interest%20of%20Substantial%20Shareholder.pdf",
+    "formType": "Form 3",
+    "entity": "Asparta Pte. Ltd.",
+    "transactionDate": "15-Jul-2026",
+    "numberOfShares": "119,300 shares",
+    "consideration": "S$110,352.50",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/L208TN0KOAROEIB8/b2e90dc826abb8740c8420984961077bb93cd24ccc35d014aa746ea28be7b2a6",
     "dateTime": "15 Jul 2026 05:51 PM",
     "issuerName": "IX BIOPHARMA LTD.",
@@ -11,7 +25,7 @@
     "transactionDate": "15-Jul-2026",
     "numberOfShares": "Exercise of 11,620,807 warrants to ordinary shares",
     "consideration": "S$697,248.42",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/40GHX3911Q5C7NFO/8b550caf77d45cd5923974caa9b43b26d345859c3d4a89b43c56ae58e848642e",
@@ -25,6 +39,20 @@
     "transactionDate": "15-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/0UJBVB7T9J93VAF1/c0c230db845bed15c5ec387dea36d8c191dad69bc3aea81fee3f421d102e5a79",
+    "dateTime": "16 Jul 2026 07:55 PM",
+    "issuerName": "STAMFORD LAND CORPORATION LTD",
+    "securityName": "STAMFORD LAND CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in interest of Director - Ow Chio Kiat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/0UJBVB7T9J93VAF1/896629__eFORM1V2%20-%20SLC%20-%20For%20release%2016%20Jul%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Ow Chio Kiat",
+    "transactionDate": "14-Jul-2026",
+    "numberOfShares": "19,700 Ordinary Shares",
+    "consideration": "S$0.490 per share",
     "notify": 0
   },
   {
