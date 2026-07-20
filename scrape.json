@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JW8YWJ2L5Q3SY981/58513bf452fee79f7d826480479fdbec4926c8618222a11bc512d47de32ed20c",
+    "dateTime": "20 Jul 2026 09:15 PM",
+    "issuerName": "SOUP HOLDINGS LIMITED",
+    "securityName": "SOUP HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest of a Substantial Shareholder - Then Khek Koon",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JW8YWJ2L5Q3SY981/896880__260720%20Form%203%20-%20Mr%20Then%20Khek%20Koon.pdf",
+    "formType": "Form 3",
+    "entity": "Then Khek Koon",
+    "transactionDate": "17-Jul-2026",
+    "numberOfShares": "27,945,000",
+    "consideration": "N/A.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/2S0RWP2CA4XFROG9/0793c940ea53989683f56e7414e22e7cbb3ea15a6478f1d88fc3a43183eaa382",
     "dateTime": "17 Jul 2026 05:24 PM",
     "issuerName": "WING TAI HOLDINGS LIMITED",
@@ -11,6 +25,20 @@
     "transactionDate": "17-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/9C18T0HY00MKEQAQ/bb327fcfe1a803160c3a988b3f7ebc7c23a7b698ec9af94dd4a49a1d742a3bad",
+    "dateTime": "20 Jul 2026 07:47 PM",
+    "issuerName": "STAMFORD LAND CORPORATION LTD",
+    "securityName": "STAMFORD LAND CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in interest of Director - Ow Chio Kiat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/9C18T0HY00MKEQAQ/896870__eFORM1V2%20-%20SLC%20-%20For%20release%20on%2020%20Jul%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Ow Chio Kiat",
+    "transactionDate": "16-Jul-2026",
+    "numberOfShares": "34,500 Ordinary Shares",
+    "consideration": "S$0.485 per share",
     "notify": 0
   },
   {
@@ -67,6 +95,20 @@
     "transactionDate": "16-Jul-2026",
     "numberOfShares": "Allotment of 23,226,666 Rights Shares with 7,742,222 Warrants",
     "consideration": "S$0.016 per Rights Share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GJ36KZY1486HAYZ7/a2de32b76e3072297e72abe53ffc7de9ddf33c421776706e69eb783732f13e2a",
+    "dateTime": "20 Jul 2026 05:27 PM",
+    "issuerName": "DUTY FREE INTERNATIONAL LIMITED",
+    "securityName": "DUTY FREE INTERNATIONALLIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notification Form for Director in respect of Interests in Securities",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GJ36KZY1486HAYZ7/896838__eFORM1V2%20DQ%2018072026.pdf",
+    "formType": "Form 1",
+    "entity": "QUEK MENG TECK, DERRICK",
+    "transactionDate": "15-Jul-2026",
+    "numberOfShares": "Allotment and issuance of 217,000 Warrants (direct interest) pursuant to the Warrants Issue (as defined below)",
+    "consideration": "S$217.00",
     "notify": 0
   },
   {
@@ -277,6 +319,20 @@
     "transactionDate": "14-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/MBFYAJ5IL7L76ADA/5430d51ee6eaed8b251775540089d422070b1e443086ee69e1ca3d6f933c69f4",
+    "dateTime": "20 Jul 2026 06:47 PM",
+    "issuerName": "KEPPEL LTD.",
+    "securityName": "KEPPEL LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/MBFYAJ5IL7L76ADA/896864__KCL%2020260720%20FORM%203%20final.pdf",
+    "formType": "Form 3",
+    "entity": "Temasek Holdings (Private) Limited (\"Temasek\")",
+    "transactionDate": "13-Jul-2026",
+    "numberOfShares": "420,000 Shares disposed of by DBS Bank Ltd. (\"DBS Bank\").",
+    "consideration": "S$4,851,000.00 received by DBS Bank.",
     "notify": 0
   },
   {
