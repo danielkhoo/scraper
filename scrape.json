@@ -1,5 +1,33 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/EH1V5ZS9UGB0KZ9R/a7daa32a376b9d784fddb1313b4fd8cfff336afb5a0e0591f0a40f82e40c530a",
+    "dateTime": "21 Jul 2026 05:19 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/EH1V5ZS9UGB0KZ9R/896915__eFORM1_ChengWK_210726_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "21-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/IIG5WCPKJMCH9060/f1907e2239d362c4560ba591d329a24ba17230b5ba20ea6af767dd831f8d3fa9",
+    "dateTime": "21 Jul 2026 08:18 PM",
+    "issuerName": "SINGAPORE AIRLINES LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION FORM FOR DIRECTOR/CHIEF EXECUTIVE OFFICER IN RESPECT OF INTERESTS IN SECURITIES",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/IIG5WCPKJMCH9060/896963__Form%201%20CEO%20Conditional%20Awards%20RSPPSP%2017July%202026%20v4r_.pdf",
+    "formType": "Form 1",
+    "entity": "Goh Choon Phong",
+    "transactionDate": "17-Jul-2026",
+    "numberOfShares": "128,546 conditional base awards of fully-paid shares granted pursuant to the SIA Restricted Share Plan 2024",
+    "consideration": "0",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/JW8YWJ2L5Q3SY981/58513bf452fee79f7d826480479fdbec4926c8618222a11bc512d47de32ed20c",
     "dateTime": "20 Jul 2026 09:15 PM",
     "issuerName": "SOUP HOLDINGS LIMITED",
@@ -25,6 +53,20 @@
     "transactionDate": "17-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/I83F5UE1YF9PNY5L/b5358e4fca82f6ba86d60b62b025e5490f200bca2a3b29af2c05d4aa60a85c43",
+    "dateTime": "20 Jul 2026 10:36 PM",
+    "issuerName": "SINGAPORE AIRLINES LIMITED",
+    "securityName": "MULTIPLE",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION FORM FOR DIRECTOR/CHIEF EXECUTIVE OFFICER IN RESPECT OF INTERESTS IN SECURITIES",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/I83F5UE1YF9PNY5L/896887__eFORM1V2.CEO%20adjustments%2016July26%20R%20pdf.pdf",
+    "formType": "Form 1",
+    "entity": "Goh Choon Phong",
+    "transactionDate": "16-Jul-2026",
+    "numberOfShares": "Adjustment of 874 conditional base awards, and 354 final awards pursuant to the SIA Restricted Share Plan.",
+    "consideration": "0",
     "notify": 0
   },
   {

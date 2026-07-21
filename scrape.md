@@ -2,8 +2,11 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="EH1V5ZS9UGB0KZ9R"></a>21-Jul-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EH1V5ZS9UGB0KZ9R/896915__eFORM1_ChengWK_210726_Final.pdf) |
+| <a id="IIG5WCPKJMCH9060"></a>17-Jul-2026 | Goh Choon Phong | MULTIPLE | 128,546 conditional base awards of fully-paid shares granted pursuant to the SIA Restricted Share Plan 2024 | 0 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IIG5WCPKJMCH9060/896963__Form%201%20CEO%20Conditional%20Awards%20RSPPSP%2017July%202026%20v4r_.pdf) |
 | <a id="JW8YWJ2L5Q3SY981"></a>17-Jul-2026 | Then Khek Koon | SOUP HOLDINGS LIMITED | 27,945,000 | N/A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/JW8YWJ2L5Q3SY981/896880__260720%20Form%203%20-%20Mr%20Then%20Khek%20Koon.pdf) |
 | <a id="2S0RWP2CA4XFROG9"></a>17-Jul-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/2S0RWP2CA4XFROG9/896686__eFORM1_ChengWK_170726_final.pdf) |
+| <a id="I83F5UE1YF9PNY5L"></a>16-Jul-2026 | Goh Choon Phong | MULTIPLE | Adjustment of 874 conditional base awards, and 354 final awards pursuant to the SIA Restricted Share Plan. | 0 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/I83F5UE1YF9PNY5L/896887__eFORM1V2.CEO%20adjustments%2016July26%20R%20pdf.pdf) |
 | <a id="9C18T0HY00MKEQAQ"></a>16-Jul-2026 | Ow Chio Kiat | STAMFORD LAND CORPORATION LTD | 34,500 Ordinary Shares | S$0.485 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/9C18T0HY00MKEQAQ/896870__eFORM1V2%20-%20SLC%20-%20For%20release%20on%2020%20Jul%202026.pdf) |
 | <a id="GPJA6PPLLJC7CCD4"></a>16-Jul-2026 | Levin Lee Keng Weng | ACROMETA GROUP LIMITED | Nil | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GPJA6PPLLJC7CCD4/896778__eFORM3V2_LL.pdf) |
 | <a id="VX9WC35AZO1T4C6H"></a>16-Jul-2026 | Chan Tze Choong Eric | ACROMETA GROUP LIMITED | Allotment of 1,066,666 Rights Shares with 355,555 Warrants | S$0.016 per Rights Share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VX9WC35AZO1T4C6H/896776__eFORM1V2_EC.pdf) |
