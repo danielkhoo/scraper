@@ -1,5 +1,33 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GZN56VWEBA6AIABZ/4982217114adaaf6b7f1123309633a79b04c0e26c52474ff9915e3e8beba42c3",
+    "dateTime": "27 Jul 2026 06:15 PM",
+    "issuerName": "OUE REIT MANAGEMENT PTE. LTD.",
+    "securityName": "OUE REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Unitholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GZN56VWEBA6AIABZ/897419__OUE%20REIT_Form_3_OUE_Limited_27%20July%202026.pdf",
+    "formType": "Form 3",
+    "entity": "OUE Limited (\"OUE\")",
+    "transactionDate": "27-Jul-2026",
+    "numberOfShares": "Receipt of 5,478,088 units in OUE REIT (\"Units\")",
+    "consideration": "S$0.3527 per Unit",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HD0Q67AJES7YRIGO/da587c8c69dbcad8af6f0be234da5615659bb812f243bb07aeee7ec578ffdb1b",
+    "dateTime": "27 Jul 2026 06:11 PM",
+    "issuerName": "ASIAPHOS LIMITED",
+    "securityName": "ASIAPHOS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest of Substantial Shareholder - Dr. Ong Hian Eng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HD0Q67AJES7YRIGO/897415__Form%203%20of%20Dr%20Ong.pdf",
+    "formType": "Form 3",
+    "entity": "Dr. Ong Hian Eng",
+    "transactionDate": "24-Jul-2026",
+    "numberOfShares": "49,626,061 ordinary shares",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/OP3KZ78P699LIL9W/14897ff287896a198348d249420191ff57b5afc763d49a07e33e1aa85965674b",
     "dateTime": "24 Jul 2026 09:14 PM",
     "issuerName": "VINS HOLDINGS LTD",
@@ -109,6 +137,20 @@
     "transactionDate": "23-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GR3S1SFYK5LDUZ0A/4f32dc514f04a56dc0fa57d933ea4f4f1a88dcc7842dc7bfa9bc6d96263fa51f",
+    "dateTime": "27 Jul 2026 07:21 AM",
+    "issuerName": "IX BIOPHARMA LTD.",
+    "securityName": "IX BIOPHARMA LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest by Substantial Shareholder - Oversea-Chinese Banking Corporation Limited",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GR3S1SFYK5LDUZ0A/897358__eFORM3%20-%20OCBC%20IX%20Biopharma%20Ltd%20-%20final.pdf",
+    "formType": "Form 3",
+    "entity": "Oversea-Chinese Banking Corporation Limited",
+    "transactionDate": "22-Jul-2026",
+    "numberOfShares": "3,712,800",
+    "consideration": "1,521,607.02",
     "notify": 0
   },
   {
@@ -25054,6 +25096,20 @@
     "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf",
     "formType": null,
     "entity": null,
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XN6VM5LAI7E9UH9Y/73fd505252716d526de9f8ec715ba1aaaee9aacd7e49c673e18590f1c232c09b",
+    "dateTime": "27 Jul 2026 05:24 PM",
+    "issuerName": "NTT DC REIT MANAGER PTE. LTD.",
+    "securityName": "NTT DC REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest of Director - Mr Tong Wei Min Raymond",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XN6VM5LAI7E9UH9Y/897383__Form%201%20of%20Raymond%20Tong.pdf",
+    "formType": "Form 1",
+    "entity": "Tong Wei Min Raymond",
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,

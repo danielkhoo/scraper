@@ -2,6 +2,8 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="GZN56VWEBA6AIABZ"></a>27-Jul-2026 | OUE Limited ("OUE") | OUE REIT | Receipt of 5,478,088 units in OUE REIT ("Units") | S$0.3527 per Unit | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GZN56VWEBA6AIABZ/897419__OUE%20REIT_Form_3_OUE_Limited_27%20July%202026.pdf) |
+| <a id="HD0Q67AJES7YRIGO"></a>24-Jul-2026 | Dr. Ong Hian Eng | ASIAPHOS LIMITED | 49,626,061 ordinary shares | Not applicable | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/HD0Q67AJES7YRIGO/897415__Form%203%20of%20Dr%20Ong.pdf) |
 | <a id="OP3KZ78P699LIL9W"></a>24-Jul-2026 | Kong Kian Siong | VINS HOLDINGS LTD | Subscription of 8 tokens with aggregate principal amount of S$80,000 (see paragraph 12 of Part III below) | S$80,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/OP3KZ78P699LIL9W/897325__eFORM1V2_KKS_24072026.pdf) |
 | <a id="IHLNSXLHE5CXQNH8"></a>24-Jul-2026 | Khong Keng Leng (Gong Qinglong) | VINS HOLDINGS LTD | Subscription of 40 tokens with aggregate principal amount of S$400,000 (see Paragraph 12 of Part III below) | S$400,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IHLNSXLHE5CXQNH8/897323__eFORM1V2_KKL_24072026.pdf) |
 | <a id="S0V3Y8EV3DHP010L"></a>24-Jul-2026 | Khong Chin Kiat (Tai Chinkiat) | VINS HOLDINGS LTD | Subscription of 40 tokens with aggregate principal amount of S$400,000 (see paragraph 12 of Part III below) | S$400,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/S0V3Y8EV3DHP010L/897321__eFORM1V2_KCK_24072026.pdf) |
@@ -10,6 +12,7 @@
 | <a id="BFYOHIIJIUE5I7SG"></a>24-Jul-2026 | LIM YINGJIE EUGENE | THE ASSEMBLY PLACE | NIL | NOT APPLICABLE | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/BFYOHIIJIUE5I7SG/897262__eFORM3V2%20-%20Eugene%20Lim.pdf) |
 | <a id="ILSJSFJBG3J94KBX"></a>23-Jul-2026 | Tan Chee Khoon | LINCOTRADE&ASSOCIATES HLDG LTD | 84,800 shares | S$26,924.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ILSJSFJBG3J94KBX/897180__eFORM3V2_Tan%20Chee%20Khoon.pdf) |
 | <a id="JYQDT7VM66RNO0SF"></a>23-Jul-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/JYQDT7VM66RNO0SF/897125__eFORM1_ChengWK_230726_Final.pdf) |
+| <a id="GR3S1SFYK5LDUZ0A"></a>22-Jul-2026 | Oversea-Chinese Banking Corporation Limited | IX BIOPHARMA LTD. | 3,712,800 | 1,521,607.02 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GR3S1SFYK5LDUZ0A/897358__eFORM3%20-%20OCBC%20IX%20Biopharma%20Ltd%20-%20final.pdf) |
 | <a id="UFITLZHGNNLZPJRI"></a>22-Jul-2026 | LIM SOON FANG | RICH CAPITAL HOLDINGS LTD | Not applicable. | Not applicable. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UFITLZHGNNLZPJRI/897343__eFORM3V2%20-%20Lim%20Soon%20Fang_Final.pdf) |
 | <a id="X00OL2NPW8CRQQ61"></a>22-Jul-2026 | BAI FENGMEI | RICH CAPITAL HOLDINGS LTD | Not applicable. | Not applicable. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/X00OL2NPW8CRQQ61/897341__eFORM3V2%20-%20Bai%20FengMei_Final.pdf) |
 | <a id="5MQ5M596VFPHYZ0O"></a>22-Jul-2026 | ZHANG ZEYUE | RICH CAPITAL HOLDINGS LTD | 5,030,200 | S$357,144 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5MQ5M596VFPHYZ0O/897339__eFORM3V2%20-%20Zhang%20Zeyue_Final.pdf) |
@@ -1792,6 +1795,7 @@
 | <a id="XAGMDXW4C6ZOXXHO"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XAGMDXW4C6ZOXXHO/_eFORM1-Chan%20Bih%20Tzy.pdf) |
 | <a id="TA5SSMU849GV2VX3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/TA5SSMU849GV2VX3/_eFORM1-Tan%20Kok%20Huat.pdf) |
 | <a id="20GDWZSHQ74AI1A3"></a>N/A | N/A | RECLAIMS GLOBAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/20GDWZSHQ74AI1A3/_eFORM1-Chan%20Chew%20Leh.pdf) |
+| <a id="XN6VM5LAI7E9UH9Y"></a>N/A | Tong Wei Min Raymond | NTT DC REIT | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XN6VM5LAI7E9UH9Y/897383__Form%201%20of%20Raymond%20Tong.pdf) |
 | <a id="VMS82KKB3L4KOMT2"></a>N/A | TAN ONG HUAT | TRICKLESTAR LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VMS82KKB3L4KOMT2/894513__20260626%20-%20eFORM1V2%20-%20Tan%20Ong%20Huat.pdf) |
 | <a id="GTZC7B7WVCFAIUYL"></a>N/A | Ong Choon Yi (Wang Junyi) | CLEARBRIDGE HEALTH LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/894092__eFORM1V2%20-%20Ong%20Choon%20Yi.pdf) |
 | <a id="IJ7E1O1PG262PKUA"></a>N/A | Liu Lianlian | OLIVE TREE ESTATES LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IJ7E1O1PG262PKUA/878713__20260318%20OTEL%20-%20eFORM1%20-Liu%20Lianlian.pdf) |
