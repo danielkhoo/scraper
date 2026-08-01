@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/Q7KPU65FJHELYTA7/7f1e7df5cdad0d9912a1939c11292b714f4f1802d9b4e71d0e44e74bda26db27",
+    "dateTime": "31 Jul 2026 10:56 PM",
+    "issuerName": "HATTEN LAND LIMITED",
+    "securityName": "HATTEN LAND LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF INTEREST/CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/Q7KPU65FJHELYTA7/898294__Skyone%20Holdings%20-%20Form%203%20.pdf",
+    "formType": "Form 3",
+    "entity": "Skyone Holdings Sdn. Bhd. / Goh Chai Hoe",
+    "transactionDate": "31-Jul-2026",
+    "numberOfShares": "21,547,104",
+    "consideration": "S$700,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OVRN536G3U6H4TJK/bd284065cdd9d28bb24eceda1d0a12c691ab4e6c74639de2991ce039a7f4fb14",
+    "dateTime": "31 Jul 2026 10:51 PM",
+    "issuerName": "HATTEN LAND LIMITED",
+    "securityName": "HATTEN LAND LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF INTEREST/CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OVRN536G3U6H4TJK/898292__LBD%20Engineering%20-%20Form%203%20.pdf",
+    "formType": "Form 3",
+    "entity": "LBD Engineering Pte. Ltd. / Alvin Lim Yee Hong / Lim Ban Dian",
+    "transactionDate": "31-Jul-2026",
+    "numberOfShares": "107,705,689",
+    "consideration": "100% shareholding in Metrocon Pte. Ltd.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/07QF1MVPB3DW1W9O/6f235d61c8108e4b5dcac0e85bd5e5b99bd7cf268320f69354418290468287ea",
+    "dateTime": "31 Jul 2026 10:45 PM",
+    "issuerName": "HATTEN LAND LIMITED",
+    "securityName": "HATTEN LAND LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF INTEREST/CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/07QF1MVPB3DW1W9O/898284__Hatten%20Holdings%20-%20Form%203%20.pdf",
+    "formType": "Form 3",
+    "entity": "Hatten Holdings Pte. Ltd. / Tan June Teng Colin @ Chen JunTing / Tan Ping Huang Edwin @ Chen BingHuang",
+    "transactionDate": "31-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/ICBURYZRSA0XLOG0/9e00ee427e3e8408170c9004e09f1ffa102cd06b05503956c571773fe67270ad",
+    "dateTime": "31 Jul 2026 10:24 PM",
+    "issuerName": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
+    "securityName": "FRASERS LOGISTICS & COMMERCIAL TRUST",
+    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest / Changes in Interest of Trustee-Manager/Responsible Person",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/ICBURYZRSA0XLOG0/898260__FLCAM%20-%20Form%206.pdf",
+    "formType": "Form 6",
+    "entity": null,
+    "transactionDate": "31-Jul-2026",
+    "numberOfShares": null,
+    "consideration": "5.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/OJLN5ONVQM8LWSWM/04dc780b9d7087e939b283eaf712ca900ed2e075fe98ff5d5170a453912c8a1b",
     "dateTime": "31 Jul 2026 05:24 PM",
     "issuerName": "CASA HOLDINGS LIMITED",
@@ -11,7 +67,7 @@
     "transactionDate": "31-Jul-2026",
     "numberOfShares": "26,000,000 ordinary shares",
     "consideration": "S$0.132 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/3TEI93CFZ4T4R64U/ae1eae101ec38d5a71c7047e628a55164e9f2ec5d3c278afbbcc71ee4c04da90",
@@ -25,7 +81,7 @@
     "transactionDate": "31-Jul-2026",
     "numberOfShares": "Vesting of 164,000 shares under awards.",
     "consideration": "N.A.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/NKESDWJYNCJI5S8E/71625577b7948a77fd63385d41058e0912cc8d95edcaf0b6b9b9634dd404bbdf",
@@ -39,7 +95,7 @@
     "transactionDate": "31-Jul-2026",
     "numberOfShares": "26,000,000 ordinary shares",
     "consideration": "S$0.132 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/FBQ7L28RIIRNXVG9/cd94dc31f1ec3b7f13ddd3e5b0edcabb78c40e182bc50a07fd6620e063caa034",
@@ -112,6 +168,104 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/493NJ2GXQ31DFOMB/d0b73c94b16d8c44fe0de225c9ece20a78c29757221455181853828479b9d49e",
+    "dateTime": "31 Jul 2026 10:31 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/493NJ2GXQ31DFOMB/898280__eFORM3V2_Union%20Fubon_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "UNION FUBON (SG) PTE. LTD.",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/0PMVWU9ERKPIOCMD/36374fe2f38c0519582851f84061dbac89e7d315b0556650fc8255055a480192",
+    "dateTime": "31 Jul 2026 10:31 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/0PMVWU9ERKPIOCMD/898278__eFORM3V2_Chua%20Cheng%20Soon_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "CHUA CHENG SOON",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/CPAZ59VQRDYQFU63/a137e2d6c85fadc7f00e413ecdc532b080a60df9804736d0c388a16fe4c784d8",
+    "dateTime": "31 Jul 2026 10:30 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/CPAZ59VQRDYQFU63/898275__eFORM3V2_HWL_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "HOCK WAI LOONG",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/A8PZMA52X8HIUSOI/06c38969adee13965b7edf3bc0ef2a73a1f6356bb03f2af8b3cf732d70285342",
+    "dateTime": "31 Jul 2026 10:29 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/A8PZMA52X8HIUSOI/898273__eFORM3V2_Simon%20Eng_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "SIMON ENG",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/3E7OMTIFLBV4KU4X/8d705e7fef4078dacbdb78c92fada084bfd3b046ee480b757c428836ef28f4ba",
+    "dateTime": "31 Jul 2026 10:28 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::CHANGE IN INTEREST OF SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/3E7OMTIFLBV4KU4X/898271__eFORM3V2_CSX_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "CAO SHIXUAN",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/MD6EJZ9DAP0UTE5W/8c88e42fa2bccffa668d12524348e151b213a5bd80903dd97f7074db15803e86",
+    "dateTime": "31 Jul 2026 10:27 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::BECOMING A SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/MD6EJZ9DAP0UTE5W/898269__eFORM3V2_RCL_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "Raffles Capital Limited",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "22,000,000",
+    "consideration": "S$880,000",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/2QHCV3482NRA0SMW/1d46002c0f54200956df2779122d5ecabdaa4ff18b2c5cff2ff16d9d6eb71648",
+    "dateTime": "31 Jul 2026 10:26 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::BECOMING A SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/2QHCV3482NRA0SMW/898267__eFORM3V2_Charlie_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "IN NANY SING CHARLIE",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "22,000,000",
+    "consideration": "S$880,000",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Y8PXM5062WVUKAD9/e56a7d9a7600247dd9c6476d63c8b892a74f2d5012e1ecd87ad9b25f045935c9",
     "dateTime": "30 Jul 2026 08:57 PM",
     "issuerName": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
@@ -179,6 +333,20 @@
     "transactionDate": "30-Jul-2026",
     "numberOfShares": null,
     "consideration": "5.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/G57RU0GMTV1UD0MO/666c5a79f946fdef48effdea300b90cd59e6eca88ede20779e719e0889f6b13f",
+    "dateTime": "01 Aug 2026 06:40 PM",
+    "issuerName": "METECH INTERNATIONAL LIMITED",
+    "securityName": "METECH INTERNATIONAL LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::BECOMING A SUBSTANTIAL SHAREHOLDER",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/G57RU0GMTV1UD0MO/898307__eFORM3V2_MOK_Exe.pdf",
+    "formType": "Form 3",
+    "entity": "MA ONG KEE",
+    "transactionDate": "30-Jul-2026",
+    "numberOfShares": "50,000,000",
+    "consideration": "S$2,000,000",
     "notify": 0
   },
   {
