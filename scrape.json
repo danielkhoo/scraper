@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/R49HQN9R0UOEJREM/1eff3f0d2f6e328d49a85409aab0e8f73731f0719854b500c9bc02ee742f593c",
+    "dateTime": "07 Aug 2026 05:31 PM",
+    "issuerName": "DAIWA HOUSE ASSET MANAGEMENT ASIA PTE. LTD.",
+    "securityName": "DAIWA HOUSE LOGISTICS TRUST",
+    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/Changes in Interest of Trustee-Manager/Responsible Person",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/R49HQN9R0UOEJREM/899083__Form%206-DHAMA.pdf",
+    "formType": "Form 6",
+    "entity": null,
+    "transactionDate": "07-Aug-2026",
+    "numberOfShares": null,
+    "consideration": "5.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4E44V1BJVJUO4XTG/37e8e422d2e8d295a4dd7cccd91145d27053bf83b1cf75d77f4a9d97d1373702",
+    "dateTime": "07 Aug 2026 05:19 PM",
+    "issuerName": "KEPPEL REIT MANAGEMENT LIMITED",
+    "securityName": "KEPPEL REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Change in Interest of Substantial Shareholder(s)/ Unitholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4E44V1BJVJUO4XTG/899056__MAS%20Form%203_Notification%20Form_07082026_final.pdf",
+    "formType": "Form 3",
+    "entity": "Keppel Capital Holdings Pte. Ltd. / Keppel REIT Management Limited",
+    "transactionDate": "07-Aug-2026",
+    "numberOfShares": "Issuance of a total of 12,609,075 Units of Keppel REIT",
+    "consideration": "N.A.",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/F3EUN1ENMKXH88RT/49fbd071e873514a24d9d1c0af449a80e85974670b794815d3d7dd9cde4f880a",
+    "dateTime": "07 Aug 2026 05:18 PM",
+    "issuerName": "KEPPEL REIT MANAGEMENT LIMITED",
+    "securityName": "KEPPEL REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interests of Trustee-Manager/Responsible Person",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/F3EUN1ENMKXH88RT/899044__MAS%20Form%206_Notification%20Form_07082026_final.pdf",
+    "formType": "Form 6",
+    "entity": null,
+    "transactionDate": "07-Aug-2026",
+    "numberOfShares": null,
+    "consideration": "5.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/HL0NCZMWTO4B5Y9A/b82087a33efe6db81cbbcec4a667fa7dd5243e246f6212cd1ed10e5032259238",
+    "dateTime": "07 Aug 2026 07:13 PM",
+    "issuerName": "IWOW TECHNOLOGY LIMITED",
+    "securityName": "IWOW TECHNOLOGY LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of interest / Changes in interest of Director - Soo Kee Wee",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/HL0NCZMWTO4B5Y9A/899159__Form%201%20-%20SKW%202026-08-06%20and%2007%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Soo Kee Wee",
+    "transactionDate": "06-Aug-2026",
+    "numberOfShares": "Not applicable.",
+    "consideration": "Not applicable.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4QC064OYHML6UC3Q/7d4f4a08415c0e3b969a59c435fd3970216747e2004a68f3f73f31386a63f714",
+    "dateTime": "07 Aug 2026 07:11 PM",
+    "issuerName": "IWOW TECHNOLOGY LIMITED",
+    "securityName": "IWOW TECHNOLOGY LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of interest / Changes in interest of substantial shareholder - Kau Wee Lee",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4QC064OYHML6UC3Q/899157__Form%203%20-%20KWL%202026-08-06%20and%2007%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "Kau Wee Lee",
+    "transactionDate": "06-Aug-2026",
+    "numberOfShares": "600,000 ordinary shares",
+    "consideration": "$156,498.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/SNGOCS1UPIIXD6HZ/a04e0f3e0c0be40a28850740607a101d668a6f5e341717e4399f0d2476f145b6",
+    "dateTime": "07 Aug 2026 06:10 PM",
+    "issuerName": "TRANS-CHINA AUTOMOTIVE HOLDINGS LIMITED",
+    "securityName": "TRANS-CHINA AUTOMOTIVE HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interests of Director - Michael Cheung",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SNGOCS1UPIIXD6HZ/899125__TCAH%20-%20Form%201_Michael%20Cheung_20260806.pdf",
+    "formType": "Form 1",
+    "entity": "Michael Cheung",
+    "transactionDate": "06-Aug-2026",
+    "numberOfShares": "Lapse of provisional allotment of 20,313,699 Rights Shares under the Rights Issue (each as defined under Item 7)",
+    "consideration": "Nil",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/R829JXAKVRIZEHMY/57d5305f7635e799e6b0a52b6af03c0bcbce7c11e6ef153e896598ee2086c8da",
     "dateTime": "06 Aug 2026 06:01 PM",
     "issuerName": "AIMS APAC REIT MANAGEMENT LIMITED",
@@ -11,7 +95,7 @@
     "transactionDate": "06-Aug-2026",
     "numberOfShares": "DEEMED INTEREST OF 275,758 UNITS",
     "consideration": "N/A",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/FNU79UPHCYFXHBKG/91ac0a9afa6811e4ee43b9c30b878f259d9f8efb79c0ab42c4469357b6ad798a",
@@ -25,7 +109,7 @@
     "transactionDate": "06-Aug-2026",
     "numberOfShares": "DEEMED INTEREST OF 275,758 UNITS",
     "consideration": "N/A",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/7D34HIZ1JS0MSI2G/eb23ba995ecc0d92f4a43bdeb733d8d4ba13fa639874dfcf77d33aa00a56abc2",
@@ -70,20 +154,6 @@
     "notify": 0
   },
   {
-    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XBZ7C426UIEJDWYQ/8c66d6d11c7b43a993fec98f302dbe602a9c104895dc50ab219598a268b5f79a",
-    "dateTime": "06 Aug 2026 05:20 PM",
-    "issuerName": "FIRST REIT MANAGEMENT LIMITED",
-    "securityName": "FIRST REAL ESTATE INV TRUST",
-    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interest of Trustee Manager/ Responsible Person",
-    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XBZ7C426UIEJDWYQ/898882__First_REIT_Form_6_6_August_2026.pdf",
-    "formType": "Form 6",
-    "entity": null,
-    "transactionDate": "06-Aug-2026",
-    "numberOfShares": null,
-    "consideration": "5.",
-    "notify": 0
-  },
-  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/WT60GXKP1ZDX7NWZ/0280053b5a871a7b9cbe9ded19edb83012cb43ddbbdf9d265ae8d67073a452ad",
     "dateTime": "06 Aug 2026 05:20 PM",
     "issuerName": "AEDGE GROUP LIMITED",
@@ -98,6 +168,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/XBZ7C426UIEJDWYQ/8c66d6d11c7b43a993fec98f302dbe602a9c104895dc50ab219598a268b5f79a",
+    "dateTime": "06 Aug 2026 05:20 PM",
+    "issuerName": "FIRST REIT MANAGEMENT LIMITED",
+    "securityName": "FIRST REAL ESTATE INV TRUST",
+    "title": "Disclosure of Interest/ Changes in Interest of Trustee-Manager/ Responsible Person::Disclosure of Interest/ Changes in Interest of Trustee Manager/ Responsible Person",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/XBZ7C426UIEJDWYQ/898882__First_REIT_Form_6_6_August_2026.pdf",
+    "formType": "Form 6",
+    "entity": null,
+    "transactionDate": "06-Aug-2026",
+    "numberOfShares": null,
+    "consideration": "5.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/3XNXYWTES9GWJIIY/44a2413382ed7c9e2cc841f94f90ec55d8f90a024c2a701bba96e74c1eb23875",
     "dateTime": "06 Aug 2026 05:19 PM",
     "issuerName": "AEDGE GROUP LIMITED",
@@ -109,6 +193,48 @@
     "transactionDate": "06-Aug-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/9I553H28VM9DTWVP/4e084687e895cafbec1bfdac030515a55b2af1dbb0084921c2f117391fed3c12",
+    "dateTime": "07 Aug 2026 07:48 PM",
+    "issuerName": "CENTURION ASSET MANAGEMENT PTE. LTD.",
+    "securityName": "CENTURION ACCOMMODATION REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Notification of Change in Interest by Substantial Unitholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/9I553H28VM9DTWVP/899180__eFORM3V2_FIL%2020260807%20-%20final.pdf",
+    "formType": "Form 3",
+    "entity": "Pandanus Associates Inc. / FIL Limited / FIL Financial Services Holdings Limited / FIL Financial Services Holdings 2 Limited / FIL Asia Holdings Pte Limited / FIL Investment Management (Hong Kong) Limited / FIL Holdings (Luxembourg) S.a r.l. / FIL Investment Management (Singapore) Limited / Fidelity Funds",
+    "transactionDate": "05-Aug-2026",
+    "numberOfShares": "764,400 (disposed)",
+    "consideration": "SGD 880,818 (received)",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DSZ549ZYSBTJDAR4/c27ebd70ce5daee80290682bd6e12200c9689f9dc59a0383902c2c62edd8ec45",
+    "dateTime": "07 Aug 2026 07:18 PM",
+    "issuerName": "STAMFORD LAND CORPORATION LTD",
+    "securityName": "STAMFORD LAND CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in interest of Director - Ow Chio Kiat",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DSZ549ZYSBTJDAR4/899162__eFORM1V2-SLC-For%20release%20on%207%20Aug%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Ow Chio Kiat",
+    "transactionDate": "05-Aug-2026",
+    "numberOfShares": "140,000 Ordinary Shares",
+    "consideration": "S$0.47857 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/2B10GTN7BMPD5B6C/2e9e0b2de7779c610ec80bf3323e669f73fceb0b7d63cf0a05796c54cc860c3d",
+    "dateTime": "07 Aug 2026 05:18 PM",
+    "issuerName": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
+    "securityName": "DIGITAL CORE REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Interest of Substantial Unitholder - Cohen & Steers Capital Management, Inc.",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/2B10GTN7BMPD5B6C/899047__Digital%20Core%20REIT%20Form%203%20-%20FINAL.pdf",
+    "formType": "Form 3",
+    "entity": "Cohen & Steers Capital Management, Inc.",
+    "transactionDate": "05-Aug-2026",
+    "numberOfShares": "2,577,200",
+    "consideration": "1,228,294 USD = 2,577,200 units x 0.4766 USD",
     "notify": 0
   },
   {
@@ -809,6 +935,20 @@
     "transactionDate": "31-Jul-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/SLHK1EVOK9AIHDWM/3dbfdd037946244339fe8b509f51a70edd36b06144cdacbfb0a8a8170d4a691a",
+    "dateTime": "07 Aug 2026 05:57 PM",
+    "issuerName": "F J BENJAMIN HOLDINGS LTD",
+    "securityName": "F J BENJAMIN HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Changes in Interest of Substantial Shareholders - Segulah Pte Ltd and Vistra Trust",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/SLHK1EVOK9AIHDWM/899112__eFORM3V2_Segulah.pdf",
+    "formType": "Form 3",
+    "entity": "Segulah Pte Ltd / Vistra Trust (Singapore) Pte. Limited",
+    "transactionDate": "31-Jul-2026",
+    "numberOfShares": "NA",
+    "consideration": "NA",
     "notify": 0
   },
   {
