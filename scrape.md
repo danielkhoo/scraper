@@ -2,6 +2,12 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="WGIK3ZL8LXU0QTGF"></a>11-Aug-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 1,000,000 | S$383,167.59 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WGIK3ZL8LXU0QTGF/900384__KWS%20-%20Form%201.pdf) |
+| <a id="M7RBLMFXHVO5Y93A"></a>07-Aug-2026 | Tang Ying | ALL-LINK AIR & SEA LIMITED | 2,109,200 | S$1,117,876 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/M7RBLMFXHVO5Y93A/900272__Form%201%20-%20Tang%20Ying%20-%20Final.pdf) |
+| <a id="IMEWJI7PWSB3VJ1A"></a>07-Aug-2026 | Low See Ching | THE ASSEMBLY PLACE | 200,000 shares | S$46,000 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IMEWJI7PWSB3VJ1A/900260__eFORM1V2%20-%20Low%20See%20Ching.pdf) |
+| <a id="1VM7JIYK58Z5MQQ0"></a>07-Aug-2026 | Lim Yingjie Eugene | THE ASSEMBLY PLACE | 20,000 shares | S$4,700.00 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1VM7JIYK58Z5MQQ0/900258__eFORM1V2%20-%20Eugene%20Lim.pdf) |
+| <a id="SP8T7GM7KD5UYDWU"></a>07-Aug-2026 | TAN ONG HUAT | TRICKLESTAR LIMITED | 511,400 | S$42,264.14 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/SP8T7GM7KD5UYDWU/900339__20260811%20-%20eFORM1V2%20-%20Tan%20Ong%20Huat.pdf) |
+| <a id="ZR9XKOIPAUBRJPAS"></a>07-Aug-2026 | Kong Wan Sing | JUSTCO HOLDINGS LIMITED | 500,000 | S$322,066.47 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/ZR9XKOIPAUBRJPAS/900298__20260811-Form%201-KWS-Final.pdf) |
 | <a id="R49HQN9R0UOEJREM"></a>07-Aug-2026 | N/A | DAIWA HOUSE LOGISTICS TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/R49HQN9R0UOEJREM/899083__Form%206-DHAMA.pdf) |
 | <a id="4E44V1BJVJUO4XTG"></a>07-Aug-2026 | Keppel Capital Holdings Pte. Ltd. / Keppel REIT Management Limited | KEPPEL REIT | Issuance of a total of 12,609,075 Units of Keppel REIT | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/4E44V1BJVJUO4XTG/899056__MAS%20Form%203_Notification%20Form_07082026_final.pdf) |
 | <a id="F3EUN1ENMKXH88RT"></a>07-Aug-2026 | N/A | KEPPEL REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/F3EUN1ENMKXH88RT/899044__MAS%20Form%206_Notification%20Form_07082026_final.pdf) |
