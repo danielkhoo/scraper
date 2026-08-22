@@ -53,7 +53,7 @@
     "transactionDate": "21-Aug-2026",
     "numberOfShares": "100,000",
     "consideration": "$4.60 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/9VXHSOBSOUXLVQVP/9deafda8d82461d93604d7a85c536c05522e386d29a2c65f3bf1f67098df2d25",
@@ -67,7 +67,7 @@
     "transactionDate": "21-Aug-2026",
     "numberOfShares": "200,000",
     "consideration": "$40,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/55BA3L38XJE0QGNM/759d7a7d146e0a9b061e6ce73fee317c4c0302833a8da51c192883b3ae6b3b00",
