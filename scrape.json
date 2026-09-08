@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/WJX8ECKNQ9TQL69R/ff9f09014fc7287fd09639242b9e0a5d438e93eda3b4be1228b4e37d073039f3",
+    "dateTime": "08 Sep 2026 11:14 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::DISCLOSURE OF CHANGES IN INTEREST OF DIRECTOR - DR NG CHIN SIAU",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/WJX8ECKNQ9TQL69R/903755__eFORM1V2-DR%20NG-08092026.pdf",
+    "formType": "Form 1",
+    "entity": "Dr Ng Chin Siau (\"Dr Ng\")",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "Not applicable",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/PW46DFVSFOOPPEG2/37a03a9e25fa9fdae9aac7faa366196136c3b2e7b8d9b8f186996ebb726974d9",
+    "dateTime": "08 Sep 2026 11:13 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER-Q & M DENTAL GROUP (SINGAPORE) LIMITED",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/PW46DFVSFOOPPEG2/903753__eFORM3V2-QM%20and%20QMH-08092026.pdf",
+    "formType": "Form 3",
+    "entity": "Q & M Dental Group (Singapore) Limited (\"Q & M\") / Quan Min Holdings Pte. Ltd.",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "200,000 ordinary shares",
+    "consideration": "S$39,300",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/Q08QWY61532S46CC/4897d5942e3d7869e41e91137b10b11f09e2fb7a2e9ff3c42680abda5e4a73bb",
+    "dateTime": "08 Sep 2026 06:02 PM",
+    "issuerName": "VIBRANT GROUP LIMITED",
+    "securityName": "VIBRANT GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Change in Interest in Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/Q08QWY61532S46CC/903721__EK_eFORM3V2_Final.pdf",
+    "formType": "Form 3",
+    "entity": "KHUA KIAN KEONG",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "950,000",
+    "consideration": "$0.125 per share",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/9POM1SHE027HCM98/608fcb2b8af97890d2b0f3544ca91211b67c8b4ceb914f6c1fd2300991b54182",
+    "dateTime": "08 Sep 2026 05:22 PM",
+    "issuerName": "FOUNDATION HEALTHCARE HOLDINGS LIMITED",
+    "securityName": "FOUNDATION HEALTHCARE HOLDINGS",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest of Director - Liaw Yit Ming",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/9POM1SHE027HCM98/903706__Form%201-Liaw%20Yit%20Ming.pdf",
+    "formType": "Form 1",
+    "entity": "LIAW YIT MING",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "40,600",
+    "consideration": "S$26,796.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/C4DRW4897E22ZL1B/2bd9d9fd5e7628efd144a4b7329741e6ec3edf1c415b209f6d6278cb68eddb71",
+    "dateTime": "08 Sep 2026 12:12 PM",
+    "issuerName": "CDW HOLDING LIMITED",
+    "securityName": "CDW HOLDING LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Percentage Level of Substantial Shareholder - Mikuni Co., Limited and Mr. YOSHIMI Kunikazu",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/C4DRW4897E22ZL1B/903688__eFORM3V2%20-%20Mikuni%20Co%20Limited%20and%20Yoshimi%20Kunikazu_Final.pdf",
+    "formType": "Form 3",
+    "entity": "Mikuni Co., Limited / YOSHIMI Kunikazu",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "245,100",
+    "consideration": "S$17,157.00",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/LD3KTTVTEUGYE4MO/a000c818730fc344f179ba5ae7d2bc76a37af97aba212dd4951af6231660b519",
     "dateTime": "07 Sep 2026 06:18 PM",
     "issuerName": "FIRST SPONSOR GROUP LIMITED",
@@ -11,7 +81,7 @@
     "transactionDate": "07-Sep-2026",
     "numberOfShares": "34,510,764 new Shares issued pursuant to the exercise of 34,510,764 W290321 warrants",
     "consideration": "S$37,271,625.12",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/VKW203HI6FY3NVLU/befe9d8d1c257622c948e3642912f41334612f5d4c5e1243751bf8ffb82dc3ad",
@@ -25,7 +95,7 @@
     "transactionDate": "07-Sep-2026",
     "numberOfShares": "34,510,764 new Shares issued pursuant to the exercise of 34,510,764 W290321 warrants",
     "consideration": "S$37,271,625.12",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/LWZOHWRH62HB3XMB/64a505e3441b5f331727e555f16b7772dea8b84e2214414f76303dfb32c7cd2d",
@@ -39,7 +109,7 @@
     "transactionDate": "07-Sep-2026",
     "numberOfShares": "34,623,401 new Shares issued pursuant to the exercise of 34,623,401 W290321 warrants",
     "consideration": "S$37,393,273.08",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/CEJ4IV0JH21LQILY/8df28aadc2fced91e964293b8d32b089870a5b91292b511eaf2e20bed0e25c0a",
@@ -53,7 +123,7 @@
     "transactionDate": "07-Sep-2026",
     "numberOfShares": "34,510,764 new Shares issued pursuant to the exercise of 34,510,764 W290321 warrants",
     "consideration": "S$ 37,271,625.12",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Q4N6V6UFKLJIMEVE/addc5247ec033e487453118f4324b83eada7ee57a1c7b04964b85866012d3d20",
@@ -151,6 +221,62 @@
     "transactionDate": "04-Sep-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8V6PBEIOXKMGDFWQ/ff25985a028af918aa4e4939ff48b4951fc16dc7f00895bfe22b3a511749bd91",
+    "dateTime": "08 Sep 2026 05:30 PM",
+    "issuerName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "securityName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::NOTIFICATION FOR SUBSTANTIAL SHAREHOLDER - U.I.P. HOLDINGS LIMITED",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8V6PBEIOXKMGDFWQ/903712__UIP%20Holdings%20-%20eFORM3V2%200809%202026.pdf",
+    "formType": "Form 3",
+    "entity": "U.I.P. Holdings Limited",
+    "transactionDate": "03-Sep-2026",
+    "numberOfShares": "125,000 shares",
+    "consideration": "S$4.30021 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JTT2E19UM5V9PMHQ/cea1c6dcc24a59ab39848d290b12b693464026086e9fbc70109f0631c89f75fe",
+    "dateTime": "08 Sep 2026 05:30 PM",
+    "issuerName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "securityName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::NOTIFICATION FOR SUBSTANTIAL SHAREHOLDER - K.I.P. INC",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JTT2E19UM5V9PMHQ/903710__KIP%20Inc%20-%20eFORM3V2%200809%202026.pdf",
+    "formType": "Form 3",
+    "entity": "K.I.P. Inc",
+    "transactionDate": "03-Sep-2026",
+    "numberOfShares": "125,000 shares",
+    "consideration": "S$4.30021 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/J71ZDMPO142HHE41/be0942bfd6f63c5c244dc5f783f1d59d580ca516ff84bf0ab40c06be26f0bcaa",
+    "dateTime": "08 Sep 2026 05:30 PM",
+    "issuerName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "securityName": "UOB-KAY HIAN HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::NOTIFICATION FOR DIRECTOR/CEO",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/J71ZDMPO142HHE41/903708__WEC%20-%20eFORM1V2%200809%202026.pdf",
+    "formType": "Form 1",
+    "entity": "Wee Ee Chao",
+    "transactionDate": "03-Sep-2026",
+    "numberOfShares": "250,000 shares",
+    "consideration": "S$4.30021 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/I77P0IXQLT9M9XYI/66e6778710098afabe00e6467997c9e7e3627a800fa4429e6315ea9c22f7626a",
+    "dateTime": "08 Sep 2026 05:21 PM",
+    "issuerName": "NERA TELECOMMUNICATIONS LTD",
+    "securityName": "NERATELECOMMUNICATIONS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest / Changes in Interest of Director / Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/I77P0IXQLT9M9XYI/903704__eFORM1V2.pdf",
+    "formType": "Form 1",
+    "entity": "CHU, FU-CHUAN",
+    "transactionDate": "03-Sep-2026",
+    "numberOfShares": "1000",
+    "consideration": "SGD180.00",
     "notify": 0
   },
   {
