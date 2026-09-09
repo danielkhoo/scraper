@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/51R1LUPX2LE9LKDB/eab54341bcb684e98668a6ae57376129337a5bf5a2bea19b1d31555be71c3b26",
+    "dateTime": "09 Sep 2026 07:22 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::DISCLOSURE OF CHANGES IN INTEREST OF DIRECTOR - DR NG CHIN SIAU",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/51R1LUPX2LE9LKDB/903844__eFORM1V2-DR%20NG-09092026.pdf",
+    "formType": "Form 1",
+    "entity": "Dr Ng Chin Siau (\"Dr Ng\")",
+    "transactionDate": "09-Sep-2026",
+    "numberOfShares": "Not applicable",
+    "consideration": "Not applicable",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/ZC0KRRZNYFMEY12X/fd55ceb72e776c0feb7a510d65c9656efc31f94555e4e75324855c033ac00f5d",
+    "dateTime": "09 Sep 2026 07:20 PM",
+    "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "securityName": "AOXIN Q & M DENTAL GRP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::DISCLOSURE OF CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER-Q & M DENTAL GROUP (SINGAPORE) LIMITED",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/ZC0KRRZNYFMEY12X/903842__eFORM3V2-QM%20and%20QMH-09092026.pdf",
+    "formType": "Form 3",
+    "entity": "Q & M Dental Group (Singapore) Limited (\"Q & M\") / Quan Min Holdings Pte. Ltd.",
+    "transactionDate": "09-Sep-2026",
+    "numberOfShares": "100,000 ordinary shares",
+    "consideration": "S$19,600",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8KP258JYFON3XLTK/a73681b61a8170539548e36c3c953ae18dc1155c9f5ba14d6b12f0c0aaeb4110",
+    "dateTime": "09 Sep 2026 06:09 PM",
+    "issuerName": "HO BEE LAND LIMITED",
+    "securityName": "HO BEE LAND LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Executive Chairman, Dr Chua Thian Poh",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8KP258JYFON3XLTK/903836__eFORM1_CTP_20260909.pdf",
+    "formType": "Form 1",
+    "entity": "Chua Thian Poh",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "210,600 shares acquired by Ho Bee Holdings (Pte) Ltd",
+    "consideration": "S$428,276.16 paid by Ho Bee Holdings (Pte) Ltd",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GCIOCYZ5EZKMV4W6/a3a37382d42ad6fca7712195d82523c0bcc8c4ac90a9108452e4fe57639e0a20",
+    "dateTime": "09 Sep 2026 05:27 PM",
+    "issuerName": "ENVICTUS INTERNATIONAL HOLDINGS LIMITED",
+    "securityName": "ENVICTUS INTERNATIONAL HLDGLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GCIOCYZ5EZKMV4W6/903811__eFORM3V2_Tan%20Boon%20Seng.pdf",
+    "formType": "Form 3",
+    "entity": "Tan Boon Seng",
+    "transactionDate": "08-Sep-2026",
+    "numberOfShares": "2,000,000",
+    "consideration": "798,720",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/WJX8ECKNQ9TQL69R/ff9f09014fc7287fd09639242b9e0a5d438e93eda3b4be1228b4e37d073039f3",
     "dateTime": "08 Sep 2026 11:14 PM",
     "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
@@ -25,7 +81,7 @@
     "transactionDate": "08-Sep-2026",
     "numberOfShares": "200,000 ordinary shares",
     "consideration": "S$39,300",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Q08QWY61532S46CC/4897d5942e3d7869e41e91137b10b11f09e2fb7a2e9ff3c42680abda5e4a73bb",
@@ -39,7 +95,7 @@
     "transactionDate": "08-Sep-2026",
     "numberOfShares": "950,000",
     "consideration": "$0.125 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/9POM1SHE027HCM98/608fcb2b8af97890d2b0f3544ca91211b67c8b4ceb914f6c1fd2300991b54182",
@@ -53,6 +109,76 @@
     "transactionDate": "08-Sep-2026",
     "numberOfShares": "40,600",
     "consideration": "S$26,796.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/S4N7IM5WXWYA5M35/146f463e718d0ccf2a7f375b1b238fe81ad39e5414dda1316bf1ccd3977405aa",
+    "dateTime": "09 Sep 2026 05:59 PM",
+    "issuerName": "FIRST SPONSOR GROUP LIMITED",
+    "securityName": "FIRST SPONSOR GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/S4N7IM5WXWYA5M35/903830__F3-HLIH.final.pdf",
+    "formType": "Form 3",
+    "entity": "Hong Leong Investment Holdings Pte. Ltd. (\"HLIH\")",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/05O1VR48T875B25H/d5366512a0ef5982ae87a528b630265f2d86d666e025b146cbd491d489d789ea",
+    "dateTime": "09 Sep 2026 05:59 PM",
+    "issuerName": "FIRST SPONSOR GROUP LIMITED",
+    "securityName": "FIRST SPONSOR GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/05O1VR48T875B25H/903828__F3-Agapier%20SDPL%20CDL.Final.pdf",
+    "formType": "Form 3",
+    "entity": "Agapier Investments Limited (\"Agapier\") / Singapura Developments (Private) Limited (\"SDPL\") / City Developments Limited (\"CDL\")",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/OU84EZJF85PQZF4P/3dc184cbcacf46ad49d268240d1442b5789165d80f9cd91b4bbe87ebb00d929b",
+    "dateTime": "09 Sep 2026 05:58 PM",
+    "issuerName": "FIRST SPONSOR GROUP LIMITED",
+    "securityName": "FIRST SPONSOR GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/OU84EZJF85PQZF4P/903826__F3-MCHI.final.pdf",
+    "formType": "Form 3",
+    "entity": "M&C Hospitality International Limited (\"MCHIL\") / M&C Singapore Holdings (UK) Limited (\"MCSHUKL\") / Millennium & Copthorne Hotels Limited (\"M&C\")",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/GM153SNWS0KK0CGT/c25df99f7606d06375bb0c3c8f0c267e4c0fd7e4bfdd8758bd85bf009fdf23d6",
+    "dateTime": "09 Sep 2026 05:57 PM",
+    "issuerName": "FIRST SPONSOR GROUP LIMITED",
+    "securityName": "FIRST SPONSOR GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GM153SNWS0KK0CGT/903823__F3-RHRL.final.pdf",
+    "formType": "Form 3",
+    "entity": "Republic Hotels & Resorts Limited (\"RHRL\") / M&C Hotel Investments Pte. Ltd. (\"MCHIPL\")",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/X7UNG0K63A4MP9P9/8d76c1e867baeb6ef5f07c0fd53311046a143193b07981c36b505d8727ccabad",
+    "dateTime": "09 Sep 2026 05:20 PM",
+    "issuerName": "NERA TELECOMMUNICATIONS LTD",
+    "securityName": "NERATELECOMMUNICATIONS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest / Changes in Interest of Director / Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/X7UNG0K63A4MP9P9/903805__eFORM1V2.pdf",
+    "formType": "Form 1",
+    "entity": "CHU, FU-CHUAN",
+    "transactionDate": "07-Sep-2026",
+    "numberOfShares": "27000",
+    "consideration": "SGD4806.00",
     "notify": 0
   },
   {
@@ -151,6 +277,20 @@
     "transactionDate": "07-Sep-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/COUSD7IHGHGACZ7G/0bc4c9c06b07d4343152c5be866af989c68fc621d41237eb5ac3720a26bdc3f2",
+    "dateTime": "09 Sep 2026 05:19 PM",
+    "issuerName": "BHG RETAIL TRUST MANAGEMENT PTE. LTD.",
+    "securityName": "BHG RETAIL REIT",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Substantial Unitholder's Interest",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/COUSD7IHGHGACZ7G/903803__BHG%20REIT-Form%203-Beijing%20Hualian%20Mall%20Singapore%20Commercial%20Management%20Pte.%20Ltd..pdf",
+    "formType": "Form 3",
+    "entity": "Beijing Hualian Mall (Singapore) Commercial Management Pte. Ltd. / Beijing Hualian Department Store Co., Ltd. / Beijing Hualian Group Investment Holding Co., Ltd. / Hainan Hong Ju Industrial Co., Ltd. / Hainan Hong Ju Culture Media Group Limited",
+    "transactionDate": "04-Sep-2026",
+    "numberOfShares": "12,898,508",
+    "consideration": "$0.48 per Unit",
     "notify": 0
   },
   {
