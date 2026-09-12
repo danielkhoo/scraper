@@ -11,7 +11,7 @@
     "transactionDate": "11-Sep-2026",
     "numberOfShares": "Purchase of 333,400 shares at S$0.55876 each at open market",
     "consideration": "S$186,290.58",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/JB737CED92QRM6RS/cd6b48d9ed483c629baf1b1835f5e4b49f92796cde6a59038e2d49969f8ec19b",
@@ -39,7 +39,7 @@
     "transactionDate": "11-Sep-2026",
     "numberOfShares": "18,000,000",
     "consideration": "See Item 9 for details.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/VLSX5URLX3PJL362/833462dfdf1fb6d7795d27dea6aa31760ac3a59c241bf67eaf7a120ce087776b",
@@ -53,7 +53,7 @@
     "transactionDate": "11-Sep-2026",
     "numberOfShares": "18,000,000",
     "consideration": "See Item 9 for details.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/V1Z2T552YFFR1WUS/c9d39f47272d01f03372da05142b9b601cc88a6faf6ced0327f5a3f6296ddc2b",
