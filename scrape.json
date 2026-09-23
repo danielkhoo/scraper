@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/UAQ5498JJ5K5YOUS/12c9f49631b4ae9be5c993f952b29ac72b0425a7e87e844b1b0ec55598ed8727",
+    "dateTime": "23 Sep 2026 05:31 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/UAQ5498JJ5K5YOUS/904804__eFORM1_ChengWK_230926_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "23-Sep-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/FZ49SZQ19Z7OJD3U/62fa64a6e180cfdcebcf0a7aeb9c853418391ee3463a56ecbb9598597ee5143c",
+    "dateTime": "23 Sep 2026 07:41 PM",
+    "issuerName": "ENECO ENERGY LIMITED",
+    "securityName": "ENECO ENERGY LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/Changes in Interest of Substantial Shareholder - Union Steel Holdings Limited",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/FZ49SZQ19Z7OJD3U/904846__Form%203%20-%20Union%20Steel%20-%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "Union Steel Holdings Limited / Ang Yu Seng / Goi Seng Hui",
+    "transactionDate": "22-Sep-2026",
+    "numberOfShares": "3,798,200 shares",
+    "consideration": "S$30,385.60",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/WOBTY6YYLLATE99W/184b6caaf5a1b1d368275e2f59e48100c9c8b7858ad942edc1c9f45a361f8526",
+    "dateTime": "23 Sep 2026 05:33 PM",
+    "issuerName": "LEONG GUAN HOLDINGS LIMITED",
+    "securityName": "LEONG GUAN HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director - Lim Tze Chiang",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/WOBTY6YYLLATE99W/904808__20260923%20-%20LGH_Form%201_LTC.pdf",
+    "formType": "Form 1",
+    "entity": "Lim Tze Chiang",
+    "transactionDate": "22-Sep-2026",
+    "numberOfShares": "29,800 ordinary shares",
+    "consideration": "S$6,258.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/UFCV9354JFED9A7Q/2fe43df9757c06c67261dc4d1e372eed48db258ec058ab4de101187dc958f095",
+    "dateTime": "23 Sep 2026 05:30 PM",
+    "issuerName": "ATTIKA GROUP LTD.",
+    "securityName": "ATTIKA GROUP LTD.",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Director's Interest - Tan Buan Joo",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/UFCV9354JFED9A7Q/904800__eFORM1V2%20-%20Steven.22.09.26%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Tan Buan Joo",
+    "transactionDate": "22-Sep-2026",
+    "numberOfShares": "600,000",
+    "consideration": "123,000.00",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/4FNTV3OJHL1EOCFS/875523797eb85cf2daa21709abe0b401a7fcc24e4f081dea1fbb0b7a063cb9f1",
     "dateTime": "22 Sep 2026 06:47 PM",
     "issuerName": "AOXIN Q & M DENTAL GRP LIMITED",
@@ -25,7 +81,7 @@
     "transactionDate": "22-Sep-2026",
     "numberOfShares": "300000",
     "consideration": "S$105,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/M2CRU3A4GMMDHOT0/961ae8c72b954ec0bf7b88fcca96e8b26dad9c99d59533f3cf0f59f0584e2bde",
@@ -39,7 +95,7 @@
     "transactionDate": "22-Sep-2026",
     "numberOfShares": "100,000 ordinary shares",
     "consideration": "S$18,400",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/EJ329TDGKRG7IP77/a181aefe3dbd1bf343a8d17d6703af4567f436c9bd60cf1c321900ab56efa3b9",
@@ -53,7 +109,7 @@
     "transactionDate": "22-Sep-2026",
     "numberOfShares": "100,000,000 ORDINARY SHARES",
     "consideration": "NIL DUE TO INHERITANCE FROM THE ESTATE OF DR LIN YUCHENG",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/8ANKOYYCM8RD8JXH/18c66f87e48cdf39ac43ce6970014cf5d769d7f7d8026b8b78d3888397a98a0d",
@@ -67,6 +123,34 @@
     "transactionDate": "22-Sep-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/RQ2K81TC0GXRH4Y4/e782911a524a88978e022fc924666f4efcbc6682d4e88eb5587fffb5ce01c8d0",
+    "dateTime": "23 Sep 2026 07:11 PM",
+    "issuerName": "METROCON HOLDINGS LIMITED",
+    "securityName": "METROCON HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest / Changes in Interest of Substantial Shareholders",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/RQ2K81TC0GXRH4Y4/904842__Form%203%20-%20LBD%20Engineering%20-%20Final.pdf",
+    "formType": "Form 3",
+    "entity": "LBD Engineering Pte. Ltd. / Alvin Lim Yee Hong / Lim Ban Dian",
+    "transactionDate": "21-Sep-2026",
+    "numberOfShares": "424,000 shares",
+    "consideration": "S$99,343.20",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/S25WI1LRN2JJ36WK/a2bfa71ba44c463d2925b76126e429da04811d0191c9c0a78a1f79013c0c5877",
+    "dateTime": "23 Sep 2026 05:39 PM",
+    "issuerName": "DUTY FREE INTERNATIONAL LIMITED",
+    "securityName": "DUTY FREE INTERNATIONALLIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Notification Form for Director in respect of Interests in Securities",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/S25WI1LRN2JJ36WK/904814__eFORM1V2%20CSL%2022092026.pdf",
+    "formType": "Form 1",
+    "entity": "CHEW SOO LIN",
+    "transactionDate": "21-Sep-2026",
+    "numberOfShares": "200",
+    "consideration": "S$13.00",
     "notify": 0
   },
   {
@@ -333,6 +417,20 @@
     "transactionDate": "18-Sep-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/U44TNA4IZ45SEJZ8/d76c44b5de2ab926e3eea6bf4e9a6d4242ddd5a83b49b699df54b900709e99da",
+    "dateTime": "23 Sep 2026 07:10 PM",
+    "issuerName": "METROCON HOLDINGS LIMITED",
+    "securityName": "METROCON HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/U44TNA4IZ45SEJZ8/904840__Form%201%20-%20Alvin%20Lim%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Alvin Lim Yee Hong",
+    "transactionDate": "17-Sep-2026",
+    "numberOfShares": "300,000 shares",
+    "consideration": "S$71,400",
     "notify": 0
   },
   {
@@ -33272,6 +33370,20 @@
     "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/GTZC7B7WVCFAIUYL/894092__eFORM1V2%20-%20Ong%20Choon%20Yi.pdf",
     "formType": "Form 1",
     "entity": "Ong Choon Yi (Wang Junyi)",
+    "transactionDate": null,
+    "numberOfShares": null,
+    "consideration": null,
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/A66L6D78611O2HN9/a7b2afb2c0ddcf17541105c35468f22e8ce5442a6645d097afdf112f2529127d",
+    "dateTime": "23 Sep 2026 09:35 PM",
+    "issuerName": "DBS GROUP HOLDINGS LTD",
+    "securityName": "DBS GROUP HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Becoming a Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/A66L6D78611O2HN9/_DBS%2021.09.26%20Form%203_Blackrock_final.pdf",
+    "formType": null,
+    "entity": null,
     "transactionDate": null,
     "numberOfShares": null,
     "consideration": null,
