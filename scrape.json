@@ -11,7 +11,7 @@
     "transactionDate": "02-Oct-2026",
     "numberOfShares": "4,326,815 units",
     "consideration": "S$1.50 per unit",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/R1CWZELXP6UEM24S/30afbaefd180da617e1be1423c90b1835e7e6931f03038871a7b9bb326fb1443",
@@ -53,7 +53,7 @@
     "transactionDate": "02-Oct-2026",
     "numberOfShares": "800,000 ordinary shares",
     "consideration": "S$133,200",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/6YK0BJNHSQO90HCP/d8f43058353afe465689e74b36244dff664c9b5d0f910d2fee79c6caf9d8d93f",
