@@ -25,7 +25,7 @@
     "transactionDate": "09-Oct-2026",
     "numberOfShares": "2,721,300 ordinary shares",
     "consideration": "S$1,481,040.31",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/F5O8RC1FUQP3BYCJ/997ad7b8260d8ebc18ce347c6b715bed423674a69e132619a9eced7418c18e55",
@@ -53,7 +53,7 @@
     "transactionDate": "09-Oct-2026",
     "numberOfShares": "12,729,085 - Elected to receive shares (scrip dividend) in lieu of cash dividend",
     "consideration": "S$0.123 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/RWVHWMQMQ5T2PFG4/7e92f8fddbf0077c8a18a1be515c58ce26d9bec7892d52709dd5be3dee8494fb",
@@ -81,7 +81,7 @@
     "transactionDate": "09-Oct-2026",
     "numberOfShares": "500,000",
     "consideration": "S$160,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/GCW4F5H0D65G3B8H/ce5f00e4474536325bec50c75734f0dbdc584e1f76e7f69e7715dc9c8d989df9",
@@ -95,7 +95,7 @@
     "transactionDate": "09-Oct-2026",
     "numberOfShares": "107,700 shares",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/GL1VTKNXMDUEYJN4/ee33e4479793b4df4c9a815b57b889612c04acf027fc7198ebcfe8c1d322f59c",
