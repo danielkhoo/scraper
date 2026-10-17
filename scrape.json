@@ -11,7 +11,7 @@
     "transactionDate": "16-Oct-2026",
     "numberOfShares": "Disposal of S$2,000,000 in aggregate principal amount of 6.25 per cent. Notes due 2027",
     "consideration": "S$2,020,000",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/YAJZ6RCHQ0XAV2RB/c2e43ceb96b935cd62bc38b0da4e8d7fe609eecacbb1701b3a8768e9e14402d6",
@@ -25,7 +25,7 @@
     "transactionDate": "16-Oct-2026",
     "numberOfShares": "317,400",
     "consideration": "S$96,720",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/A7VANDKRCSMFDXJD/eddd223312c50e59fb9c8716474c0acf8f6eed9fe5a53665e781cdb195f4d0ce",
@@ -67,7 +67,7 @@
     "transactionDate": "16-Oct-2026",
     "numberOfShares": "300,000",
     "consideration": "S$91,500",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/R1568YEYA80Z7ZA6/478341b601de519f110843f8dd18fc0b6e189a2b195fd400c39cda3b9e1e4a55",
@@ -81,6 +81,20 @@
     "transactionDate": "16-Oct-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/04WGSUFUILXE3IGQ/38bc43afe76129ad7bcc5bfb2bf6b30c0961491c4b2dbe070311dce4b1331411",
+    "dateTime": "17 Oct 2026 06:35 PM",
+    "issuerName": "YOMA STRATEGIC HOLDINGS LTD.",
+    "securityName": "YOMA STRATEGIC HOLDINGS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest/Change in Interest of Substantial Shareholder Kopernik Global Investors, LLC",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/04WGSUFUILXE3IGQ/907397__eFORM3V2%20-%20FINAL17OCT2026.pdf",
+    "formType": "Form 3",
+    "entity": "Kopernik Global Investors, LLC",
+    "transactionDate": "15-Oct-2026",
+    "numberOfShares": "11,373,200",
+    "consideration": "0.077 per share",
     "notify": 0
   },
   {
