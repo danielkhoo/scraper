@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/X0QANV54UHTUI6FS/0994f843c896fd4df1958c9e1845c8fca165bba52aaa1d00d793725f09bc384f",
+    "dateTime": "22 Oct 2026 05:58 PM",
+    "issuerName": "ASPIAL LIFESTYLE LIMITED",
+    "securityName": "ASPIAL LIFESTYLE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes In Interest of Director - Koh Wee Seng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/X0QANV54UHTUI6FS/907858__KWS%20-%20Form%201.pdf",
+    "formType": "Form 1",
+    "entity": "Koh Wee Seng",
+    "transactionDate": "22-Oct-2026",
+    "numberOfShares": "200,000",
+    "consideration": "S$61,000",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4LRQEY6P1P4UDYIK/97bc1d2a4aa761787744b9c63249e13df5d5d41c4432200f1625c2ffa91ed8b4",
+    "dateTime": "22 Oct 2026 05:35 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4LRQEY6P1P4UDYIK/907839__eFORM1_ChengWK_221026_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "22-Oct-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/4BW0J6PDSLQSRFCQ/3c9608cda991ba7a99ca2eece9d80d02decd86468cbb2a347a6114ecd9f7ad4a",
+    "dateTime": "22 Oct 2026 06:12 PM",
+    "issuerName": "HYPHENS PHARMA INTERNATIONAL LIMITED",
+    "securityName": "HYPHENS PHARMA INTL LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change of Director's Interest - Lim See Wah",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/4BW0J6PDSLQSRFCQ/907863__Form%201%20-%20Lim%20See%20Wah.pdf",
+    "formType": "Form 1",
+    "entity": "Lim See Wah",
+    "transactionDate": "21-Oct-2026",
+    "numberOfShares": "60,000",
+    "consideration": "S$21,600",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/W7JUUOPF94PK97BM/4361f68b1499e87ba75cf580e2e679fe6671e93b8188dd6f922ad3d1bfd89e01",
+    "dateTime": "22 Oct 2026 05:56 PM",
+    "issuerName": "HONG FOK CORPORATION LIMITED",
+    "securityName": "HONG FOK CORPORATION LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/W7JUUOPF94PK97BM/907856__FORM1_CSE.pdf",
+    "formType": "Form 1",
+    "entity": "Cheong Sim Eng",
+    "transactionDate": "21-Oct-2026",
+    "numberOfShares": "74,000",
+    "consideration": "$69,422.36",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/UVRMVCCK5JS5N4FT/c4c2d87f1d9e90ae036190bf58d86cb4009e4368cbc98329ec5f3d95df81af10",
     "dateTime": "21 Oct 2026 09:39 PM",
     "issuerName": "ACROMETA GROUP LIMITED",
@@ -11,7 +67,7 @@
     "transactionDate": "21-Oct-2026",
     "numberOfShares": "4,500,000",
     "consideration": "S$49,500",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/FB9GMA9HGUHL93LR/440d089a95117d3d4a145766e9f1941e1a7ad0a3e09896edba5d69cd29f8da0d",
@@ -25,7 +81,7 @@
     "transactionDate": "21-Oct-2026",
     "numberOfShares": "103,000",
     "consideration": "S$31,915",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/30VMQZORGVW5A9TT/41351ec416834be3d9ef3c45803dc4861d21bd2d0119e61fa137286fa8d4216d",
@@ -81,6 +137,34 @@
     "transactionDate": "21-Oct-2026",
     "numberOfShares": "80,000",
     "consideration": "S$32,800",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/X5DHCQUNNFEV1QXC/003e0e0fb10f07b032ef8e753d2d7b77082862e53419d05182e259e3a434c6a4",
+    "dateTime": "22 Oct 2026 12:16 PM",
+    "issuerName": "ALL-LINK AIR & SEA LIMITED",
+    "securityName": "ALL-LINK AIR & SEA LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest of Director and Chief Executive Officer - Neo Lip Pheng, Peter",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/X5DHCQUNNFEV1QXC/907807__ALS%20-%20Form%201%20-%20Peter%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Neo Lip Pheng, Peter",
+    "transactionDate": "20-Oct-2026",
+    "numberOfShares": "8,300 Ordinary Shares",
+    "consideration": "S$3,610.50",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/5VD95WN9IABXJX5W/901b4680d41fbb7120e422604e4c260f4b239d292c66e2e211804fa1dca02f22",
+    "dateTime": "22 Oct 2026 05:18 PM",
+    "issuerName": "VENTURE CORPORATION LIMITED",
+    "securityName": "VENTURE CORPORATION LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Becoming a Substantial Shareholder",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/5VD95WN9IABXJX5W/907819__Form_3_BlackRock-20.10.2026_final.pdf",
+    "formType": "Form 3",
+    "entity": "BlackRock, Inc.",
+    "transactionDate": "20-Oct-2026",
+    "numberOfShares": "1,071,527",
+    "consideration": "N/A",
     "notify": 0
   },
   {
@@ -235,6 +319,20 @@
     "transactionDate": "20-Oct-2026",
     "numberOfShares": "4,313",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VEZTBRL2PQGGANVV/17071bc5e4eaabcfa5f4d509afcc969b5049c5a23f703c9ac7ecc51fce7751ed",
+    "dateTime": "22 Oct 2026 05:29 PM",
+    "issuerName": "A-SONIC AEROSPACE LIMITED",
+    "securityName": "A-SONIC AEROSPACE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VEZTBRL2PQGGANVV/907831__eFORM1V2_22102026.pdf",
+    "formType": "Form 1",
+    "entity": "JANET LC TAN",
+    "transactionDate": "19-Oct-2026",
+    "numberOfShares": "Purchase of 7,200 shares at S$0.54257 each at open market",
+    "consideration": "S$3,906.50",
     "notify": 0
   },
   {
