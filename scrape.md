@@ -2,6 +2,7 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="IAGN7G4HHVC1E4JP"></a>23-Oct-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 1,900,000 | S$549,250 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IAGN7G4HHVC1E4JP/908072__KWS%20-%20Form%201.pdf) |
 | <a id="Y20GRIYUTU6H5NTJ"></a>23-Oct-2026 | SOH LOONG CHOW JACKIE | LINCOTRADE&ASSOCIATES HLDG LTD | 39,400 shares | S$0.255 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Y20GRIYUTU6H5NTJ/908025__Form%201%20-%20Soh%20Loong%20Chow%20Jackie%20-%2023%20Oct%202026.pdf) |
 | <a id="XM8Y87B4SGTMBUTI"></a>23-Oct-2026 | FEO Hospitality Asset Management Pte. Ltd. | FAR EAST HOSPITALITY TRUST | 165,234,872 stapled securities | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XM8Y87B4SGTMBUTI/908015__FEOHAM%20-%20eFORM3V2_20261023_final.pdf) |
 | <a id="PGB7QP3Q142QQPI4"></a>23-Oct-2026 | N/A | FAR EAST HOSPITALITY TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PGB7QP3Q142QQPI4/908009__eFORM6V2_20261023%20-%20Final.pdf) |

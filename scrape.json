@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/IAGN7G4HHVC1E4JP/1ad21316cdcc0dffed8b0470f99db3a0761a5a58f9dd27ada9cd4ad97e627884",
+    "dateTime": "24 Oct 2026 03:09 PM",
+    "issuerName": "ASPIAL LIFESTYLE LIMITED",
+    "securityName": "ASPIAL LIFESTYLE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes In Interest of Director - Koh Wee Seng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/IAGN7G4HHVC1E4JP/908072__KWS%20-%20Form%201.pdf",
+    "formType": "Form 1",
+    "entity": "Koh Wee Seng",
+    "transactionDate": "23-Oct-2026",
+    "numberOfShares": "1,900,000",
+    "consideration": "S$549,250",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/Y20GRIYUTU6H5NTJ/d54b2de00b4ea0ec1f7aafc760613286270c16d0108f7c84aa0c113fd94c801f",
     "dateTime": "23 Oct 2026 06:22 PM",
     "issuerName": "LINCOTRADE & ASSOCIATES HOLDINGS LIMITED",
@@ -25,7 +39,7 @@
     "transactionDate": "23-Oct-2026",
     "numberOfShares": "165,234,872 stapled securities",
     "consideration": "N.A.",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/PGB7QP3Q142QQPI4/46eccfd80ebb42683d09a99aaac5a2cc75b902b42dfcba1cdc4804b9d017977f",
