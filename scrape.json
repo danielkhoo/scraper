@@ -1,5 +1,33 @@
 [
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/VCJWAPW9GBXXQKWH/d9801797086047e10637137a6051d6a2753176711b9ca582484b3cecaf67a8aa",
+    "dateTime": "03 Nov 2026 06:27 PM",
+    "issuerName": "ASPIAL LIFESTYLE LIMITED",
+    "securityName": "ASPIAL LIFESTYLE LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Changes In Interest of Director - Koh Wee Seng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/VCJWAPW9GBXXQKWH/910275__KWS%20-%20Form%201.pdf",
+    "formType": "Form 1",
+    "entity": "Koh Wee Seng",
+    "transactionDate": "03-Nov-2026",
+    "numberOfShares": "1,600,000",
+    "consideration": "S$459,300",
+    "notify": 1
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/1OLK2OLPNVK8B9XJ/f081cf8dea319701f71186a5ed0beecd88b4714848abb3fe2d14da23f9122879",
+    "dateTime": "03 Nov 2026 05:19 PM",
+    "issuerName": "WING TAI HOLDINGS LIMITED",
+    "securityName": "WING TAI HOLDINGS LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/1OLK2OLPNVK8B9XJ/910231__eFORM1_ChengWK_031126_Final.pdf",
+    "formType": "Form 1",
+    "entity": "Cheng Wai Keung",
+    "transactionDate": "03-Nov-2026",
+    "numberOfShares": "N.A.",
+    "consideration": "N.A.",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/K8G5GUA4XOPJQAWN/601fe1a61b8ae6a413cd919994187ac74cc878647af95ce2b549db0ec88512ab",
     "dateTime": "02 Nov 2026 08:30 PM",
     "issuerName": "STONEWEG EREIT MANAGEMENT PTE. LTD.",
@@ -25,7 +53,7 @@
     "transactionDate": "02-Nov-2026",
     "numberOfShares": "204,185 SERT Stapled Securities vested under the SEM Retention Securities Plan (\"RSP\")",
     "consideration": "Nil",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/U3OW4V53PM7LPF4F/bae791a320234c2778e629a4149086200db58adb49c97cff8a8c79551ee59a77",
@@ -196,6 +224,90 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/WLKXD2QOCHPHIG2J/4b7fdf1df0d270495734519d23738c0b5e575c9e70d7441635b3e2777cec591e",
+    "dateTime": "03 Nov 2026 09:26 PM",
+    "issuerName": "FUXING CHINA GROUP LIMITED",
+    "securityName": "FUXING CHINA GROUP LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest by Director - Hong Peng You",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/WLKXD2QOCHPHIG2J/910307__20261103%20-%20Fuxing_Form%201_HPY.pdf",
+    "formType": "Form 1",
+    "entity": "Hong Peng You",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "29,900",
+    "consideration": "S$13,156",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/8FJ2VPL2BSQD90T7/a51d27a4adfcdb364db62911cb30ede79e631e856a07c7d00b84be6d57773cbc",
+    "dateTime": "03 Nov 2026 08:57 PM",
+    "issuerName": "MDR LIMITED",
+    "securityName": "MDR  LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director (Edward Lee Ewe Ming)",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/8FJ2VPL2BSQD90T7/910304__LEM%20-%20eFORM1V2%20-%20Final.pdf",
+    "formType": "Form 1",
+    "entity": "Edward Lee Ewe Ming",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "331,300",
+    "consideration": "SGD10,321.70",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/DM5NDWN813B13ZAY/8febb8060f4fe45369c7a2e2cec9ce441a7c412c2eda14ce4d30e079f03f966c",
+    "dateTime": "03 Nov 2026 06:18 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - Money Farm Pte. Ltd.",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/DM5NDWN813B13ZAY/910271__eFORM3V2_MONEYFARM_03Nov26.pdf",
+    "formType": "Form 3",
+    "entity": "MONEY FARM PTE. LTD.",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "220,600 shares",
+    "consideration": "S$0.45 per share",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/PRMK6CI0IDM9EAKV/057a45a499333435befad16afd55509e5ddcbf4b7513f94291170dc32fc4555a",
+    "dateTime": "03 Nov 2026 06:18 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change of Interest of Substantial Shareholder - Lim Liang Eng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/PRMK6CI0IDM9EAKV/910269__eFORM3V2_LLE_03Nov26.pdf",
+    "formType": "Form 3",
+    "entity": "LIM LIANG ENG",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "220,600 shares (deemed interest)",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/76HD8ECV6BUZW4OT/535402b943bd74a7e46c5507146b49e6848e9c76d8f7edc8518ca07c34f93ea8",
+    "dateTime": "03 Nov 2026 06:18 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change of Interest of Substantial Shareholder/Director - Lim Yong Sheng",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/76HD8ECV6BUZW4OT/910267__eFORM1V2_LYS_03Nov26.pdf",
+    "formType": "Form 1",
+    "entity": "LIM YONG SHENG",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "220,600 shares (deemed interest)",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/YEGZTI28CXY31BXO/ea32b75c7f645b29a3b4c8262b49f44d9b0ff01aab2eab96736afd7f64afd86f",
+    "dateTime": "03 Nov 2026 06:17 PM",
+    "issuerName": "MONEYMAX FINANCIAL SERVICES LTD.",
+    "securityName": "MONEYMAX FINANCIAL SERVICESLTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change of Interest of Substantial Shareholder/Director - Lim Yong Guan",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/YEGZTI28CXY31BXO/910265__eFORM1V2_LYG_03Nov26.pdf",
+    "formType": "Form 1",
+    "entity": "LIM YONG GUAN",
+    "transactionDate": "30-Oct-2026",
+    "numberOfShares": "220,600 shares (deemed interest)",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/5NMPWNL6Z40P03YO/3dd7d5a59cc088287a6f95db887764b75001566bec39fea57ddd2fae662b2147",
     "dateTime": "02 Nov 2026 07:01 PM",
     "issuerName": "FEO HOSPITALITY ASSET MANAGEMENT PTE. LTD.",
@@ -347,6 +459,20 @@
     "transactionDate": "29-Oct-2026",
     "numberOfShares": "99,500",
     "consideration": "S$35,595.00",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/JIULS2HSYHDAH5YA/7c97b3bc20a8e99a6ec23d6c2eb392e4898a9e44c7d1d4ec68c35933203074bd",
+    "dateTime": "03 Nov 2026 05:27 PM",
+    "issuerName": "NERA TELECOMMUNICATIONS LTD",
+    "securityName": "NERATELECOMMUNICATIONS LTD",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest / Changes in Interest of Director / Chief Executive Officer",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/JIULS2HSYHDAH5YA/910241__eFORM1V2.pdf",
+    "formType": "Form 1",
+    "entity": "CHU, FU-CHUAN",
+    "transactionDate": "29-Oct-2026",
+    "numberOfShares": "5000",
+    "consideration": "SGD765.00",
     "notify": 0
   },
   {
@@ -658,6 +784,20 @@
     "notify": 0
   },
   {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/KHTXXWNNJJW5HQMB/f4c0a12b6ec03fef737577368ab75bfd7c36a4dda17c02896836fa47a1ee555e",
+    "dateTime": "03 Nov 2026 05:02 PM",
+    "issuerName": "GSH CORPORATION LIMITED",
+    "securityName": "GSH CORPORATION LIMITED",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of a Director - Goi Seng Hui",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/KHTXXWNNJJW5HQMB/910226__Dr%20Goi%20-%20Form%201%20dd%2003.11.26.pdf",
+    "formType": "Form 1",
+    "entity": "Goi Seng Hui",
+    "transactionDate": "28-Oct-2026",
+    "numberOfShares": "500,000,000 shares",
+    "consideration": "NIL",
+    "notify": 0
+  },
+  {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/OBP0F1QA44Y2LI3C/96c7a4fd1b2c4095b62ee9e1f2f331bf253989274217d8da734f8866125f4c8f",
     "dateTime": "02 Nov 2026 08:34 PM",
     "issuerName": "SHOPPER360 LIMITED",
@@ -739,6 +879,20 @@
     "transactionDate": "27-Oct-2026",
     "numberOfShares": "N.A.",
     "consideration": "N.A.",
+    "notify": 0
+  },
+  {
+    "link": "https://links.sgx.com/1.0.0/corporate-announcements/85FR9DGRU4REYAX4/830288ef4b9cc11db6b7d1e0cd8626af450a98b20495ac8d89ea1491537808ef",
+    "dateTime": "03 Nov 2026 05:39 PM",
+    "issuerName": "CAPITALAND INDIA TRUST MANAGEMENT PTE. LTD.",
+    "securityName": "CAPITALAND INDIA TRUST",
+    "title": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Change in Interest of Substantial Unitholder - Temasek Holdings (Private) Limited",
+    "attachment": "https://links.sgx.com/1.0.0/corporate-announcements/85FR9DGRU4REYAX4/910251__CLINT%2020261102%20FORM%203_TH%20final.pdf",
+    "formType": "Form 3",
+    "entity": "Temasek Holdings (Private) Limited (\"Temasek\")",
+    "transactionDate": "27-Oct-2026",
+    "numberOfShares": "300,000 Call Options acquired by DBS Bank Ltd. (\"DBS Bank\").",
+    "consideration": "S$272,490.00 paid by DBS Bank.",
     "notify": 0
   },
   {
