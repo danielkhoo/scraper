@@ -2,7 +2,6 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
-| <a id="VCJWAPW9GBXXQKWH"></a>03-Nov-2026 | Koh Wee Seng | ASPIAL LIFESTYLE LIMITED | 1,600,000 | S$459,300 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VCJWAPW9GBXXQKWH/910275__KWS%20-%20Form%201.pdf) |
 | <a id="1OLK2OLPNVK8B9XJ"></a>03-Nov-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1OLK2OLPNVK8B9XJ/910231__eFORM1_ChengWK_031126_Final.pdf) |
 | <a id="K8G5GUA4XOPJQAWN"></a>02-Nov-2026 | N/A | MULTIPLE | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/K8G5GUA4XOPJQAWN/910176__SERT-eFORM6-SEM.pdf) |
 | <a id="KV7IP4SBQUIZVR0W"></a>02-Nov-2026 | SIMON ROBERT GARING | MULTIPLE | 204,185 SERT Stapled Securities vested under the SEM Retention Securities Plan ("RSP") | Nil | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/KV7IP4SBQUIZVR0W/910174__SERT-eFORM1-Simon.pdf) |
@@ -18,11 +17,6 @@
 | <a id="G37EC2G1IKEV9769"></a>30-Oct-2026 | CHAN WEI JIE (ZENG WEI JIE) | TOTM TECHNOLOGIES LIMITED | 12,499,998 ordinary shares | Not applicable. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/G37EC2G1IKEV9769/909885__Form%20-%201%20Chan%20Wei%20Jie.pdf) |
 | <a id="N5D9OUOS8KND5FYF"></a>30-Oct-2026 | Cheng Wai Keung | WING TAI HOLDINGS LIMITED | N.A. | N.A. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/N5D9OUOS8KND5FYF/909857__eFORM1_ChengWK_301026_Final.pdf) |
 | <a id="QRUX5FJ4KJ15Z21V"></a>30-Oct-2026 | N/A | KEPPEL REIT | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/QRUX5FJ4KJ15Z21V/909855__MAS%20Form%206_Notification%20Form_30102026_final.pdf) |
-| <a id="WLKXD2QOCHPHIG2J"></a>30-Oct-2026 | Hong Peng You | FUXING CHINA GROUP LIMITED | 29,900 | S$13,156 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WLKXD2QOCHPHIG2J/910307__20261103%20-%20Fuxing_Form%201_HPY.pdf) |
-| <a id="8FJ2VPL2BSQD90T7"></a>30-Oct-2026 | Edward Lee Ewe Ming | MDR  LIMITED | 331,300 | SGD10,321.70 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8FJ2VPL2BSQD90T7/910304__LEM%20-%20eFORM1V2%20-%20Final.pdf) |
-| <a id="DM5NDWN813B13ZAY"></a>30-Oct-2026 | MONEY FARM PTE. LTD. | MONEYMAX FINANCIAL SERVICESLTD | 220,600 shares | S$0.45 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/DM5NDWN813B13ZAY/910271__eFORM3V2_MONEYFARM_03Nov26.pdf) |
-| <a id="PRMK6CI0IDM9EAKV"></a>30-Oct-2026 | LIM LIANG ENG | MONEYMAX FINANCIAL SERVICESLTD | 220,600 shares (deemed interest) | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PRMK6CI0IDM9EAKV/910269__eFORM3V2_LLE_03Nov26.pdf) |
-| <a id="76HD8ECV6BUZW4OT"></a>30-Oct-2026 | LIM YONG SHENG | MONEYMAX FINANCIAL SERVICESLTD | 220,600 shares (deemed interest) | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/76HD8ECV6BUZW4OT/910267__eFORM1V2_LYS_03Nov26.pdf) |
 | <a id="YEGZTI28CXY31BXO"></a>30-Oct-2026 | LIM YONG GUAN | MONEYMAX FINANCIAL SERVICESLTD | 220,600 shares (deemed interest) | NIL | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/YEGZTI28CXY31BXO/910265__eFORM1V2_LYG_03Nov26.pdf) |
 | <a id="5NMPWNL6Z40P03YO"></a>30-Oct-2026 | N/A | FAR EAST HOSPITALITY TRUST | N.A. | 3. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5NMPWNL6Z40P03YO/910163__FEOHTM%20eFORM5V2%20-%20FEOC%20deemed.pdf) |
 | <a id="W34ZS41ILJDVDFB1"></a>30-Oct-2026 | N/A | FAR EAST HOSPITALITY TRUST | 63,042 shares | 3. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/W34ZS41ILJDVDFB1/910161__FEOHTM%20eFORM5V2%20-%20FEOAM%20direct.pdf) |
@@ -2865,8 +2859,28 @@
 | <a id="3KQKAT6XUH0QQ80J"></a>N/A | Sharon Tay Lee Teng | N/A | 6.Amount of consideration paid or received by Director/CEO (excluding brokerage and stamp | A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/3KQKAT6XUH0QQ80J/874591__KBG_eFORM1V2%20-%20ST.pdf) |
 | <a id="VJ6MNXU6CEFTT243"></a>N/A | Gan Shiying | MULTIPLE | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VJ6MNXU6CEFTT243/906139__eFORM1V2%20-%20Gan%20Shiying%205%20October%202026.pdf) |
 | <a id="L3C68RL9MAHRNX7J"></a>N/A | Yeo Boon Keong | KIMLY LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/L3C68RL9MAHRNX7J/882087__Kimly%20-%20Form%201_Yeo%20Boon%20Keong.pdf) |
+| <a id="0NI5EIKVQT34QH18"></a>N/A | N/A | NETLINK NBN TRUST | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/0NI5EIKVQT34QH18/910338__eFORM1V2%20-%20Tong%20Yew%20Heng%20-%2020261103%20-%20final.pdf) |
+| <a id="N6QQ92JUYH0THE5P"></a>N/A | N/A | MI MATERIAL HOLDING LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/N6QQ92JUYH0THE5P/910430__Form%201%20-%20Oh%20Kuang%20Eng.pdf) |
+| <a id="7ZOYY2ZX522KUU18"></a>N/A | N/A | ASPIALLIFEST S$70M6.25%N270924 | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/7ZOYY2ZX522KUU18/910426__KWS%20-%20Form%201.pdf) |
+| <a id="V9GIIKTJR58X3A8X"></a>N/A | N/A | ASPIALLIFEST S$75M5.1%N291029 | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/V9GIIKTJR58X3A8X/910424__KWS%20-%20Form%201.pdf) |
+| <a id="X924E31K4LC1B0OS"></a>N/A | N/A | WINKING STUDIOS LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/X924E31K4LC1B0OS/910328__WKS_eFORM1%20-%20Hsu%20Ting-Yang.pdf) |
+| <a id="5BDR3DL2J18K2MOR"></a>N/A | N/A | WILMAR INTERNATIONAL LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/5BDR3DL2J18K2MOR/910391__FORM1_GY_4.11.26.final.pdf) |
+| <a id="PSUC9EL1TAOZ7M51"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PSUC9EL1TAOZ7M51/910388__SGP%20BVI%20-%20Form%203%202026.11.03.pdf) |
+| <a id="XCBDFU8Z9DC00MIO"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/XCBDFU8Z9DC00MIO/910386__Baccini%20-%20Form%203%202026.11.03.pdf) |
+| <a id="1WO2G7XTAF8DPPDR"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/1WO2G7XTAF8DPPDR/910383__Jonathan%20Ang%20-%20Form%201%202026.11.03.pdf) |
+| <a id="P5WGWP9X23QHETEB"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/P5WGWP9X23QHETEB/910380__Soh%20Cheng%20Joo%20-%20Form%201%202026.11.03.pdf) |
+| <a id="AN94Z9IRZAUO0PKK"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/AN94Z9IRZAUO0PKK/910378__Jee%20Wee%20Jene%20-%20Form%201%202026.11.03.pdf) |
+| <a id="92595JHQ9D91YDJZ"></a>N/A | N/A | METASURFACE TECHNOLOGIES | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/92595JHQ9D91YDJZ/910375__Chua%20Chwee%20Lee%20-%20Form%201%202026.11.03.pdf) |
+| <a id="Z2VDA10SNGBRWGSR"></a>N/A | N/A | MULTIPLE | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/Z2VDA10SNGBRWGSR/910373__eFORM1V2%20Goh%20Choon%20Phong%204Nov2026%20adjustments.pdf) |
+| <a id="HFN762YZM5NWZAEN"></a>N/A | N/A | WING TAI HOLDINGS LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/HFN762YZM5NWZAEN/910354__eFORM1_ChengWK_041126_Final.pdf) |
 | <a id="YD1AXF9AG3XMPPDQ"></a>N/A | Christopher Wong Mun Yick | CAPITALAND ASCENDAS REIT | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/YD1AXF9AG3XMPPDQ/887464__eFORM1V2%20-%20Christopher%20-%204%20May%202026.pdf) |
 | <a id="LN917OPNTS63WPXK"></a>N/A | TEH CHOOI PENG | OCTOPUS (APAC) HOLDINGS LTD. | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LN917OPNTS63WPXK/891456__Form%201%20-%20Teh%20Chooi%20Peng.pdf) |
+| <a id="WLKXD2QOCHPHIG2J"></a>N/A | N/A | FUXING CHINA GROUP LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/WLKXD2QOCHPHIG2J/910307__20261103%20-%20Fuxing_Form%201_HPY.pdf) |
+| <a id="8FJ2VPL2BSQD90T7"></a>N/A | N/A | MDR  LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/8FJ2VPL2BSQD90T7/910304__LEM%20-%20eFORM1V2%20-%20Final.pdf) |
+| <a id="VCJWAPW9GBXXQKWH"></a>N/A | N/A | ASPIAL LIFESTYLE LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/VCJWAPW9GBXXQKWH/910275__KWS%20-%20Form%201.pdf) |
+| <a id="DM5NDWN813B13ZAY"></a>N/A | N/A | MONEYMAX FINANCIAL SERVICESLTD | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/DM5NDWN813B13ZAY/910271__eFORM3V2_MONEYFARM_03Nov26.pdf) |
+| <a id="PRMK6CI0IDM9EAKV"></a>N/A | N/A | MONEYMAX FINANCIAL SERVICESLTD | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/PRMK6CI0IDM9EAKV/910269__eFORM3V2_LLE_03Nov26.pdf) |
+| <a id="76HD8ECV6BUZW4OT"></a>N/A | N/A | MONEYMAX FINANCIAL SERVICESLTD | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/76HD8ECV6BUZW4OT/910267__eFORM1V2_LYS_03Nov26.pdf) |
 | <a id="FWWKA5R9ZZUW9JEB"></a>N/A | Leong Kok Keong | KEPPEL REIT | 6.Amount of consideration paid or received by Director/CEO (excluding brokerage and stamp | A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/FWWKA5R9ZZUW9JEB/895281__KREIT_Form%201_LKK_30Jun26_final.pdf) |
 | <a id="LB6QCCGBF5AAK3Y3"></a>N/A | Goh Chyan Pit | SASSEUR REIT | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LB6QCCGBF5AAK3Y3/898361__Form_1-%20Goh%20Chyan%20Pit.pdf) |
 | <a id="IEASNGY4Q41BRBF2"></a>N/A | Chong Kin Leong | GENTING SINGAPORE LIMITED | N/A | N/A | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/IEASNGY4Q41BRBF2/877029__eFORM1V2%20-%20CKL_Final.pdf) |
