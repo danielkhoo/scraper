@@ -2,6 +2,7 @@
 
 | Transaction Date | Entity | Security Name | Number of Shares | Consideration | Attachment |
 |-----------------|--------|---------------|------------------|---------------|------------|
+| <a id="EVNH58UDTCIGKGKG"></a>13-Nov-2026 | Yuen Kuan Moon | SINGTEL | 2,000,000 | S$4.074 per share | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/EVNH58UDTCIGKGKG/911508__Form1-Moon-20261114.pdf) |
 | <a id="LJQLD2WW331GMDY3"></a>13-Nov-2026 | N/A | FRASERS LOGISTICS & COMMERCIAL TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/LJQLD2WW331GMDY3/911457__FLCAM%20-%20Form%206.pdf) |
 | <a id="UBRI470MAC63WAT5"></a>13-Nov-2026 | Tan Kia King | HYPHENS PHARMA INTL LIMITED | 30,000 | S$10,650 | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/UBRI470MAC63WAT5/911455__Form%201%20-%20TKK%2013.11.2026.pdf) |
 | <a id="DQ7MARBX14N9ARSL"></a>13-Nov-2026 | N/A | MAPLETREE PANASIA COM TRUST | N/A | 5. | [PDF](https://links.sgx.com/1.0.0/corporate-announcements/DQ7MARBX14N9ARSL/911416__MPACTM_Form%206_13%20Nov2026.pdf) |
