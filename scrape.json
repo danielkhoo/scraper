@@ -11,7 +11,7 @@
     "transactionDate": "20-Nov-2026",
     "numberOfShares": "440,000 Ordinary Shares",
     "consideration": "S$452,777.60",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/W70X14KKQYSI7DF5/feb586e4602e12d082752f9c2f9e4307555f5e965515e532cf5e0d99bab84dae",
@@ -39,7 +39,7 @@
     "transactionDate": "20-Nov-2026",
     "numberOfShares": "7,970,000",
     "consideration": "$0.0199 per share",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/2HCM92F2SHM90F9S/7af9a42ed532b94adf0289dd1c649bb66a2ce387900acf59ef14ed82a92ec111",
@@ -53,7 +53,7 @@
     "transactionDate": "20-Nov-2026",
     "numberOfShares": "537,700",
     "consideration": "SGD10,828",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/GR4AB1K0596VNFO5/08b21d0ad2af73044412ee961b44b5cdf8b2e35f3386d656d277b81f67a55f67",
@@ -95,7 +95,7 @@
     "transactionDate": "20-Nov-2026",
     "numberOfShares": "100,000 ordinary shares",
     "consideration": "S$19,800",
-    "notify": 1
+    "notify": 0
   },
   {
     "link": "https://links.sgx.com/1.0.0/corporate-announcements/TM5QUUQH8647TD8I/7d3ec4f1accd88be068b5ad5664cc5c0980561d1a178d971913a92745f457a7e",
